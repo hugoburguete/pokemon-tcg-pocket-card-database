@@ -255,7 +255,7 @@
     "id": "a1-283",
     "name": "Mew",
     "element": "Psychic",
-    "type": "Psychic",
+    "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
     "craftingCost": null,
