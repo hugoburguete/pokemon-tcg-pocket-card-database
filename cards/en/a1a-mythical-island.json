@@ -6,7 +6,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Growth Spurt",
@@ -28,7 +28,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Psychic 80+",
@@ -53,7 +53,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Powerful Bloom 50x",
@@ -76,7 +76,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Vine Whip",
@@ -99,7 +99,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Vine Whip",
@@ -122,7 +122,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 110,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Solar Beam",
@@ -152,7 +152,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Ram",
@@ -174,7 +174,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Flickering Spores",
@@ -197,7 +197,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Energy Whip 20+",
@@ -219,7 +219,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Stomp 10+",
@@ -241,7 +241,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Rising Lunge 40+",
@@ -264,7 +264,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Fire Blast",
@@ -287,7 +287,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Combustion",
@@ -310,7 +310,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Volcanic Ash",
@@ -334,7 +334,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Venoshock 10+",
@@ -356,7 +356,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Poison Claws",
@@ -378,7 +378,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 30,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Leap Out",
@@ -400,7 +400,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 180,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Rampaging Whirlpool",
@@ -425,7 +425,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Wave Splash",
@@ -454,7 +454,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Water Gun",
@@ -476,7 +476,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Aqua Liner",
@@ -499,7 +499,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Bite",
@@ -522,7 +522,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Crunch",
@@ -546,7 +546,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Dive",
@@ -570,7 +570,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Circle Circuit 10x",
@@ -592,7 +592,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Gigashock",
@@ -616,7 +616,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Thunder Spear",
@@ -639,7 +639,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 40,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Bug Bite",
@@ -661,7 +661,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Electroweb",
@@ -684,7 +684,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Thunder Shock",
@@ -706,7 +706,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Psy Report",
@@ -728,7 +728,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Psyshot",
@@ -760,7 +760,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Spike Draw",
@@ -782,7 +782,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Headbutt",
@@ -804,7 +804,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Mind Jack 10+",
@@ -826,7 +826,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 40,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Hypnotic Gaze",
@@ -848,7 +848,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Leaf Drain",
@@ -870,7 +870,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Bloomshine",
@@ -893,7 +893,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Fairy Wind",
@@ -915,7 +915,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Magical Shot",
@@ -938,7 +938,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Focus Fist",
@@ -960,7 +960,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Punch",
@@ -982,7 +982,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Light Punch",
@@ -1005,7 +1005,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Lunge Out",
@@ -1028,7 +1028,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Guard Press",
@@ -1053,7 +1053,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Land Crush",
@@ -1081,7 +1081,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Revenge 40+",
@@ -1104,7 +1104,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Mega Kick",
@@ -1128,7 +1128,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Division",
@@ -1150,7 +1150,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 110,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Smokescreen",
@@ -1173,7 +1173,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Scratch",
@@ -1195,7 +1195,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Slash",
@@ -1217,7 +1217,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Ram",
@@ -1239,7 +1239,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Poison Sting",
@@ -1261,7 +1261,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Venoshock 70+",
@@ -1284,7 +1284,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Dragon Claw",
@@ -1313,7 +1313,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Flap",
@@ -1335,7 +1335,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Wing Attack",
@@ -1359,7 +1359,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Scattering Cyclone 80+",
@@ -1383,7 +1383,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 100,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Fighting Tackle 40+",
@@ -1407,7 +1407,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Continuous Steps 20x",
@@ -1429,7 +1429,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Mimic",
@@ -1451,7 +1451,7 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1464,7 +1464,7 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1477,7 +1477,7 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1490,7 +1490,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1503,7 +1503,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1516,7 +1516,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1529,7 +1529,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Psychic 80+",
@@ -1554,7 +1554,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 110,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Solar Beam",
@@ -1584,7 +1584,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Venoshock 10+",
@@ -1606,7 +1606,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Wave Splash",
@@ -1635,7 +1635,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Thunder Shock",
@@ -1657,7 +1657,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Revenge 40+",
@@ -1680,7 +1680,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Powerful Bloom 50x",
@@ -1703,7 +1703,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 180,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Rampaging Whirlpool",
@@ -1728,7 +1728,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Psyshot",
@@ -1760,7 +1760,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Land Crush",
@@ -1788,7 +1788,7 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 170,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Scattering Cyclone 80+",
@@ -1812,7 +1812,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1825,7 +1825,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1838,7 +1838,7 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
@@ -1851,7 +1851,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Psyshot",
@@ -1883,7 +1883,7 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 140,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Land Crush",
@@ -1911,7 +1911,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Powerful Bloom 50x",
@@ -1934,7 +1934,7 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 130,
-    "set": "Space-Time Smackdown (A2)",
+    "set": "Mythical Island (A1a)",
     "attacks": [
       {
         "name": "Psyshot",
