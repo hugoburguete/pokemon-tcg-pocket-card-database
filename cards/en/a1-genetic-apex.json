@@ -5420,7 +5420,7 @@
       {
         "name": "Do the Wave",
         "effects": "This attack does 30 damage for each of your Benched Pokémon.",
-        "damage": "30+",
+        "damage": "30x",
         "cost": [
           "Colorless",
           "Colorless",
