@@ -84,6 +84,18 @@
     "rarity": "Promo"
   },
   {
+    "id": "pa_008",
+    "name": "Pokédex",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "craftingCost": null,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo"
+  },
+  {
     "id": "pa_009",
     "name": "Pikachu",
     "element": "Lightning",
