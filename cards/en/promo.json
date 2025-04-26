@@ -263,16 +263,4 @@
     "pack": "Promo A",
     "rarity": "Promo"
   },
-  {
-    "id": "a1_283",
-    "name": "Mew",
-    "element": "Psychic",
-    "type": "Psychic",
-    "subtype": "Basic",
-    "health": 60,
-    "craftingCost": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Immersive"
-  }
 ]
