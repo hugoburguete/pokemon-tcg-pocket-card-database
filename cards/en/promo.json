@@ -503,7 +503,7 @@
     "attacks": [
       {
         "name": "Inferno Dance",
-        "effect": "Flip 3 coins. Take an amount of fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
+        "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
         "damage": "",
         "cost": [
           "Fire"
