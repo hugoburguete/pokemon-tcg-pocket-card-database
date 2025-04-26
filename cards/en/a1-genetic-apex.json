@@ -1,6 +1,6 @@
 [
   {
-    "id": "a1-001",
+    "id": "a1_001",
     "name": "Bulbasaur",
     "element": "Grass",
     "type": "Pokemon",
@@ -25,7 +25,7 @@
     "abilities": []
   },
   {
-    "id": "a1-002",
+    "id": "a1_002",
     "name": "Ivysaur",
     "element": "Grass",
     "type": "Pokemon",
@@ -51,7 +51,7 @@
     "abilities": []
   },
   {
-    "id": "a1-003",
+    "id": "a1_003",
     "name": "Venusaur",
     "element": "Grass",
     "type": "Pokemon",
@@ -78,7 +78,7 @@
     "abilities": []
   },
   {
-    "id": "a1-004",
+    "id": "a1_004",
     "name": "Venusaur ex",
     "element": "Grass",
     "type": "Pokemon",
@@ -115,7 +115,7 @@
     "abilities": []
   },
   {
-    "id": "a1-005",
+    "id": "a1_005",
     "name": "Caterpie",
     "element": "Grass",
     "type": "Pokemon",
@@ -139,7 +139,7 @@
     "abilities": []
   },
   {
-    "id": "a1-006",
+    "id": "a1_006",
     "name": "Metapod",
     "element": "Grass",
     "type": "Pokemon",
@@ -164,7 +164,7 @@
     "abilities": []
   },
   {
-    "id": "a1-007",
+    "id": "a1_007",
     "name": "Butterfree",
     "element": "Grass",
     "type": "Pokemon",
@@ -195,7 +195,7 @@
     ]
   },
   {
-    "id": "a1-008",
+    "id": "a1_008",
     "name": "Weedle",
     "element": "Grass",
     "type": "Pokemon",
@@ -219,7 +219,7 @@
     "abilities": []
   },
   {
-    "id": "a1-009",
+    "id": "a1_009",
     "name": "Kakuna",
     "element": "Grass",
     "type": "Pokemon",
@@ -243,7 +243,7 @@
     "abilities": []
   },
   {
-    "id": "a1-010",
+    "id": "a1_010",
     "name": "Beedrill",
     "element": "Grass",
     "type": "Pokemon",
@@ -267,7 +267,7 @@
     "abilities": []
   },
   {
-    "id": "a1-011",
+    "id": "a1_011",
     "name": "Oddish",
     "element": "Grass",
     "type": "Pokemon",
@@ -291,7 +291,7 @@
     "abilities": []
   },
   {
-    "id": "a1-012",
+    "id": "a1_012",
     "name": "Gloom",
     "element": "Grass",
     "type": "Pokemon",
@@ -316,7 +316,7 @@
     "abilities": []
   },
   {
-    "id": "a1-013",
+    "id": "a1_013",
     "name": "Vileplume",
     "element": "Grass",
     "type": "Pokemon",
@@ -342,7 +342,7 @@
     "abilities": []
   },
   {
-    "id": "a1-014",
+    "id": "a1_014",
     "name": "Paras",
     "element": "Grass",
     "type": "Pokemon",
@@ -367,7 +367,7 @@
     "abilities": []
   },
   {
-    "id": "a1-015",
+    "id": "a1_015",
     "name": "Parasect",
     "element": "Grass",
     "type": "Pokemon",
@@ -393,7 +393,7 @@
     "abilities": []
   },
   {
-    "id": "a1-016",
+    "id": "a1_016",
     "name": "Venonat",
     "element": "Grass",
     "type": "Pokemon",
@@ -417,7 +417,7 @@
     "abilities": []
   },
   {
-    "id": "a1-017",
+    "id": "a1_017",
     "name": "Venomoth",
     "element": "Grass",
     "type": "Pokemon",
@@ -441,7 +441,7 @@
     "abilities": []
   },
   {
-    "id": "a1-018",
+    "id": "a1_018",
     "name": "Bellsprout",
     "element": "Grass",
     "type": "Pokemon",
@@ -465,7 +465,7 @@
     "abilities": []
   },
   {
-    "id": "a1-019",
+    "id": "a1_019",
     "name": "Weepinbell",
     "element": "Grass",
     "type": "Pokemon",
@@ -490,7 +490,7 @@
     "abilities": []
   },
   {
-    "id": "a1-020",
+    "id": "a1_020",
     "name": "Victreebel",
     "element": "Grass",
     "type": "Pokemon",
@@ -520,7 +520,7 @@
     ]
   },
   {
-    "id": "a1-021",
+    "id": "a1_021",
     "name": "Exeggcute",
     "element": "Grass",
     "type": "Pokemon",
@@ -544,7 +544,7 @@
     "abilities": []
   },
   {
-    "id": "a1-022",
+    "id": "a1_022",
     "name": "Exeggutor",
     "element": "Grass",
     "type": "Pokemon",
@@ -568,7 +568,7 @@
     "abilities": []
   },
   {
-    "id": "a1-023",
+    "id": "a1_023",
     "name": "Exeggutor ex",
     "element": "Grass",
     "type": "Pokemon",
@@ -592,7 +592,7 @@
     "abilities": []
   },
   {
-    "id": "a1-024",
+    "id": "a1_024",
     "name": "Tangela",
     "element": "Grass",
     "type": "Pokemon",
@@ -617,7 +617,7 @@
     "abilities": []
   },
   {
-    "id": "a1-025",
+    "id": "a1_025",
     "name": "Scyther",
     "element": "Grass",
     "type": "Pokemon",
@@ -641,7 +641,7 @@
     "abilities": []
   },
   {
-    "id": "a1-026",
+    "id": "a1_026",
     "name": "Pinsir",
     "element": "Grass",
     "type": "Pokemon",
@@ -666,7 +666,7 @@
     "abilities": []
   },
   {
-    "id": "a1-027",
+    "id": "a1_027",
     "name": "Cottonee",
     "element": "Grass",
     "type": "Pokemon",
@@ -690,7 +690,7 @@
     "abilities": []
   },
   {
-    "id": "a1-028",
+    "id": "a1_028",
     "name": "Whimsicott",
     "element": "Grass",
     "type": "Pokemon",
@@ -714,7 +714,7 @@
     "abilities": []
   },
   {
-    "id": "a1-029",
+    "id": "a1_029",
     "name": "Petilil",
     "element": "Grass",
     "type": "Pokemon",
@@ -738,7 +738,7 @@
     "abilities": []
   },
   {
-    "id": "a1-030",
+    "id": "a1_030",
     "name": "Lilligant",
     "element": "Grass",
     "type": "Pokemon",
@@ -763,7 +763,7 @@
     "abilities": []
   },
   {
-    "id": "a1-031",
+    "id": "a1_031",
     "name": "Skiddo",
     "element": "Grass",
     "type": "Pokemon",
@@ -787,7 +787,7 @@
     "abilities": []
   },
   {
-    "id": "a1-032",
+    "id": "a1_032",
     "name": "Gogoat",
     "element": "Grass",
     "type": "Pokemon",
@@ -813,7 +813,7 @@
     "abilities": []
   },
   {
-    "id": "a1-033",
+    "id": "a1_033",
     "name": "Charmander",
     "element": "Fire",
     "type": "Pokemon",
@@ -837,7 +837,7 @@
     "abilities": []
   },
   {
-    "id": "a1-034",
+    "id": "a1_034",
     "name": "Charmeleon",
     "element": "Fire",
     "type": "Pokemon",
@@ -863,7 +863,7 @@
     "abilities": []
   },
   {
-    "id": "a1-035",
+    "id": "a1_035",
     "name": "Charizard",
     "element": "Fire",
     "type": "Pokemon",
@@ -890,7 +890,7 @@
     "abilities": []
   },
   {
-    "id": "a1-036",
+    "id": "a1_036",
     "name": "Charizard ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -927,7 +927,7 @@
     "abilities": []
   },
   {
-    "id": "a1-037",
+    "id": "a1_037",
     "name": "Vulpix",
     "element": "Fire",
     "type": "Pokemon",
@@ -951,7 +951,7 @@
     "abilities": []
   },
   {
-    "id": "a1-038",
+    "id": "a1_038",
     "name": "Ninetales",
     "element": "Fire",
     "type": "Pokemon",
@@ -976,7 +976,7 @@
     "abilities": []
   },
   {
-    "id": "a1-039",
+    "id": "a1_039",
     "name": "Growlithe",
     "element": "Fire",
     "type": "Pokemon",
@@ -1001,7 +1001,7 @@
     "abilities": []
   },
   {
-    "id": "a1-040",
+    "id": "a1_040",
     "name": "Arcanine",
     "element": "Fire",
     "type": "Pokemon",
@@ -1027,7 +1027,7 @@
     "abilities": []
   },
   {
-    "id": "a1-041",
+    "id": "a1_041",
     "name": "Arcanine ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -1053,7 +1053,7 @@
     "abilities": []
   },
   {
-    "id": "a1-042",
+    "id": "a1_042",
     "name": "Ponyta",
     "element": "Fire",
     "type": "Pokemon",
@@ -1077,7 +1077,7 @@
     "abilities": []
   },
   {
-    "id": "a1-043",
+    "id": "a1_043",
     "name": "Rapidash",
     "element": "Fire",
     "type": "Pokemon",
@@ -1101,7 +1101,7 @@
     "abilities": []
   },
   {
-    "id": "a1-044",
+    "id": "a1_044",
     "name": "Magmar",
     "element": "Fire",
     "type": "Pokemon",
@@ -1126,7 +1126,7 @@
     "abilities": []
   },
   {
-    "id": "a1-045",
+    "id": "a1_045",
     "name": "Flareon",
     "element": "Fire",
     "type": "Pokemon",
@@ -1152,7 +1152,7 @@
     "abilities": []
   },
   {
-    "id": "a1-046",
+    "id": "a1_046",
     "name": "Moltres",
     "element": "Fire",
     "type": "Pokemon",
@@ -1178,7 +1178,7 @@
     "abilities": []
   },
   {
-    "id": "a1-047",
+    "id": "a1_047",
     "name": "Moltres ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -1212,7 +1212,7 @@
     "abilities": []
   },
   {
-    "id": "a1-048",
+    "id": "a1_048",
     "name": "Heatmor",
     "element": "Fire",
     "type": "Pokemon",
@@ -1236,7 +1236,7 @@
     "abilities": []
   },
   {
-    "id": "a1-049",
+    "id": "a1_049",
     "name": "Salandit",
     "element": "Fire",
     "type": "Pokemon",
@@ -1260,7 +1260,7 @@
     "abilities": []
   },
   {
-    "id": "a1-050",
+    "id": "a1_050",
     "name": "Salazzle",
     "element": "Fire",
     "type": "Pokemon",
@@ -1285,7 +1285,7 @@
     "abilities": []
   },
   {
-    "id": "a1-051",
+    "id": "a1_051",
     "name": "Sizzlipede",
     "element": "Fire",
     "type": "Pokemon",
@@ -1309,7 +1309,7 @@
     "abilities": []
   },
   {
-    "id": "a1-052",
+    "id": "a1_052",
     "name": "Centiskorch",
     "element": "Fire",
     "type": "Pokemon",
@@ -1336,7 +1336,7 @@
     "abilities": []
   },
   {
-    "id": "a1-053",
+    "id": "a1_053",
     "name": "Squirtle",
     "element": "Water",
     "type": "Pokemon",
@@ -1360,7 +1360,7 @@
     "abilities": []
   },
   {
-    "id": "a1-054",
+    "id": "a1_054",
     "name": "Wartortle",
     "element": "Water",
     "type": "Pokemon",
@@ -1385,7 +1385,7 @@
     "abilities": []
   },
   {
-    "id": "a1-055",
+    "id": "a1_055",
     "name": "Blastoise",
     "element": "Water",
     "type": "Pokemon",
@@ -1411,7 +1411,7 @@
     "abilities": []
   },
   {
-    "id": "a1-056",
+    "id": "a1_056",
     "name": "Blastoise ex",
     "element": "Water",
     "type": "Pokemon",
@@ -1446,7 +1446,7 @@
     "abilities": []
   },
   {
-    "id": "a1-057",
+    "id": "a1_057",
     "name": "Psyduck",
     "element": "Water",
     "type": "Pokemon",
@@ -1470,7 +1470,7 @@
     "abilities": []
   },
   {
-    "id": "a1-058",
+    "id": "a1_058",
     "name": "Golduck",
     "element": "Water",
     "type": "Pokemon",
@@ -1495,7 +1495,7 @@
     "abilities": []
   },
   {
-    "id": "a1-059",
+    "id": "a1_059",
     "name": "Poliwag",
     "element": "Water",
     "type": "Pokemon",
@@ -1519,7 +1519,7 @@
     "abilities": []
   },
   {
-    "id": "a1-060",
+    "id": "a1_060",
     "name": "Poliwhirl",
     "element": "Water",
     "type": "Pokemon",
@@ -1544,7 +1544,7 @@
     "abilities": []
   },
   {
-    "id": "a1-061",
+    "id": "a1_061",
     "name": "Poliwrath",
     "element": "Water",
     "type": "Pokemon",
@@ -1575,7 +1575,7 @@
     ]
   },
   {
-    "id": "a1-062",
+    "id": "a1_062",
     "name": "Tentacool",
     "element": "Water",
     "type": "Pokemon",
@@ -1599,7 +1599,7 @@
     "abilities": []
   },
   {
-    "id": "a1-063",
+    "id": "a1_063",
     "name": "Tentacruel",
     "element": "Water",
     "type": "Pokemon",
@@ -1624,7 +1624,7 @@
     "abilities": []
   },
   {
-    "id": "a1-064",
+    "id": "a1_064",
     "name": "Seel",
     "element": "Water",
     "type": "Pokemon",
@@ -1649,7 +1649,7 @@
     "abilities": []
   },
   {
-    "id": "a1-065",
+    "id": "a1_065",
     "name": "Dewgong",
     "element": "Water",
     "type": "Pokemon",
@@ -1675,7 +1675,7 @@
     "abilities": []
   },
   {
-    "id": "a1-066",
+    "id": "a1_066",
     "name": "Shellder",
     "element": "Water",
     "type": "Pokemon",
@@ -1699,7 +1699,7 @@
     "abilities": []
   },
   {
-    "id": "a1-067",
+    "id": "a1_067",
     "name": "Cloyster",
     "element": "Water",
     "type": "Pokemon",
@@ -1730,7 +1730,7 @@
     ]
   },
   {
-    "id": "a1-068",
+    "id": "a1_068",
     "name": "Krabby",
     "element": "Water",
     "type": "Pokemon",
@@ -1755,7 +1755,7 @@
     "abilities": []
   },
   {
-    "id": "a1-069",
+    "id": "a1_069",
     "name": "Kingler",
     "element": "Water",
     "type": "Pokemon",
@@ -1781,7 +1781,7 @@
     "abilities": []
   },
   {
-    "id": "a1-070",
+    "id": "a1_070",
     "name": "Horsea",
     "element": "Water",
     "type": "Pokemon",
@@ -1805,7 +1805,7 @@
     "abilities": []
   },
   {
-    "id": "a1-071",
+    "id": "a1_071",
     "name": "Seadra",
     "element": "Water",
     "type": "Pokemon",
@@ -1831,7 +1831,7 @@
     "abilities": []
   },
   {
-    "id": "a1-072",
+    "id": "a1_072",
     "name": "Goldeen",
     "element": "Water",
     "type": "Pokemon",
@@ -1855,7 +1855,7 @@
     "abilities": []
   },
   {
-    "id": "a1-073",
+    "id": "a1_073",
     "name": "Seaking",
     "element": "Water",
     "type": "Pokemon",
@@ -1879,7 +1879,7 @@
     "abilities": []
   },
   {
-    "id": "a1-074",
+    "id": "a1_074",
     "name": "Staryu",
     "element": "Water",
     "type": "Pokemon",
@@ -1903,7 +1903,7 @@
     "abilities": []
   },
   {
-    "id": "a1-075",
+    "id": "a1_075",
     "name": "Starmie",
     "element": "Water",
     "type": "Pokemon",
@@ -1927,7 +1927,7 @@
     "abilities": []
   },
   {
-    "id": "a1-076",
+    "id": "a1_076",
     "name": "Starmie ex",
     "element": "Water",
     "type": "Pokemon",
@@ -1952,7 +1952,7 @@
     "abilities": []
   },
   {
-    "id": "a1-077",
+    "id": "a1_077",
     "name": "Magikarp",
     "element": "Water",
     "type": "Pokemon",
@@ -1976,7 +1976,7 @@
     "abilities": []
   },
   {
-    "id": "a1-078",
+    "id": "a1_078",
     "name": "Gyarados",
     "element": "Water",
     "type": "Pokemon",
@@ -2003,7 +2003,7 @@
     "abilities": []
   },
   {
-    "id": "a1-079",
+    "id": "a1_079",
     "name": "Lapras",
     "element": "Water",
     "type": "Pokemon",
@@ -2027,7 +2027,7 @@
     "abilities": []
   },
   {
-    "id": "a1-080",
+    "id": "a1_080",
     "name": "Vaporeon",
     "element": "Water",
     "type": "Pokemon",
@@ -2053,7 +2053,7 @@
     "abilities": []
   },
   {
-    "id": "a1-081",
+    "id": "a1_081",
     "name": "Omanyte",
     "element": "Water",
     "type": "Pokemon",
@@ -2077,7 +2077,7 @@
     "abilities": []
   },
   {
-    "id": "a1-082",
+    "id": "a1_082",
     "name": "Omastar",
     "element": "Water",
     "type": "Pokemon",
@@ -2103,7 +2103,7 @@
     "abilities": []
   },
   {
-    "id": "a1-083",
+    "id": "a1_083",
     "name": "Articuno",
     "element": "Water",
     "type": "Pokemon",
@@ -2129,7 +2129,7 @@
     "abilities": []
   },
   {
-    "id": "a1-084",
+    "id": "a1_084",
     "name": "Articuno ex",
     "element": "Water",
     "type": "Pokemon",
@@ -2164,7 +2164,7 @@
     "abilities": []
   },
   {
-    "id": "a1-085",
+    "id": "a1_085",
     "name": "Ducklett",
     "element": "Water",
     "type": "Pokemon",
@@ -2189,7 +2189,7 @@
     "abilities": []
   },
   {
-    "id": "a1-086",
+    "id": "a1_086",
     "name": "Swanna",
     "element": "Water",
     "type": "Pokemon",
@@ -2215,7 +2215,7 @@
     "abilities": []
   },
   {
-    "id": "a1-087",
+    "id": "a1_087",
     "name": "Froakie",
     "element": "Water",
     "type": "Pokemon",
@@ -2239,7 +2239,7 @@
     "abilities": []
   },
   {
-    "id": "a1-088",
+    "id": "a1_088",
     "name": "Frogadier",
     "element": "Water",
     "type": "Pokemon",
@@ -2263,7 +2263,7 @@
     "abilities": []
   },
   {
-    "id": "a1-089",
+    "id": "a1_089",
     "name": "Greninja",
     "element": "Water",
     "type": "Pokemon",
@@ -2293,7 +2293,7 @@
     ]
   },
   {
-    "id": "a1-090",
+    "id": "a1_090",
     "name": "Pyukumuku",
     "element": "Water",
     "type": "Pokemon",
@@ -2317,7 +2317,7 @@
     "abilities": []
   },
   {
-    "id": "a1-091",
+    "id": "a1_091",
     "name": "Bruxish",
     "element": "Water",
     "type": "Pokemon",
@@ -2342,7 +2342,7 @@
     "abilities": []
   },
   {
-    "id": "a1-092",
+    "id": "a1_092",
     "name": "Snom",
     "element": "Water",
     "type": "Pokemon",
@@ -2366,7 +2366,7 @@
     "abilities": []
   },
   {
-    "id": "a1-093",
+    "id": "a1_093",
     "name": "Frosmoth",
     "element": "Water",
     "type": "Pokemon",
@@ -2391,7 +2391,7 @@
     "abilities": []
   },
   {
-    "id": "a1-094",
+    "id": "a1_094",
     "name": "Pikachu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2415,7 +2415,7 @@
     "abilities": []
   },
   {
-    "id": "a1-095",
+    "id": "a1_095",
     "name": "Raichu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2441,7 +2441,7 @@
     "abilities": []
   },
   {
-    "id": "a1-096",
+    "id": "a1_096",
     "name": "Pikachu ex",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2466,7 +2466,7 @@
     "abilities": []
   },
   {
-    "id": "a1-097",
+    "id": "a1_097",
     "name": "Magnemite",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2490,7 +2490,7 @@
     "abilities": []
   },
   {
-    "id": "a1-098",
+    "id": "a1_098",
     "name": "Magneton",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2522,7 +2522,7 @@
     ]
   },
   {
-    "id": "a1-099",
+    "id": "a1_099",
     "name": "Voltorb",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2546,7 +2546,7 @@
     "abilities": []
   },
   {
-    "id": "a1-100",
+    "id": "a1_100",
     "name": "Electrode",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2571,7 +2571,7 @@
     "abilities": []
   },
   {
-    "id": "a1-101",
+    "id": "a1_101",
     "name": "Electabuzz",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2596,7 +2596,7 @@
     "abilities": []
   },
   {
-    "id": "a1-102",
+    "id": "a1_102",
     "name": "Jolteon",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2621,7 +2621,7 @@
     "abilities": []
   },
   {
-    "id": "a1-103",
+    "id": "a1_103",
     "name": "Zapdos",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2647,7 +2647,7 @@
     "abilities": []
   },
   {
-    "id": "a1-104",
+    "id": "a1_104",
     "name": "Zapdos ex",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2681,7 +2681,7 @@
     "abilities": []
   },
   {
-    "id": "a1-105",
+    "id": "a1_105",
     "name": "Blitzle",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2705,7 +2705,7 @@
     "abilities": []
   },
   {
-    "id": "a1-106",
+    "id": "a1_106",
     "name": "Zebstrika",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2729,7 +2729,7 @@
     "abilities": []
   },
   {
-    "id": "a1-107",
+    "id": "a1_107",
     "name": "Tynamo",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2753,7 +2753,7 @@
     "abilities": []
   },
   {
-    "id": "a1-108",
+    "id": "a1_108",
     "name": "Eelektrik",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2777,7 +2777,7 @@
     "abilities": []
   },
   {
-    "id": "a1-109",
+    "id": "a1_109",
     "name": "Eelektross",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2803,7 +2803,7 @@
     "abilities": []
   },
   {
-    "id": "a1-110",
+    "id": "a1_110",
     "name": "Helioptile",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2827,7 +2827,7 @@
     "abilities": []
   },
   {
-    "id": "a1-111",
+    "id": "a1_111",
     "name": "Heliolisk",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2852,7 +2852,7 @@
     "abilities": []
   },
   {
-    "id": "a1-112",
+    "id": "a1_112",
     "name": "Pincurchin",
     "element": "Lightning",
     "type": "Pokemon",
@@ -2877,7 +2877,7 @@
     "abilities": []
   },
   {
-    "id": "a1-113",
+    "id": "a1_113",
     "name": "Clefairy",
     "element": "Psychic",
     "type": "Pokemon",
@@ -2901,7 +2901,7 @@
     "abilities": []
   },
   {
-    "id": "a1-114",
+    "id": "a1_114",
     "name": "Clefable",
     "element": "Psychic",
     "type": "Pokemon",
@@ -2925,7 +2925,7 @@
     "abilities": []
   },
   {
-    "id": "a1-115",
+    "id": "a1_115",
     "name": "Abra",
     "element": "Psychic",
     "type": "Pokemon",
@@ -2949,7 +2949,7 @@
     "abilities": []
   },
   {
-    "id": "a1-116",
+    "id": "a1_116",
     "name": "Kadabra",
     "element": "Psychic",
     "type": "Pokemon",
@@ -2975,7 +2975,7 @@
     "abilities": []
   },
   {
-    "id": "a1-117",
+    "id": "a1_117",
     "name": "Alakazam",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3001,7 +3001,7 @@
     "abilities": []
   },
   {
-    "id": "a1-118",
+    "id": "a1_118",
     "name": "Slowpoke",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3026,7 +3026,7 @@
     "abilities": []
   },
   {
-    "id": "a1-119",
+    "id": "a1_119",
     "name": "Slowbro",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3052,7 +3052,7 @@
     "abilities": []
   },
   {
-    "id": "a1-120",
+    "id": "a1_120",
     "name": "Gastly",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3076,7 +3076,7 @@
     "abilities": []
   },
   {
-    "id": "a1-121",
+    "id": "a1_121",
     "name": "Haunter",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3100,7 +3100,7 @@
     "abilities": []
   },
   {
-    "id": "a1-122",
+    "id": "a1_122",
     "name": "Gengar",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3124,7 +3124,7 @@
     "abilities": []
   },
   {
-    "id": "a1-123",
+    "id": "a1_123",
     "name": "Gengar ex",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3155,7 +3155,7 @@
     ]
   },
   {
-    "id": "a1-124",
+    "id": "a1_124",
     "name": "Drowzee",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3180,7 +3180,7 @@
     "abilities": []
   },
   {
-    "id": "a1-125",
+    "id": "a1_125",
     "name": "Hypno",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3211,7 +3211,7 @@
     ]
   },
   {
-    "id": "a1-126",
+    "id": "a1_126",
     "name": "Mr. Mime",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3236,7 +3236,7 @@
     "abilities": []
   },
   {
-    "id": "a1-127",
+    "id": "a1_127",
     "name": "Jynx",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3261,7 +3261,7 @@
     "abilities": []
   },
   {
-    "id": "a1-128",
+    "id": "a1_128",
     "name": "Mewtwo",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3288,7 +3288,7 @@
     "abilities": []
   },
   {
-    "id": "a1-129",
+    "id": "a1_129",
     "name": "Mewtwo ex",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3324,7 +3324,7 @@
     "abilities": []
   },
   {
-    "id": "a1-130",
+    "id": "a1_130",
     "name": "Ralts",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3348,7 +3348,7 @@
     "abilities": []
   },
   {
-    "id": "a1-131",
+    "id": "a1_131",
     "name": "Kirlia",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3373,7 +3373,7 @@
     "abilities": []
   },
   {
-    "id": "a1-132",
+    "id": "a1_132",
     "name": "Gardevoir",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3404,7 +3404,7 @@
     ]
   },
   {
-    "id": "a1-133",
+    "id": "a1_133",
     "name": "Woobat",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3428,7 +3428,7 @@
     "abilities": []
   },
   {
-    "id": "a1-134",
+    "id": "a1_134",
     "name": "Swoobat",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3453,7 +3453,7 @@
     "abilities": []
   },
   {
-    "id": "a1-135",
+    "id": "a1_135",
     "name": "Golett",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3479,7 +3479,7 @@
     "abilities": []
   },
   {
-    "id": "a1-136",
+    "id": "a1_136",
     "name": "Golurk",
     "element": "Psychic",
     "type": "Pokemon",
@@ -3506,7 +3506,7 @@
     "abilities": []
   },
   {
-    "id": "a1-137",
+    "id": "a1_137",
     "name": "Sandshrew",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3530,7 +3530,7 @@
     "abilities": []
   },
   {
-    "id": "a1-138",
+    "id": "a1_138",
     "name": "Sandslash",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3555,7 +3555,7 @@
     "abilities": []
   },
   {
-    "id": "a1-139",
+    "id": "a1_139",
     "name": "Diglett",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3579,7 +3579,7 @@
     "abilities": []
   },
   {
-    "id": "a1-140",
+    "id": "a1_140",
     "name": "Dugtrio",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3603,7 +3603,7 @@
     "abilities": []
   },
   {
-    "id": "a1-141",
+    "id": "a1_141",
     "name": "Mankey",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3627,7 +3627,7 @@
     "abilities": []
   },
   {
-    "id": "a1-142",
+    "id": "a1_142",
     "name": "Primeape",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3652,7 +3652,7 @@
     "abilities": []
   },
   {
-    "id": "a1-143",
+    "id": "a1_143",
     "name": "Machop",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3676,7 +3676,7 @@
     "abilities": []
   },
   {
-    "id": "a1-144",
+    "id": "a1_144",
     "name": "Machoke",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3701,7 +3701,7 @@
     "abilities": []
   },
   {
-    "id": "a1-145",
+    "id": "a1_145",
     "name": "Machamp",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3727,7 +3727,7 @@
     "abilities": []
   },
   {
-    "id": "a1-146",
+    "id": "a1_146",
     "name": "Machamp ex",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3753,7 +3753,7 @@
     "abilities": []
   },
   {
-    "id": "a1-147",
+    "id": "a1_147",
     "name": "Geodude",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3777,7 +3777,7 @@
     "abilities": []
   },
   {
-    "id": "a1-148",
+    "id": "a1_148",
     "name": "Graveler",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3803,7 +3803,7 @@
     "abilities": []
   },
   {
-    "id": "a1-149",
+    "id": "a1_149",
     "name": "Golem",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3830,7 +3830,7 @@
     "abilities": []
   },
   {
-    "id": "a1-150",
+    "id": "a1_150",
     "name": "Onix",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3856,7 +3856,7 @@
     "abilities": []
   },
   {
-    "id": "a1-151",
+    "id": "a1_151",
     "name": "Cubone",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3880,7 +3880,7 @@
     "abilities": []
   },
   {
-    "id": "a1-152",
+    "id": "a1_152",
     "name": "Marowak",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3904,7 +3904,7 @@
     "abilities": []
   },
   {
-    "id": "a1-153",
+    "id": "a1_153",
     "name": "Marowak ex",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3929,7 +3929,7 @@
     "abilities": []
   },
   {
-    "id": "a1-154",
+    "id": "a1_154",
     "name": "Hitmonlee",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3953,7 +3953,7 @@
     "abilities": []
   },
   {
-    "id": "a1-155",
+    "id": "a1_155",
     "name": "Hitmonchan",
     "element": "Fighting",
     "type": "Pokemon",
@@ -3977,7 +3977,7 @@
     "abilities": []
   },
   {
-    "id": "a1-156",
+    "id": "a1_156",
     "name": "Rhyhorn",
     "element": "Fighting",
     "type": "Pokemon",
@@ -4003,7 +4003,7 @@
     "abilities": []
   },
   {
-    "id": "a1-157",
+    "id": "a1_157",
     "name": "Rhydon",
     "element": "Fighting",
     "type": "Pokemon",
@@ -4030,7 +4030,7 @@
     "abilities": []
   },
   {
-    "id": "a1-158",
+    "id": "a1_158",
     "name": "Kabuto",
     "element": "Fighting",
     "type": "Pokemon",
@@ -4054,7 +4054,7 @@
     "abilities": []
   },
   {
-    "id": "a1-159",
+    "id": "a1_159",
     "name": "Kabutops",
     "element": "Fighting",
     "type": "Pokemon",
@@ -4078,7 +4078,7 @@
     "abilities": []
   },
   {
-    "id": "a1-160",
+    "id": "a1_160",
     "name": "Mienfoo",
     "element": "Fighting",
     "type": "Pokemon",
@@ -4102,7 +4102,7 @@
     "abilities": []
   },
   {
-    "id": "a1-161",
+    "id": "a1_161",
     "name": "Mienshao",
     "element": "Fighting",
     "type": "Pokemon",
@@ -4126,7 +4126,7 @@
     "abilities": []
   },
   {
-    "id": "a1-162",
+    "id": "a1_162",
     "name": "Clobbopus",
     "element": "Fighting",
     "type": "Pokemon",
@@ -4151,7 +4151,7 @@
     "abilities": []
   },
   {
-    "id": "a1-163",
+    "id": "a1_163",
     "name": "Grapploct",
     "element": "Fighting",
     "type": "Pokemon",
@@ -4177,7 +4177,7 @@
     "abilities": []
   },
   {
-    "id": "a1-164",
+    "id": "a1_164",
     "name": "Ekans",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4201,7 +4201,7 @@
     "abilities": []
   },
   {
-    "id": "a1-165",
+    "id": "a1_165",
     "name": "Arbok",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4226,7 +4226,7 @@
     "abilities": []
   },
   {
-    "id": "a1-166",
+    "id": "a1_166",
     "name": "Nidoran♀",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4250,7 +4250,7 @@
     "abilities": []
   },
   {
-    "id": "a1-167",
+    "id": "a1_167",
     "name": "Nidorina",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4274,7 +4274,7 @@
     "abilities": []
   },
   {
-    "id": "a1-168",
+    "id": "a1_168",
     "name": "Nidoqueen",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4300,7 +4300,7 @@
     "abilities": []
   },
   {
-    "id": "a1-169",
+    "id": "a1_169",
     "name": "Nidoran♂",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4324,7 +4324,7 @@
     "abilities": []
   },
   {
-    "id": "a1-170",
+    "id": "a1_170",
     "name": "Nidorino",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4349,7 +4349,7 @@
     "abilities": []
   },
   {
-    "id": "a1-171",
+    "id": "a1_171",
     "name": "Nidoking",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4375,7 +4375,7 @@
     "abilities": []
   },
   {
-    "id": "a1-172",
+    "id": "a1_172",
     "name": "Zubat",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4399,7 +4399,7 @@
     "abilities": []
   },
   {
-    "id": "a1-173",
+    "id": "a1_173",
     "name": "Golbat",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4423,7 +4423,7 @@
     "abilities": []
   },
   {
-    "id": "a1-174",
+    "id": "a1_174",
     "name": "Grimer",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4447,7 +4447,7 @@
     "abilities": []
   },
   {
-    "id": "a1-175",
+    "id": "a1_175",
     "name": "Muk",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4473,7 +4473,7 @@
     "abilities": []
   },
   {
-    "id": "a1-176",
+    "id": "a1_176",
     "name": "Koffing",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4497,7 +4497,7 @@
     "abilities": []
   },
   {
-    "id": "a1-177",
+    "id": "a1_177",
     "name": "Weezing",
     "element": "Darkness",
     "type": "Pokemon",
@@ -4526,7 +4526,7 @@
     ]
   },
   {
-    "id": "a1-178",
+    "id": "a1_178",
     "name": "Mawile",
     "element": "Metal",
     "type": "Pokemon",
@@ -4550,7 +4550,7 @@
     "abilities": []
   },
   {
-    "id": "a1-179",
+    "id": "a1_179",
     "name": "Pawniard",
     "element": "Metal",
     "type": "Pokemon",
@@ -4574,7 +4574,7 @@
     "abilities": []
   },
   {
-    "id": "a1-180",
+    "id": "a1_180",
     "name": "Bisharp",
     "element": "Metal",
     "type": "Pokemon",
@@ -4599,7 +4599,7 @@
     "abilities": []
   },
   {
-    "id": "a1-181",
+    "id": "a1_181",
     "name": "Meltan",
     "element": "Metal",
     "type": "Pokemon",
@@ -4623,7 +4623,7 @@
     "abilities": []
   },
   {
-    "id": "a1-182",
+    "id": "a1_182",
     "name": "Melmetal",
     "element": "Metal",
     "type": "Pokemon",
@@ -4655,7 +4655,7 @@
     ]
   },
   {
-    "id": "a1-183",
+    "id": "a1_183",
     "name": "Dratini",
     "element": "Dragon",
     "type": "Pokemon",
@@ -4680,7 +4680,7 @@
     "abilities": []
   },
   {
-    "id": "a1-184",
+    "id": "a1_184",
     "name": "Dragonair",
     "element": "Dragon",
     "type": "Pokemon",
@@ -4706,7 +4706,7 @@
     "abilities": []
   },
   {
-    "id": "a1-185",
+    "id": "a1_185",
     "name": "Dragonite",
     "element": "Dragon",
     "type": "Pokemon",
@@ -4733,7 +4733,7 @@
     "abilities": []
   },
   {
-    "id": "a1-186",
+    "id": "a1_186",
     "name": "Pidgey",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4757,7 +4757,7 @@
     "abilities": []
   },
   {
-    "id": "a1-187",
+    "id": "a1_187",
     "name": "Pidgeotto",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4781,7 +4781,7 @@
     "abilities": []
   },
   {
-    "id": "a1-188",
+    "id": "a1_188",
     "name": "Pidgeot",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4811,7 +4811,7 @@
     ]
   },
   {
-    "id": "a1-189",
+    "id": "a1_189",
     "name": "Rattata",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4835,7 +4835,7 @@
     "abilities": []
   },
   {
-    "id": "a1-190",
+    "id": "a1_190",
     "name": "Raticate",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4859,7 +4859,7 @@
     "abilities": []
   },
   {
-    "id": "a1-191",
+    "id": "a1_191",
     "name": "Spearow",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4883,7 +4883,7 @@
     "abilities": []
   },
   {
-    "id": "a1-192",
+    "id": "a1_192",
     "name": "Fearow",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4908,7 +4908,7 @@
     "abilities": []
   },
   {
-    "id": "a1-193",
+    "id": "a1_193",
     "name": "Jigglypuff",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4933,7 +4933,7 @@
     "abilities": []
   },
   {
-    "id": "a1-194",
+    "id": "a1_194",
     "name": "Wigglytuff",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4958,7 +4958,7 @@
     "abilities": []
   },
   {
-    "id": "a1-195",
+    "id": "a1_195",
     "name": "Wigglytuff ex",
     "element": "Colorless",
     "type": "Pokemon",
@@ -4984,7 +4984,7 @@
     "abilities": []
   },
   {
-    "id": "a1-196",
+    "id": "a1_196",
     "name": "Meowth",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5008,7 +5008,7 @@
     "abilities": []
   },
   {
-    "id": "a1-197",
+    "id": "a1_197",
     "name": "Persian",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5033,7 +5033,7 @@
     "abilities": []
   },
   {
-    "id": "a1-198",
+    "id": "a1_198",
     "name": "Farfetch'd",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5057,7 +5057,7 @@
     "abilities": []
   },
   {
-    "id": "a1-199",
+    "id": "a1_199",
     "name": "Doduo",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5081,7 +5081,7 @@
     "abilities": []
   },
   {
-    "id": "a1-200",
+    "id": "a1_200",
     "name": "Dodrio",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5105,7 +5105,7 @@
     "abilities": []
   },
   {
-    "id": "a1-201",
+    "id": "a1_201",
     "name": "Lickitung",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5131,7 +5131,7 @@
     "abilities": []
   },
   {
-    "id": "a1-202",
+    "id": "a1_202",
     "name": "Chansey",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5157,7 +5157,7 @@
     "abilities": []
   },
   {
-    "id": "a1-203",
+    "id": "a1_203",
     "name": "Kangaskhan",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5181,7 +5181,7 @@
     "abilities": []
   },
   {
-    "id": "a1-204",
+    "id": "a1_204",
     "name": "Tauros",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5206,7 +5206,7 @@
     "abilities": []
   },
   {
-    "id": "a1-205",
+    "id": "a1_205",
     "name": "Ditto",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5230,7 +5230,7 @@
     "abilities": []
   },
   {
-    "id": "a1-206",
+    "id": "a1_206",
     "name": "Eevee",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5254,7 +5254,7 @@
     "abilities": []
   },
   {
-    "id": "a1-207",
+    "id": "a1_207",
     "name": "Eevee",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5278,7 +5278,7 @@
     "abilities": []
   },
   {
-    "id": "a1-208",
+    "id": "a1_208",
     "name": "Eevee",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5302,7 +5302,7 @@
     "abilities": []
   },
   {
-    "id": "a1-209",
+    "id": "a1_209",
     "name": "Porygon",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5331,7 +5331,7 @@
     ]
   },
   {
-    "id": "a1-210",
+    "id": "a1_210",
     "name": "Aerodactyl",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5356,7 +5356,7 @@
     "abilities": []
   },
   {
-    "id": "a1-211",
+    "id": "a1_211",
     "name": "Snorlax",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5383,7 +5383,7 @@
     "abilities": []
   },
   {
-    "id": "a1-212",
+    "id": "a1_212",
     "name": "Minccino",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5407,7 +5407,7 @@
     "abilities": []
   },
   {
-    "id": "a1-213",
+    "id": "a1_213",
     "name": "Cinccino",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5433,7 +5433,7 @@
     "abilities": []
   },
   {
-    "id": "a1-214",
+    "id": "a1_214",
     "name": "Wooloo",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5458,7 +5458,7 @@
     "abilities": []
   },
   {
-    "id": "a1-215",
+    "id": "a1_215",
     "name": "Dubwool",
     "element": "Colorless",
     "type": "Pokemon",
@@ -5484,7 +5484,7 @@
     "abilities": []
   },
   {
-    "id": "a1-216",
+    "id": "a1_216",
     "name": "Helix Fossil",
     "element": null,
     "type": "Trainer",
@@ -5499,7 +5499,7 @@
     "abilities": []
   },
   {
-    "id": "a1-217",
+    "id": "a1_217",
     "name": "Dome Fossil",
     "element": null,
     "type": "Trainer",
@@ -5514,7 +5514,7 @@
     "abilities": []
   },
   {
-    "id": "a1-218",
+    "id": "a1_218",
     "name": "Old Amber",
     "element": null,
     "type": "Trainer",
@@ -5529,7 +5529,7 @@
     "abilities": []
   },
   {
-    "id": "a1-219",
+    "id": "a1_219",
     "name": "Erika",
     "element": null,
     "type": "Trainer",
@@ -5544,7 +5544,7 @@
     "abilities": []
   },
   {
-    "id": "a1-220",
+    "id": "a1_220",
     "name": "Misty",
     "element": null,
     "type": "Trainer",
@@ -5559,7 +5559,7 @@
     "abilities": []
   },
   {
-    "id": "a1-221",
+    "id": "a1_221",
     "name": "Blaine",
     "element": null,
     "type": "Trainer",
@@ -5574,7 +5574,7 @@
     "abilities": []
   },
   {
-    "id": "a1-222",
+    "id": "a1_222",
     "name": "Koga",
     "element": null,
     "type": "Trainer",
@@ -5589,7 +5589,7 @@
     "abilities": []
   },
   {
-    "id": "a1-223",
+    "id": "a1_223",
     "name": "Giovanni",
     "element": null,
     "type": "Trainer",
@@ -5604,7 +5604,7 @@
     "abilities": []
   },
   {
-    "id": "a1-224",
+    "id": "a1_224",
     "name": "Brock",
     "element": null,
     "type": "Trainer",
@@ -5619,7 +5619,7 @@
     "abilities": []
   },
   {
-    "id": "a1-225",
+    "id": "a1_225",
     "name": "Sabrina",
     "element": null,
     "type": "Trainer",
@@ -5634,7 +5634,7 @@
     "abilities": []
   },
   {
-    "id": "a1-226",
+    "id": "a1_226",
     "name": "Lt. Surge",
     "element": null,
     "type": "Trainer",
@@ -5649,7 +5649,7 @@
     "abilities": []
   },
   {
-    "id": "a1-227",
+    "id": "a1_227",
     "name": "Bulbasaur",
     "element": "Grass",
     "type": "Pokemon",
@@ -5674,7 +5674,7 @@
     "abilities": []
   },
   {
-    "id": "a1-228",
+    "id": "a1_228",
     "name": "Gloom",
     "element": "Grass",
     "type": "Pokemon",
@@ -5699,7 +5699,7 @@
     "abilities": []
   },
   {
-    "id": "a1-229",
+    "id": "a1_229",
     "name": "Pinsir",
     "element": "Grass",
     "type": "Pokemon",
@@ -5724,7 +5724,7 @@
     "abilities": []
   },
   {
-    "id": "a1-230",
+    "id": "a1_230",
     "name": "Charmander",
     "element": "Fire",
     "type": "Pokemon",
@@ -5748,7 +5748,7 @@
     "abilities": []
   },
   {
-    "id": "a1-231",
+    "id": "a1_231",
     "name": "Rapidash",
     "element": "Fire",
     "type": "Pokemon",
@@ -5772,7 +5772,7 @@
     "abilities": []
   },
   {
-    "id": "a1-232",
+    "id": "a1_232",
     "name": "Squirtle",
     "element": "Water",
     "type": "Pokemon",
@@ -5796,7 +5796,7 @@
     "abilities": []
   },
   {
-    "id": "a1-233",
+    "id": "a1_233",
     "name": "Gyarados",
     "element": "Water",
     "type": "Pokemon",
@@ -5823,7 +5823,7 @@
     "abilities": []
   },
   {
-    "id": "a1-234",
+    "id": "a1_234",
     "name": "Lapras",
     "element": "Water",
     "type": "Pokemon",
@@ -5847,7 +5847,7 @@
     "abilities": []
   },
   {
-    "id": "a1-235",
+    "id": "a1_235",
     "name": "Electrode",
     "element": "Lightning",
     "type": "Pokemon",
@@ -5872,7 +5872,7 @@
     "abilities": []
   },
   {
-    "id": "a1-236",
+    "id": "a1_236",
     "name": "Alakazam",
     "element": "Psychic",
     "type": "Pokemon",
@@ -5898,7 +5898,7 @@
     "abilities": []
   },
   {
-    "id": "a1-237",
+    "id": "a1_237",
     "name": "Slowpoke",
     "element": "Psychic",
     "type": "Pokemon",
@@ -5923,7 +5923,7 @@
     "abilities": []
   },
   {
-    "id": "a1-238",
+    "id": "a1_238",
     "name": "Diglett",
     "element": "Fighting",
     "type": "Pokemon",
@@ -5947,7 +5947,7 @@
     "abilities": []
   },
   {
-    "id": "a1-239",
+    "id": "a1_239",
     "name": "Cubone",
     "element": "Fighting",
     "type": "Pokemon",
@@ -5971,7 +5971,7 @@
     "abilities": []
   },
   {
-    "id": "a1-240",
+    "id": "a1_240",
     "name": "Nidoqueen",
     "element": "Darkness",
     "type": "Pokemon",
@@ -5997,7 +5997,7 @@
     "abilities": []
   },
   {
-    "id": "a1-241",
+    "id": "a1_241",
     "name": "Nidoking",
     "element": "Darkness",
     "type": "Pokemon",
@@ -6023,7 +6023,7 @@
     "abilities": []
   },
   {
-    "id": "a1-242",
+    "id": "a1_242",
     "name": "Golbat",
     "element": "Darkness",
     "type": "Pokemon",
@@ -6047,7 +6047,7 @@
     "abilities": []
   },
   {
-    "id": "a1-243",
+    "id": "a1_243",
     "name": "Weezing",
     "element": "Darkness",
     "type": "Pokemon",
@@ -6076,7 +6076,7 @@
     ]
   },
   {
-    "id": "a1-244",
+    "id": "a1_244",
     "name": "Dragonite",
     "element": "Dragon",
     "type": "Pokemon",
@@ -6103,7 +6103,7 @@
     "abilities": []
   },
   {
-    "id": "a1-245",
+    "id": "a1_245",
     "name": "Pidgeot",
     "element": "Colorless",
     "type": "Pokemon",
@@ -6133,7 +6133,7 @@
     ]
   },
   {
-    "id": "a1-246",
+    "id": "a1_246",
     "name": "Meowth",
     "element": "Colorless",
     "type": "Pokemon",
@@ -6157,7 +6157,7 @@
     "abilities": []
   },
   {
-    "id": "a1-247",
+    "id": "a1_247",
     "name": "Ditto",
     "element": "Colorless",
     "type": "Pokemon",
@@ -6181,7 +6181,7 @@
     "abilities": []
   },
   {
-    "id": "a1-248",
+    "id": "a1_248",
     "name": "Eevee",
     "element": "Colorless",
     "type": "Pokemon",
@@ -6205,7 +6205,7 @@
     "abilities": []
   },
   {
-    "id": "a1-249",
+    "id": "a1_249",
     "name": "Porygon",
     "element": "Colorless",
     "type": "Pokemon",
@@ -6234,7 +6234,7 @@
     ]
   },
   {
-    "id": "a1-250",
+    "id": "a1_250",
     "name": "Snorlax",
     "element": "Colorless",
     "type": "Pokemon",
@@ -6261,7 +6261,7 @@
     "abilities": []
   },
   {
-    "id": "a1-251",
+    "id": "a1_251",
     "name": "Venusaur ex",
     "element": "Grass",
     "type": "Pokemon",
@@ -6298,7 +6298,7 @@
     "abilities": []
   },
   {
-    "id": "a1-252",
+    "id": "a1_252",
     "name": "Exeggutor ex",
     "element": "Grass",
     "type": "Pokemon",
@@ -6322,7 +6322,7 @@
     "abilities": []
   },
   {
-    "id": "a1-253",
+    "id": "a1_253",
     "name": "Charizard ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -6359,7 +6359,7 @@
     "abilities": []
   },
   {
-    "id": "a1-254",
+    "id": "a1_254",
     "name": "Arcanine ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -6385,7 +6385,7 @@
     "abilities": []
   },
   {
-    "id": "a1-255",
+    "id": "a1_255",
     "name": "Moltres ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -6419,7 +6419,7 @@
     "abilities": []
   },
   {
-    "id": "a1-256",
+    "id": "a1_256",
     "name": "Blastoise ex",
     "element": "Water",
     "type": "Pokemon",
@@ -6454,7 +6454,7 @@
     "abilities": []
   },
   {
-    "id": "a1-257",
+    "id": "a1_257",
     "name": "Starmie ex",
     "element": "Water",
     "type": "Pokemon",
@@ -6479,7 +6479,7 @@
     "abilities": []
   },
   {
-    "id": "a1-258",
+    "id": "a1_258",
     "name": "Articuno ex",
     "element": "Water",
     "type": "Pokemon",
@@ -6514,7 +6514,7 @@
     "abilities": []
   },
   {
-    "id": "a1-259",
+    "id": "a1_259",
     "name": "Pikachu ex",
     "element": "Lightning",
     "type": "Pokemon",
@@ -6539,7 +6539,7 @@
     "abilities": []
   },
   {
-    "id": "a1-260",
+    "id": "a1_260",
     "name": "Zapdos ex",
     "element": "Lightning",
     "type": "Pokemon",
@@ -6573,7 +6573,7 @@
     "abilities": []
   },
   {
-    "id": "a1-261",
+    "id": "a1_261",
     "name": "Gengar ex",
     "element": "Psychic",
     "type": "Pokemon",
@@ -6604,7 +6604,7 @@
     ]
   },
   {
-    "id": "a1-262",
+    "id": "a1_262",
     "name": "Mewtwo ex",
     "element": "Psychic",
     "type": "Pokemon",
@@ -6640,7 +6640,7 @@
     "abilities": []
   },
   {
-    "id": "a1-263",
+    "id": "a1_263",
     "name": "Machamp ex",
     "element": "Fighting",
     "type": "Pokemon",
@@ -6666,7 +6666,7 @@
     "abilities": []
   },
   {
-    "id": "a1-264",
+    "id": "a1_264",
     "name": "Marowak ex",
     "element": "Fighting",
     "type": "Pokemon",
@@ -6691,7 +6691,7 @@
     "abilities": []
   },
   {
-    "id": "a1-265",
+    "id": "a1_265",
     "name": "Wigglytuff ex",
     "element": "Colorless",
     "type": "Pokemon",
@@ -6717,7 +6717,7 @@
     "abilities": []
   },
   {
-    "id": "a1-266",
+    "id": "a1_266",
     "name": "Erika",
     "element": null,
     "type": "Trainer",
@@ -6732,7 +6732,7 @@
     "abilities": []
   },
   {
-    "id": "a1-267",
+    "id": "a1_267",
     "name": "Misty",
     "element": null,
     "type": "Trainer",
@@ -6747,7 +6747,7 @@
     "abilities": []
   },
   {
-    "id": "a1-268",
+    "id": "a1_268",
     "name": "Blaine",
     "element": null,
     "type": "Trainer",
@@ -6762,7 +6762,7 @@
     "abilities": []
   },
   {
-    "id": "a1-269",
+    "id": "a1_269",
     "name": "Koga",
     "element": null,
     "type": "Trainer",
@@ -6777,7 +6777,7 @@
     "abilities": []
   },
   {
-    "id": "a1-270",
+    "id": "a1_270",
     "name": "Giovanni",
     "element": null,
     "type": "Trainer",
@@ -6792,7 +6792,7 @@
     "abilities": []
   },
   {
-    "id": "a1-271",
+    "id": "a1_271",
     "name": "Brock",
     "element": null,
     "type": "Trainer",
@@ -6807,7 +6807,7 @@
     "abilities": []
   },
   {
-    "id": "a1-272",
+    "id": "a1_272",
     "name": "Sabrina",
     "element": null,
     "type": "Trainer",
@@ -6822,7 +6822,7 @@
     "abilities": []
   },
   {
-    "id": "a1-273",
+    "id": "a1_273",
     "name": "Lt. Surge",
     "element": null,
     "type": "Trainer",
@@ -6837,7 +6837,7 @@
     "abilities": []
   },
   {
-    "id": "a1-274",
+    "id": "a1_274",
     "name": "Moltres ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -6871,7 +6871,7 @@
     "abilities": []
   },
   {
-    "id": "a1-275",
+    "id": "a1_275",
     "name": "Articuno ex",
     "element": "Water",
     "type": "Pokemon",
@@ -6906,7 +6906,7 @@
     "abilities": []
   },
   {
-    "id": "a1-276",
+    "id": "a1_276",
     "name": "Zapdos ex",
     "element": "Lightning",
     "type": "Pokemon",
@@ -6940,7 +6940,7 @@
     "abilities": []
   },
   {
-    "id": "a1-277",
+    "id": "a1_277",
     "name": "Gengar ex",
     "element": "Psychic",
     "type": "Pokemon",
@@ -6971,7 +6971,7 @@
     ]
   },
   {
-    "id": "a1-278",
+    "id": "a1_278",
     "name": "Machamp ex",
     "element": "Fighting",
     "type": "Pokemon",
@@ -6997,7 +6997,7 @@
     "abilities": []
   },
   {
-    "id": "a1-279",
+    "id": "a1_279",
     "name": "Wigglytuff ex",
     "element": "Colorless",
     "type": "Pokemon",
@@ -7023,7 +7023,7 @@
     "abilities": []
   },
   {
-    "id": "a1-280",
+    "id": "a1_280",
     "name": "Charizard ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -7060,7 +7060,7 @@
     "abilities": []
   },
   {
-    "id": "a1-281",
+    "id": "a1_281",
     "name": "Pikachu ex",
     "element": "Lightning",
     "type": "Pokemon",
@@ -7085,7 +7085,7 @@
     "abilities": []
   },
   {
-    "id": "a1-282",
+    "id": "a1_282",
     "name": "Mewtwo ex",
     "element": "Psychic",
     "type": "Pokemon",
@@ -7121,7 +7121,7 @@
     "abilities": []
   },
   {
-    "id": "a1-284",
+    "id": "a1_284",
     "name": "Charizard ex",
     "element": "Fire",
     "type": "Pokemon",
@@ -7158,7 +7158,7 @@
     "abilities": []
   },
   {
-    "id": "a1-285",
+    "id": "a1_285",
     "name": "Pikachu ex",
     "element": "Lightning",
     "type": "Pokemon",
@@ -7183,7 +7183,7 @@
     "abilities": []
   },
   {
-    "id": "a1-286",
+    "id": "a1_286",
     "name": "Mewtwo ex",
     "element": "Psychic",
     "type": "Pokemon",

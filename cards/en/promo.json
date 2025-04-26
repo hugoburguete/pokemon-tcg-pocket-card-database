@@ -1,6 +1,6 @@
 [
   {
-    "id": "pa-001",
+    "id": "pa_001",
     "name": "Potion",
     "element": null,
     "type": "Trainer",
@@ -12,7 +12,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-002",
+    "id": "pa_002",
     "name": "X Speed",
     "element": null,
     "type": "Trainer",
@@ -24,7 +24,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-003",
+    "id": "pa_003",
     "name": "Hand Scope",
     "element": null,
     "type": "Trainer",
@@ -36,7 +36,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-004",
+    "id": "pa_004",
     "name": "Pokedex",
     "element": null,
     "type": "Trainer",
@@ -48,7 +48,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-005",
+    "id": "pa_005",
     "name": "Poke Ball",
     "element": null,
     "type": "Trainer",
@@ -60,7 +60,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-006",
+    "id": "pa_006",
     "name": "Red Card",
     "element": null,
     "type": "Trainer",
@@ -72,7 +72,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-007",
+    "id": "pa_007",
     "name": "Professor's Research",
     "element": null,
     "type": "Trainer",
@@ -84,7 +84,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-009",
+    "id": "pa_009",
     "name": "Pikachu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -96,7 +96,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-010",
+    "id": "pa_010",
     "name": "Mewtwo",
     "element": "Psychic",
     "type": "Pokemon",
@@ -108,7 +108,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-011",
+    "id": "pa_011",
     "name": "Chansey",
     "element": "Colorless",
     "type": "Pokemon",
@@ -120,7 +120,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-012",
+    "id": "pa_012",
     "name": "Meowth",
     "element": "Colorless",
     "type": "Pokemon",
@@ -132,7 +132,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-013",
+    "id": "pa_013",
     "name": "Butterfree",
     "element": "Grass",
     "type": "Pokemon",
@@ -144,7 +144,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-014",
+    "id": "pa_014",
     "name": "Lapras ex",
     "element": "Water",
     "type": "Pokemon",
@@ -156,7 +156,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-015",
+    "id": "pa_015",
     "name": "Pikachu",
     "element": "Lightning",
     "type": "Pokemon",
@@ -168,7 +168,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-016",
+    "id": "pa_016",
     "name": "Clefairy",
     "element": "Psychic",
     "type": "Pokemon",
@@ -180,7 +180,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-017",
+    "id": "pa_017",
     "name": "Mankey",
     "element": "Fighting",
     "type": "Pokemon",
@@ -192,7 +192,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-018",
+    "id": "pa_018",
     "name": "Venusaur",
     "element": "Grass",
     "type": "Pokemon",
@@ -204,7 +204,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-019",
+    "id": "pa_019",
     "name": "Greninja",
     "element": "Water",
     "type": "Pokemon",
@@ -216,7 +216,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-020",
+    "id": "pa_020",
     "name": "Haunter",
     "element": "Darkness",
     "type": "Pokemon",
@@ -228,7 +228,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-021",
+    "id": "pa_021",
     "name": "Onix",
     "element": "Fighting",
     "type": "Pokemon",
@@ -240,7 +240,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "pa-022",
+    "id": "pa_022",
     "name": "Jigglypuff",
     "element": "Colorless",
     "type": "Pokemon",
@@ -252,7 +252,7 @@
     "rarity": "Promo"
   },
   {
-    "id": "a1-283",
+    "id": "a1_283",
     "name": "Mew",
     "element": "Psychic",
     "type": "Psychic",
