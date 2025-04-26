@@ -96,7 +96,19 @@
     "health": 60,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "pa_010",
@@ -107,7 +119,23 @@
     "health": 120,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Power Blast",
+        "effect": "Discard 2 Psychic Energy from this Pokémon.",
+        "damage": "120",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": []
   },
   {
     "id": "pa_011",
@@ -118,7 +146,22 @@
     "health": 120,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "effect": null,
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "pa_012",
@@ -129,7 +172,20 @@
     "health": 60,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Pay Day",
+        "effect": "Draw a card.",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "pa_013",
@@ -140,7 +196,27 @@
     "health": 120,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Gust",
+        "effect": null,
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Powder Heal",
+        "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
+      }
+    ]
   },
   {
     "id": "pa_014",
@@ -151,7 +227,22 @@
     "health": 140,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Bubble Drain",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
   },
   {
     "id": "pa_015",
@@ -162,7 +253,19 @@
     "health": 60,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
   {
     "id": "pa_016",
@@ -173,7 +276,19 @@
     "health": 60,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Slap",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Steel",
+    "abilities": []
   },
   {
     "id": "pa_017",
@@ -181,10 +296,23 @@
     "element": "Fighting",
     "type": "Pokemon",
     "subtype": "Basic",
-    "health": 60,
+    "health": 50,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Reckless Charge",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": "30",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": []
   },
   {
     "id": "pa_018",
@@ -195,7 +323,23 @@
     "health": 160,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Mega Drain",
+        "effect": "Heal 30 damage from this Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": []
   },
   {
     "id": "pa_019",
@@ -206,7 +350,25 @@
     "health": 120,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Mist Slash",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Water Shuriken",
+        "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
+      }
+    ]
   },
   {
     "id": "pa_020",
@@ -217,7 +379,20 @@
     "health": 70,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Surprise Attack",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": "50",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
   },
   {
     "id": "pa_021",
@@ -228,7 +403,21 @@
     "health": 110,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Land Crush",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": []
   },
   {
     "id": "pa_022",
@@ -239,6 +428,986 @@
     "health": 50,
     "set": "Promo",
     "pack": "Promo A",
-    "rarity": "Promo"
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Sleep",
+        "effect": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
   },
+  {
+    "id": "pa_023",
+    "name": "Bulbasaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Vine Whip",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "pa_024",
+    "name": "Magnemite",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Lightning Ball",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_025",
+    "name": "Moltres ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Inferno Dance",
+        "effect": "Flip 3 coins. Take an amount of fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like.",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Heat Blast",
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "pa_026",
+    "name": "Pikachu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_027",
+    "name": "Snivy",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "pa_028",
+    "name": "Volcarona",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effect": "Discard 2 Fire Energy from this Pokémon. This attack does 80 damage to each of your opponent's Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "pa_029",
+    "name": "Blastoise",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "effect": "If this pokemon has at leas 2 extra Water Energy attached, this attack does 60 more damage.",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Hydro Pump",
+        "damage": "140",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "pa_030",
+    "name": "Eevee",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Growl",
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_031",
+    "name": "Cinccino",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Do the Wave",
+        "effect": "This attack does 30 damage for each of your Benched Pokémon.",
+        "damage": "30x",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_032",
+    "name": "Charmander",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Ember",
+        "effect": "Discard a Fire Energy from this Pokémon.",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "pa_033",
+    "name": "Squirtle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "pa_034",
+    "name": "Piplup",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Nap",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "pa_035",
+    "name": "Turtwig",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "pa_036",
+    "name": "Electivire",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Exciting Voltage",
+        "effect": "If this Pokémon has at least 2 extra Lighting Energy attached, this attack does 80 more damage.",
+        "damage": "40+",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Exciting Voltage",
+        "effect": "If this Pokémon has at least 2 extra Lighting Energy attached, this attack does 80 more damage.",
+        "damage": "120",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_037",
+    "name": "Cresselia ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Psychic Flash",
+        "damage": "80",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Lunar Plumage",
+        "effect": "Whenever you attach a Psychic Energy from your Energy Zone to this Pokémon, heal 20 damage from this Pokémon."
+      }
+    ]
+  },
+  {
+    "id": "pa_038",
+    "name": "Misdreavus",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Confuse Ray",
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "damage": "0",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "pa_039",
+    "name": "Skarmory",
+    "element": "Steel",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Metal Arms",
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 30 more damage.",
+        "damage": "20+",
+        "cost": [
+          "Steel"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "pa_040",
+    "name": "Chimchar",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": "20",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": []
+  },
+  {
+    "id": "pa_041",
+    "name": "Togepi",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Steel",
+    "abilities": []
+  },
+  {
+    "id": "pa_042",
+    "name": "Darkrai ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Dark Prism",
+        "effect": null,
+        "damage": 80,
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Nightmare Aura",
+        "effect": "Whenever you attach a [D] Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
+      }
+    ]
+  },
+  {
+    "id": "pa_043",
+    "name": "Cherrim (Overcast Form)",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Leech Seed",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "pa_044",
+    "name": "Raichu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Spark",
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+        "damage": "40",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Resilience Link",
+        "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
+      }
+    ]
+  },
+  {
+    "id": "pa_045",
+    "name": "Nosepass",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Iron Defense",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks.",
+        "damage": "0",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": []
+  },
+  {
+    "id": "pa_046",
+    "name": "Gible",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": []
+  },
+  {
+    "id": "pa_047",
+    "name": "Staraptor",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Wing Attack",
+        "damage": "90",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Defensive Whirlwind",
+        "effect": "This Pokémon takes -30 damage from attacks from Fighting Pokémon."
+      }
+    ]
+  },
+  {
+    "id": "pa_048",
+    "name": "Manaphy",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Oceanic Gift",
+        "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a [W] Energy from your Energy Zone and attach it to that Pokémon.",
+        "damage": 0,
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "pa_049",
+    "name": "Snorlax",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Collapse",
+        "effect": "This Pokémon is now Asleep.",
+        "damage": 100,
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_050",
+    "name": "Mewtwo ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Psychic Sphere",
+        "effect": null,
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Psydrive",
+        "effect": "Discard 2 Psychic Energy from this Pokémon.",
+        "damage": "150",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
+    "id": "pa_051",
+    "name": "Cyclizar",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Overacceleration",
+        "effect": "During your next turn, this Pokémon's Overacceleration attack does +20 damage.",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_052",
+    "name": "Sprigatito",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Cry for Help",
+        "effect": "Put 1 random [G] Pokémon from your deck into your hand.",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": []
+  },
+  {
+    "id": "pa_053",
+    "name": "Floatzel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Attack the Wound",
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage.",
+        "damage": "10+",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": []
+  },
+  {
+    "id": "pa_054",
+    "name": "Pawmot",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Electric Punch",
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Counterattack",
+        "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+      }
+    ]
+  },
+  {
+    "id": "pa_055",
+    "name": "Machamp",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Power Press",
+        "effect": "If this Pokémon has at least 2 extra [F] Energy attached, this attack does 50 more damage.",
+        "damage": "70+",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": []
+  },
+  {
+    "id": "pa_056",
+    "name": "Ekans",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Poison Sting",
+        "effect": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "0",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_057",
+    "name": "Bidoof",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_058",
+    "name": "Pachirisu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Plasma",
+        "effect": "Take a [L] Energy from your Energy Zone and attach it to 1 of your Benched [L] Pokémon.",
+        "damage": "10",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": []
+  },
+  {
+    "id": "pa_059",
+    "name": "Riolu",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Promo",
+    "pack": "Promo A",
+    "rarity": "Promo",
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "40",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": []
+  }
 ]
