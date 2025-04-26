@@ -6,7 +6,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -18,7 +17,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -30,7 +28,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -42,7 +39,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -54,7 +50,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -66,7 +61,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -78,7 +72,6 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -90,7 +83,6 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -102,7 +94,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -114,7 +105,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -126,7 +116,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -138,7 +127,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -150,7 +138,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -162,7 +149,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -174,7 +160,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -186,7 +171,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -198,7 +182,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -210,7 +193,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -222,7 +204,6 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -234,7 +215,6 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 70,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -246,7 +226,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
@@ -258,7 +237,6 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "craftingCost": null,
     "set": "Promo",
     "pack": "Promo A",
     "rarity": "Promo"
