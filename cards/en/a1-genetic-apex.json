@@ -2566,7 +2566,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": []
   },
@@ -4516,7 +4516,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -6066,7 +6066,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [
       {
