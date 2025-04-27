@@ -2512,7 +2512,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
