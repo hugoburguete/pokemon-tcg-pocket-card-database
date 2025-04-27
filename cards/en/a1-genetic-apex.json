@@ -612,7 +612,7 @@
         ]
       }
     ],
-    "retreatCost": 3,
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": []
   },
