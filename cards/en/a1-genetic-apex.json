@@ -7121,6 +7121,30 @@
     "abilities": []
   },
   {
+    "id": "a1-283",
+    "name": "Mew",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Genetic Apex (A1)",
+    "pack": null,
+    "rarity": "Immersive",
+    "attacks": [
+      {
+        "name": "Psy Report",
+        "effects": "Your opponent reveals their hand.",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": []
+  },
+  {
     "id": "a1-284",
     "name": "Charizard ex",
     "element": "Fire",
