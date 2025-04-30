@@ -1,6 +1,6 @@
 {
   "name": "pokemon-tcg-pocket-card-database",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A card database for the pokemon TCG pocket mobile game.",
   "main": "index.js",
   "repository": {

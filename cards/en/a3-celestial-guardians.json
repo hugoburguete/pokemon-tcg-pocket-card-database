@@ -1,0 +1,6154 @@
+[
+  {
+    "id": "a3-001",
+    "name": "Exeggcute",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Rolling Tackle",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-002",
+    "name": "Alolan Exeggutor",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Tropical Hammer",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": "150",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-003",
+    "name": "Surskit",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "effect": "Flip a coin. If heads, this attack does 20 more damage.",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-004",
+    "name": "Masquerain",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bug Buzz",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Surskit",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-005",
+    "name": "Maractus",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Sting",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-006",
+    "name": "Karrablast",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-007",
+    "name": "Phantump",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Hook",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-008",
+    "name": "Trevenant",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "effect": "",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Phantump",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-009",
+    "name": "Rowlet",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Leafage",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-010",
+    "name": "Rowlet",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Skill Dive",
+        "effect": "This attack does 10 damage to 1 of your opponent's Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-011",
+    "name": "Dartrix",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Razor Wing",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Rowlet",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-012",
+    "name": "Decidueye ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Pierce the Pain",
+        "effect": "This attack does 100 damage to 1 of your opponent's Pokémon that have damage on them.",
+        "damage": "0",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Razor Leaf",
+        "effect": "",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Dartrix",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-013",
+    "name": "Grubbin",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-014",
+    "name": "Fomantis",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leafage",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-015",
+    "name": "Lurantis",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Petal Blizzard",
+        "effect": "This attack does 20 damage to each of your opponent's Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Fomantis",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-016",
+    "name": "Morelull",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Stampede",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-017",
+    "name": "Shiinotic",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Flickering Light",
+        "effect": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn.",
+        "damage": "50",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Morelull",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-018",
+    "name": "Bounsweet",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Stampede",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-019",
+    "name": "Steenee",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Double Spin",
+        "effect": "Flip 2 coins. This attack does 30 damage for each heads.",
+        "damage": "30x",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Bounsweet",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-020",
+    "name": "Tsareena",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Three Kick Combo",
+        "effect": "Flip 3 coins. This attack does 50 damage for each heads.",
+        "damage": "50x",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Steenee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-021",
+    "name": "Wimpod",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Wimp Out",
+        "effect": "During your first turn, this Pokémon has no Retreat Cost."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-022",
+    "name": "Golisopod",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "First Impression",
+        "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 60 more damage.",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Wimpod",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-023",
+    "name": "Dhelmise ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Anchor Shot",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-024",
+    "name": "Tapu Bulu",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Stuck-In Tackle",
+        "effect": "Flip a coin. If tails, this Pokémon also does 20 damage to itself.",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-025",
+    "name": "Growlithe",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Combustion",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-026",
+    "name": "Arcanine",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fire Mane",
+        "effect": "",
+        "damage": "80",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Growlithe",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-027",
+    "name": "Alolan Marowak",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Burning Bonemerang",
+        "effect": "Flip 2 coins. This attack does 70 damage for each heads. If at least 1 of them is heads, your opponent's Active Pokémon is now Burned.",
+        "damage": "70x",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-028",
+    "name": "Fletchinder",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Steady Firebreathing",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Fletchling",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-029",
+    "name": "Talonflame",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Fire Wing",
+        "effect": "",
+        "damage": "90",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Fletchinder",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-030",
+    "name": "Litten",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Heat Tackle",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-031",
+    "name": "Litten",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Scratch",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-032",
+    "name": "Torracat",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Heat Tackle",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": "40",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Litten",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-033",
+    "name": "Incineroar ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Fire Fang",
+        "effect": "Your opponent's Active Pokémon is now Burned.",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Scar-Charged Smash",
+        "effect": "If this Pokémon has damage on it, this attack does 60 more damage.",
+        "damage": "80+",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Torracat",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-034",
+    "name": "Oricorio",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Kindle",
+        "effect": "Discard a random Energy from both Active Pokémon.",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-035",
+    "name": "Salandit",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-036",
+    "name": "Salazzle",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heated Poison",
+        "effect": "Your opponent's Active Pokémon is now Poisoned and Burned.",
+        "damage": "30",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Salandit",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-037",
+    "name": "Turtonator",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "effect": "Discard a Fire Energy from this Pokémon.",
+        "damage": "90",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-038",
+    "name": "Alolan Sandshrew",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Scratch",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-039",
+    "name": "Alolan Sandslash",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spike Armor",
+        "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 40 damage to the Attacking Pokémon.",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Alolan Sandshrew",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-040",
+    "name": "Alolan Vulpix",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Call Forth Cold",
+        "effect": "Take a Water Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-041",
+    "name": "Alolan Ninetales",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Alolan Vulpix",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-042",
+    "name": "Shellder",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-043",
+    "name": "Cloyster",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Guard Press",
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Shellder",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-044",
+    "name": "Lapras",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": "",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-045",
+    "name": "Popplio",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Sing",
+        "effect": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-046",
+    "name": "Popplio",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-047",
+    "name": "Brionne",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Popplio",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-048",
+    "name": "Primarina",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Melodious Healing",
+        "effect": "Once during your turn, you may heal 30 damage from each of your Water Pokémon."
+      }
+    ],
+    "evolvesFrom": "Brionne",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-049",
+    "name": "Crabominable ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Insatiable Striking",
+        "effect": "During your next turn, this Pokémon's Insatiable Striking attack does +40 damage.",
+        "damage": "40",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Crabrawler",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-050",
+    "name": "Wishiwashi",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "effect": "Put 1 random Wishiwashi or Wishiwashi ex from your deck onto your Bench.",
+        "damage": "0",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-051",
+    "name": "Wishiwashi ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "School Storm",
+        "effect": "This attack does 40 more damage for each of your Benched Wishiwashi or Wishiwashi ex.",
+        "damage": "30+",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-052",
+    "name": "Dewpider",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Hook",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-053",
+    "name": "Araquanid",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Dangerous Claws",
+        "effect": "If your opponent's Active Pokémon is a Basic Pokemon, this attack does 60 more damage.",
+        "damage": "60+",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Dewpider",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-054",
+    "name": "Pyukumuku",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Sprinkle Water",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Innards Out",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-055",
+    "name": "Bruxish",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-056",
+    "name": "Tapu Fini",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Spiral Drain",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-057",
+    "name": "Pikachu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tail Smack",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-058",
+    "name": "Alolan Raichu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Psychic",
+        "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "damage": "60+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-059",
+    "name": "Alolan Geodude",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Knuckle Punch",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-060",
+    "name": "Alolan Graveler",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Heavy Impact",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Alolan Geodude",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-061",
+    "name": "Alolan Golem",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Super Zap Cannon",
+        "effect": "Discard 2 Lightning Energy from this Pokémon.",
+        "damage": "150",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Alolan Graveler",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-062",
+    "name": "Helioptile",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Smash Kick",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-063",
+    "name": "Heliolisk",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rear Kick",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Helioptile",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-064",
+    "name": "Charjabug",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Vise Grip",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Grubbin",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-065",
+    "name": "Vikavolt",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Disconnect",
+        "effect": "During your opponent's next turn, they can't play any Item cards from their hand.",
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Charjabug",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-066",
+    "name": "Oricorio",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Zzzap",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Safeguard",
+        "effect": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-067",
+    "name": "Togedemaru",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Electrosmash",
+        "effect": "Flip a coin. If heads, this attack does 30 more damage.",
+        "damage": "20+",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-068",
+    "name": "Tapu Koko",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Volt Switch",
+        "effect": "Switch this Pokémon with 1 of your Benched Lightning Pokémon.",
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-069",
+    "name": "Mr. Mime",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Barrier Shove",
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
+        "damage": "30",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-070",
+    "name": "Sableye",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Corner",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "damage": "40",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-071",
+    "name": "Spoink",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psycharge",
+        "effect": "Take a Psychic Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-072",
+    "name": "Grumpig",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Zen Headbutt",
+        "effect": "",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Spoink",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-073",
+    "name": "Lunatone",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Moon Press",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-074",
+    "name": "Shuppet",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Will-O-Wisp",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-075",
+    "name": "Banette",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Night Bind",
+        "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon.",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Shuppet",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-076",
+    "name": "Oricorio",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Dazzle Dance",
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "damage": "40",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-077",
+    "name": "Oricorio",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Spiteful Dance",
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage.",
+        "damage": "20+",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-078",
+    "name": "Cutiefly",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Flap",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-079",
+    "name": "Ribombee",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Fairy Wind",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Cutiefly",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-080",
+    "name": "Comfey",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Spinning Attack",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Flower Shield",
+        "effect": "Each of your Pokémon that has any Psychic Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-081",
+    "name": "Sandygast",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Vibration",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-082",
+    "name": "Palossand",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "effect": "",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Sandygast",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-083",
+    "name": "Mimikyu",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Shadow Hit",
+        "effect": "This attack also does 20 damage to 1 of your Pokémon.",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-084",
+    "name": "Tapu Lele",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Energy Arrow",
+        "effect": "This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to that Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-085",
+    "name": "Cosmog",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Teleport",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-086",
+    "name": "Cosmoem",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stiffen",
+        "effect": "During your opponent's next turn, this Pokémon takes −50 damage from attacks.",
+        "damage": "0",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Cosmog",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-087",
+    "name": "Lunala ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Lunar Blast",
+        "effect": "",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Psychic Connect",
+        "effect": "Once during your turn, you may move all Psychic Energy from 1 of your Benched Psychic Pokémon to your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-088",
+    "name": "Necrozma",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Prismatic Laser",
+        "effect": "During your next turn, this Pokémon can't attack.",
+        "damage": "120",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-089",
+    "name": "Cubone",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Beat",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-090",
+    "name": "Makuhita",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slap Push",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-091",
+    "name": "Hariyama",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Push Out",
+        "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)",
+        "damage": "50",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Makuhita",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-092",
+    "name": "Solrock",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Solar Beam",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-093",
+    "name": "Drilbur",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Scratch",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-094",
+    "name": "Timburr",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Corkscrew Punch",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-095",
+    "name": "Gurdurr",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Strength",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Timburr",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-096",
+    "name": "Conkeldurr",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Mega Punch",
+        "effect": "",
+        "damage": "80",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Guts",
+        "effect": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10."
+      }
+    ],
+    "evolvesFrom": "Gurdurr",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-097",
+    "name": "Crabrawler",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Punch",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-098",
+    "name": "Rockruff",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Signs of Evolution",
+        "effect": "Put a random card that evolves from Rockruff from your deck into your hand.",
+        "damage": "0",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-099",
+    "name": "Rockruff",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-100",
+    "name": "Lycanroc",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Crunch",
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-101",
+    "name": "Lycanroc",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Blood Fang",
+        "effect": "If your opponent's Active Pokémon has more remaining HP than this Pokémon, this attack does 50 more damage.",
+        "damage": "50+",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-102",
+    "name": "Mudbray",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Rear Kick",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-103",
+    "name": "Mudsdale",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "High Horsepower",
+        "effect": "This Pokémon also does 40 damage to itself.",
+        "damage": "140",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Mudbray",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-104",
+    "name": "Passimian ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Seismic Toss",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Offload Pass",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all Fighting Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-105",
+    "name": "Minior",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Star Drop",
+        "effect": "This attack does 40 damage to 1 of your opponent's Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-106",
+    "name": "Alolan Rattata",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Bite",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-107",
+    "name": "Alolan Raticate",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Scrounge-and-Scarf",
+        "effect": "Discard a random Item card from your opponent's hand.",
+        "damage": "50",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Alolan Rattata",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-108",
+    "name": "Alolan Meowth",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Scratch",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-109",
+    "name": "Alolan Persian",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Fur Coat",
+        "effect": "This Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "evolvesFrom": "Alolan Meowth",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-110",
+    "name": "Alolan Grimer",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Sludge Toss",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-111",
+    "name": "Alolan Muk ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Chemical Panic",
+        "effect": "1 Special Condition from among Asleep, Burned, Confused, Paralyzed, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
+        "damage": "80",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Alolan Grimer",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-112",
+    "name": "Absol",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Unseen Claw",
+        "effect": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage.",
+        "damage": "20+",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-113",
+    "name": "Trubbish",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pound",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-114",
+    "name": "Garbodor",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Super Poison Breath",
+        "effect": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Trubbish",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-115",
+    "name": "Mareanie",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Pierce",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-116",
+    "name": "Toxapex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Spike Cannon",
+        "effect": "Flip 4 coins. This attack does 20 damage for each heads.",
+        "damage": "20x",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Mareanie",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-117",
+    "name": "Alolan Diglett",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-118",
+    "name": "Alolan Dugtrio",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Iron Head",
+        "effect": "Flip a coin until you get tails. This attack does 70 damage for each heads.",
+        "damage": "70x",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Alolan Diglett",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-119",
+    "name": "Excadrill",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slash",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Drilbur",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-120",
+    "name": "Escavalier",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pike",
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon.",
+        "damage": "30",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Karrablast",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-121",
+    "name": "Klefki",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Unlock",
+        "effect": "Draw a card.",
+        "damage": "10",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-122",
+    "name": "Solgaleo ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Sol Breaker",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": "120",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Rising Road",
+        "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-123",
+    "name": "Magearna",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Silver Cannon",
+        "effect": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage.",
+        "damage": "40+",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-124",
+    "name": "Drampa",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Berserk",
+        "effect": "If any of your Benched Pokémon have damage on them, this attack does 50 more damage.",
+        "damage": "20+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-125",
+    "name": "Jangmo",
+    "element": "o",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-126",
+    "name": "Hakamo",
+    "element": "o",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Dragon Claw",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Lightning",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Jangmo-o",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-127",
+    "name": "Kommo",
+    "element": "o",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Clanging Scales",
+        "effect": "During your opponent's next turn, this Pokémon takes +30 damage from attacks.",
+        "damage": "130",
+        "cost": [
+          "Lightning",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Hakamo-o",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-128",
+    "name": "Tauros",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rising Lunge",
+        "effect": "Flip a coin. If heads, this attack does 50 more damage.",
+        "damage": "50+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-129",
+    "name": "Skitty",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-130",
+    "name": "Delcatty",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energy Assist",
+        "effect": "Take a Colorless Energy from your Energy Zone and attach it to 1 of your Benched Pokémon.",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Skitty",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-131",
+    "name": "Fletchling",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Flap",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-132",
+    "name": "Hawlucha",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Justified Press",
+        "effect": "If your opponent's Active Pokémon is a Darkness Pokémon, this attack does 30 more damage.",
+        "damage": "20+",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-133",
+    "name": "Pikipek",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Peck",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-134",
+    "name": "Trumbeak",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Glide",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Pikipek",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-135",
+    "name": "Toucannon",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Drill Peck",
+        "effect": "",
+        "damage": "70",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Trumbeak",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-136",
+    "name": "Yungoos",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tackle",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-137",
+    "name": "Gumshoos",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Headbang",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Yungoos",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-138",
+    "name": "Stufful",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3-139",
+    "name": "Bewear",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Tantrum",
+        "effect": "This Pokémon is now Confused.",
+        "damage": "130",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-140",
+    "name": "Oranguru",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Primate’s Trap",
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 Colorless more, and its Retreat Cost is 1 Colorless more.",
+        "damage": "40",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-141",
+    "name": "Komala",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Rolling Tackle",
+        "effect": "",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Comatose",
+        "effect": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-142",
+    "name": "Big Malasada",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-143",
+    "name": "Fishing Net",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-144",
+    "name": "Rare Candy",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-145",
+    "name": "Rotom Dex",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-146",
+    "name": "Poison Barb",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-147",
+    "name": "Leaf Cape",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-148",
+    "name": "Acerola",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-149",
+    "name": "Ilima",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-150",
+    "name": "Kiawe",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-151",
+    "name": "Guzma",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-152",
+    "name": "Lana",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-153",
+    "name": "Sophocles",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-154",
+    "name": "Mallow",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-155",
+    "name": "Lillie",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3-156",
+    "name": "Alolan Exeggutor",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Tropical Hammer",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": "150",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-157",
+    "name": "Morelull",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Stampede",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-158",
+    "name": "Tsareena",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Three Kick Combo",
+        "effect": "Flip 3 coins. This attack does 50 damage for each heads.",
+        "damage": "50x",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Steenee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-159",
+    "name": "Tapu Bulu",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Stuck-In Tackle",
+        "effect": "Flip a coin. If tails, this Pokémon also does 20 damage to itself.",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-160",
+    "name": "Alolan Marowak",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Burning Bonemerang",
+        "effect": "Flip 2 coins. This attack does 70 damage for each heads. If at least 1 of them is heads, your opponent's Active Pokémon is now Burned.",
+        "damage": "70x",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-161",
+    "name": "Turtonator",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "effect": "Discard a Fire Energy from this Pokémon.",
+        "damage": "90",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-162",
+    "name": "Alolan Vulpix",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Call Forth Cold",
+        "effect": "Take a Water Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-163",
+    "name": "Pyukumuku",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Sprinkle Water",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Innards Out",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-164",
+    "name": "Tapu Fini",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Spiral Drain",
+        "effect": "Heal 20 damage from this Pokémon.",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-165",
+    "name": "Oricorio",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Zzzap",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Safeguard",
+        "effect": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon ex."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-166",
+    "name": "Tapu Koko",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Volt Switch",
+        "effect": "Switch this Pokémon with 1 of your Benched Lightning Pokémon.",
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-167",
+    "name": "Cutiefly",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Flap",
+        "effect": "",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-168",
+    "name": "Comfey",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Spinning Attack",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Flower Shield",
+        "effect": "Each of your Pokémon that has any Psychic Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-169",
+    "name": "Sandygast",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Vibration",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-170",
+    "name": "Tapu Lele",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Energy Arrow",
+        "effect": "This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to that Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-171",
+    "name": "Cosmog",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Teleport",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-172",
+    "name": "Rockruff",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Signs of Evolution",
+        "effect": "Put a random card that evolves from Rockruff from your deck into your hand.",
+        "damage": "0",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-173",
+    "name": "Mudsdale",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "High Horsepower",
+        "effect": "This Pokémon also does 40 damage to itself.",
+        "damage": "140",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Mudbray",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-174",
+    "name": "Minior",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Star Drop",
+        "effect": "This attack does 40 damage to 1 of your opponent's Pokémon.",
+        "damage": "0",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-175",
+    "name": "Magearna",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Silver Cannon",
+        "effect": "If your opponent's Active Pokémon has an Ability, this attack does 40 more damage.",
+        "damage": "40+",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-176",
+    "name": "Drampa",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Berserk",
+        "effect": "If any of your Benched Pokémon have damage on them, this attack does 50 more damage.",
+        "damage": "20+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-177",
+    "name": "Pikipek",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Peck",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-178",
+    "name": "Bewear",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Tantrum",
+        "effect": "This Pokémon is now Confused.",
+        "damage": "130",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-179",
+    "name": "Komala",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Rolling Tackle",
+        "effect": "",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Comatose",
+        "effect": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-180",
+    "name": "Decidueye ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Pierce the Pain",
+        "effect": "This attack does 100 damage to 1 of your opponent's Pokémon that have damage on them.",
+        "damage": "0",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Razor Leaf",
+        "effect": "",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Dartrix",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-181",
+    "name": "Dhelmise ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Anchor Shot",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-182",
+    "name": "Incineroar ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Fire Fang",
+        "effect": "Your opponent's Active Pokémon is now Burned.",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Scar-Charged Smash",
+        "effect": "If this Pokémon has damage on it, this attack does 60 more damage.",
+        "damage": "80+",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Torracat",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-183",
+    "name": "Crabominable ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Insatiable Striking",
+        "effect": "During your next turn, this Pokémon's Insatiable Striking attack does +40 damage.",
+        "damage": "40",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Crabrawler",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-184",
+    "name": "Wishiwashi ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "School Storm",
+        "effect": "This attack does 40 more damage for each of your Benched Wishiwashi or Wishiwashi ex.",
+        "damage": "30+",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-185",
+    "name": "Alolan Raichu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Psychic",
+        "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "damage": "60+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-186",
+    "name": "Lunala ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Lunar Blast",
+        "effect": "",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Psychic Connect",
+        "effect": "Once during your turn, you may move all Psychic Energy from 1 of your Benched Psychic Pokémon to your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-187",
+    "name": "Passimian ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Seismic Toss",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Offload Pass",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all Fighting Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-188",
+    "name": "Alolan Muk ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Chemical Panic",
+        "effect": "1 Special Condition from among Asleep, Burned, Confused, Paralyzed, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
+        "damage": "80",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Alolan Grimer",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-189",
+    "name": "Solgaleo ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Sol Breaker",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": "120",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Rising Road",
+        "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-190",
+    "name": "Acerola",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-191",
+    "name": "Ilima",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-192",
+    "name": "Kiawe",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-193",
+    "name": "Guzma",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-194",
+    "name": "Lana",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-195",
+    "name": "Sophocles",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-196",
+    "name": "Mallow",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-197",
+    "name": "Lillie",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-198",
+    "name": "Decidueye ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Pierce the Pain",
+        "effect": "This attack does 100 damage to 1 of your opponent's Pokémon that have damage on them.",
+        "damage": "0",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Razor Leaf",
+        "effect": "",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Dartrix",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-199",
+    "name": "Dhelmise ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Anchor Shot",
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-200",
+    "name": "Incineroar ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Fire Fang",
+        "effect": "Your opponent's Active Pokémon is now Burned.",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      },
+      {
+        "name": "Scar-Charged Smash",
+        "effect": "If this Pokémon has damage on it, this attack does 60 more damage.",
+        "damage": "80+",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Torracat",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-201",
+    "name": "Crabominable ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Insatiable Striking",
+        "effect": "During your next turn, this Pokémon's Insatiable Striking attack does +40 damage.",
+        "damage": "40",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Crabrawler",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-202",
+    "name": "Wishiwashi ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "School Storm",
+        "effect": "This attack does 40 more damage for each of your Benched Wishiwashi or Wishiwashi ex.",
+        "damage": "30+",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-203",
+    "name": "Alolan Raichu ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Psychic",
+        "effect": "This attack does 30 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "damage": "60+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-204",
+    "name": "Lunala ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Lunar Blast",
+        "effect": "",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Psychic Connect",
+        "effect": "Once during your turn, you may move all Psychic Energy from 1 of your Benched Psychic Pokémon to your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-205",
+    "name": "Passimian ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Seismic Toss",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Offload Pass",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, move all Fighting Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-206",
+    "name": "Alolan Muk ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Chemical Panic",
+        "effect": "1 Special Condition from among Asleep, Burned, Confused, Paralyzed, and Poisoned is chosen at random, and your opponent's Active Pokémon is now affected by that Special Condition. Any Special Conditions already affecting that Pokémon will not be chosen.",
+        "damage": "80",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Alolan Grimer",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-207",
+    "name": "Solgaleo ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Sol Breaker",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": "120",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Rising Road",
+        "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-208",
+    "name": "Guzma",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a3-209",
+    "name": "Lillie",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a3-210",
+    "name": "Bulbasaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Vine Whip",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-211",
+    "name": "Ivysaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Razor Leaf",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Bulbasaur",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-212",
+    "name": "Venusaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Mega Drain",
+        "effect": "Heal 30 damage from this Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-213",
+    "name": "Exeggcute",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Rolling Tackle",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-214",
+    "name": "Exeggutor",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Psychic",
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon.",
+        "damage": "80+",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-215",
+    "name": "Squirtle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-216",
+    "name": "Wartortle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Squirtle",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-217",
+    "name": "Blastoise",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage.",
+        "damage": "80+",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-218",
+    "name": "Staryu",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Smack",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-219",
+    "name": "Starmie",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Wave Splash",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Staryu",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-220",
+    "name": "Gastly",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Astonish",
+        "effect": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-221",
+    "name": "Haunter",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Will-O-Wisp",
+        "effect": "",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Gastly",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-222",
+    "name": "Gengar",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Bother",
+        "effect": "Your opponent can't use any Supporter cards from their hand during their next turn.",
+        "damage": "50",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-223",
+    "name": "Machop",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Knuckle Punch",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-224",
+    "name": "Machoke",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Strength",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Machop",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-225",
+    "name": "Machamp",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Power Press",
+        "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage.",
+        "damage": "70+",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Machoke",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-226",
+    "name": "Cubone",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Growl",
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-227",
+    "name": "Marowak",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Bone Beatdown",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-228",
+    "name": "Jigglypuff",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Rollout",
+        "effect": "",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-229",
+    "name": "Wigglytuff",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Gentle Slap",
+        "effect": "",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Comforting Song",
+        "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3-230",
+    "name": "Venusaur ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 190,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Razor Leaf",
+        "effect": "",
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Giant Bloom",
+        "effect": "Heal 30 damage from this Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-231",
+    "name": "Exeggutor ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Tropical Swing",
+        "effect": "Flip a coin. If heads, this attack does 40 more damage.",
+        "damage": "40+",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-232",
+    "name": "Blastoise ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": "",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Hydro Bazooka",
+        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack does 60 more damage.",
+        "damage": "100+",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-233",
+    "name": "Starmie ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Hydro Splash",
+        "effect": "",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Staryu",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-234",
+    "name": "Gengar ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "effect": "",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Shadowy Spellbind",
+        "effect": "As long as this Pokémon is in the Active Spot, your opponent can't use any Supporter cards from their hand."
+      }
+    ],
+    "evolvesFrom": "Haunter",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-235",
+    "name": "Machamp ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Mega Punch",
+        "effect": "",
+        "damage": "120",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Machoke",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-236",
+    "name": "Marowak ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Bonemerang",
+        "effect": "Flip 2 coins. This attack does 80 damage for each heads.",
+        "damage": "80x",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-237",
+    "name": "Wigglytuff ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Celestial Guardians (A3)",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Sleepy Song",
+        "effect": "Your opponent's Active Pokémon is now Asleep.",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3-238",
+    "name": "Lunala ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lunar Blast",
+        "effect": "",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Psychic Connect",
+        "effect": "Once during your turn, you may move all Psychic Energy from 1 of your Benched Psychic Pokémon to your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Gold Crown"
+  },
+  {
+    "id": "a3-239",
+    "name": "Solgaleo ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Celestial Guardians (A3)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sol Breaker",
+        "effect": "This Pokémon also does 10 damage to itself.",
+        "damage": "120",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Rising Road",
+        "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Gold Crown"
+  }
+]
