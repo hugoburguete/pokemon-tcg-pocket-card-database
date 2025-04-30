@@ -612,7 +612,7 @@
         ]
       }
     ],
-    "retreatCost": 3,
+    "retreatCost": 2,
     "weakness": "Fire",
     "abilities": []
   },
@@ -2512,7 +2512,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 2,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -2566,7 +2566,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": []
   },
@@ -3948,7 +3948,7 @@
         ]
       }
     ],
-    "retreatCost": 4,
+    "retreatCost": 1,
     "weakness": "Psychic",
     "abilities": []
   },
@@ -4516,7 +4516,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [
       {
@@ -5867,7 +5867,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 0,
     "weakness": "Fighting",
     "abilities": []
   },
@@ -6066,7 +6066,7 @@
         ]
       }
     ],
-    "retreatCost": 1,
+    "retreatCost": 3,
     "weakness": "Fighting",
     "abilities": [
       {
