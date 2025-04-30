@@ -11,7 +11,6 @@
     "attacks": [
       {
         "name": "Rolling Tackle",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Grass",
@@ -89,7 +88,6 @@
     "attacks": [
       {
         "name": "Bug Buzz",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Grass"
@@ -114,7 +112,6 @@
     "attacks": [
       {
         "name": "Sting",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Grass",
@@ -140,7 +137,6 @@
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -165,7 +161,6 @@
     "attacks": [
       {
         "name": "Hook",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Grass"
@@ -190,7 +185,6 @@
     "attacks": [
       {
         "name": "Claw Slash",
-        "effect": "",
         "damage": "80",
         "cost": [
           "Grass",
@@ -217,7 +211,6 @@
     "attacks": [
       {
         "name": "Leafage",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Grass"
@@ -243,7 +236,7 @@
       {
         "name": "Skill Dive",
         "effect": "This attack does 10 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Grass"
         ]
@@ -267,7 +260,6 @@
     "attacks": [
       {
         "name": "Razor Wing",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Grass"
@@ -293,7 +285,7 @@
       {
         "name": "Pierce the Pain",
         "effect": "This attack does 100 damage to 1 of your opponent's Pokémon that have damage on them.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -301,7 +293,6 @@
       },
       {
         "name": "Razor Leaf",
-        "effect": "",
         "damage": "80",
         "cost": [
           "Grass",
@@ -327,7 +318,6 @@
     "attacks": [
       {
         "name": "Gnaw",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -352,7 +342,6 @@
     "attacks": [
       {
         "name": "Leafage",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Grass"
@@ -378,7 +367,7 @@
       {
         "name": "Petal Blizzard",
         "effect": "This attack does 20 damage to each of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Grass"
         ]
@@ -402,7 +391,6 @@
     "attacks": [
       {
         "name": "Stampede",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -453,7 +441,6 @@
     "attacks": [
       {
         "name": "Stampede",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Grass"
@@ -528,7 +515,6 @@
     "attacks": [
       {
         "name": "Gnaw",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Grass",
@@ -641,7 +627,6 @@
     "attacks": [
       {
         "name": "Combustion",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Fire",
@@ -667,7 +652,6 @@
     "attacks": [
       {
         "name": "Fire Mane",
-        "effect": "",
         "damage": "80",
         "cost": [
           "Fire",
@@ -721,7 +705,6 @@
     "attacks": [
       {
         "name": "Steady Firebreathing",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Fire"
@@ -746,7 +729,6 @@
     "attacks": [
       {
         "name": "Fire Wing",
-        "effect": "",
         "damage": "90",
         "cost": [
           "Fire",
@@ -797,7 +779,6 @@
     "attacks": [
       {
         "name": "Scratch",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fire"
@@ -908,7 +889,6 @@
     "attacks": [
       {
         "name": "Gnaw",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -986,7 +966,6 @@
     "attacks": [
       {
         "name": "Scratch",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -1037,7 +1016,7 @@
       {
         "name": "Call Forth Cold",
         "effect": "Take a Water Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
         ]
@@ -1088,7 +1067,6 @@
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Water"
@@ -1139,7 +1117,6 @@
     "attacks": [
       {
         "name": "Surf",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Water",
@@ -1167,7 +1144,7 @@
       {
         "name": "Sing",
         "effect": "Your opponent's Active Pokémon is now Asleep.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -1191,7 +1168,6 @@
     "attacks": [
       {
         "name": "Water Gun",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -1216,7 +1192,6 @@
     "attacks": [
       {
         "name": "Wave Splash",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Water"
@@ -1241,7 +1216,6 @@
     "attacks": [
       {
         "name": "Surf",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Water",
@@ -1298,7 +1272,7 @@
       {
         "name": "Call for Family",
         "effect": "Put 1 random Wishiwashi or Wishiwashi ex from your deck onto your Bench.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
         ]
@@ -1349,7 +1323,6 @@
     "attacks": [
       {
         "name": "Hook",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Water",
@@ -1402,7 +1375,6 @@
     "attacks": [
       {
         "name": "Sprinkle Water",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -1432,7 +1404,6 @@
     "attacks": [
       {
         "name": "Wave Splash",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Water",
@@ -1485,7 +1456,6 @@
     "attacks": [
       {
         "name": "Tail Smack",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1538,7 +1508,6 @@
     "attacks": [
       {
         "name": "Knuckle Punch",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Lightning",
@@ -1564,7 +1533,6 @@
     "attacks": [
       {
         "name": "Heavy Impact",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Lightning",
@@ -1619,7 +1587,6 @@
     "attacks": [
       {
         "name": "Smash Kick",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -1644,7 +1611,6 @@
     "attacks": [
       {
         "name": "Rear Kick",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Colorless"
@@ -1669,7 +1635,6 @@
     "attacks": [
       {
         "name": "Vise Grip",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Lightning"
@@ -1720,7 +1685,6 @@
     "attacks": [
       {
         "name": "Zzzap",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Lightning",
@@ -1856,7 +1820,7 @@
       {
         "name": "Psycharge",
         "effect": "Take a Psychic Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic"
         ]
@@ -1880,7 +1844,6 @@
     "attacks": [
       {
         "name": "Zen Headbutt",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Psychic",
@@ -1907,7 +1870,6 @@
     "attacks": [
       {
         "name": "Moon Press",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Psychic",
@@ -1933,7 +1895,6 @@
     "attacks": [
       {
         "name": "Will-O-Wisp",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Psychic"
@@ -2034,7 +1995,6 @@
     "attacks": [
       {
         "name": "Flap",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -2059,7 +2019,6 @@
     "attacks": [
       {
         "name": "Fairy Wind",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Colorless"
@@ -2084,7 +2043,6 @@
     "attacks": [
       {
         "name": "Spinning Attack",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Psychic",
@@ -2115,7 +2073,6 @@
     "attacks": [
       {
         "name": "Vibration",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Psychic",
@@ -2141,7 +2098,6 @@
     "attacks": [
       {
         "name": "Spooky Shot",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Psychic",
@@ -2195,7 +2151,7 @@
       {
         "name": "Energy Arrow",
         "effect": "This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to that Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic"
         ]
@@ -2220,7 +2176,7 @@
       {
         "name": "Teleport",
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -2245,7 +2201,7 @@
       {
         "name": "Stiffen",
         "effect": "During your opponent's next turn, this Pokémon takes −50 damage from attacks.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -2270,7 +2226,6 @@
     "attacks": [
       {
         "name": "Lunar Blast",
-        "effect": "",
         "damage": "100",
         "cost": [
           "Psychic",
@@ -2330,7 +2285,6 @@
     "attacks": [
       {
         "name": "Beat",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -2356,7 +2310,6 @@
     "attacks": [
       {
         "name": "Slap Push",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -2407,7 +2360,6 @@
     "attacks": [
       {
         "name": "Solar Beam",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Fighting",
@@ -2433,7 +2385,6 @@
     "attacks": [
       {
         "name": "Scratch",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -2458,7 +2409,6 @@
     "attacks": [
       {
         "name": "Corkscrew Punch",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -2483,7 +2433,6 @@
     "attacks": [
       {
         "name": "Strength",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Fighting",
@@ -2509,7 +2458,6 @@
     "attacks": [
       {
         "name": "Mega Punch",
-        "effect": "",
         "damage": "80",
         "cost": [
           "Fighting",
@@ -2541,7 +2489,6 @@
     "attacks": [
       {
         "name": "Punch",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -2567,7 +2514,7 @@
       {
         "name": "Signs of Evolution",
         "effect": "Put a random card that evolves from Rockruff from your deck into your hand.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting"
         ]
@@ -2591,7 +2538,6 @@
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -2669,7 +2615,6 @@
     "attacks": [
       {
         "name": "Rear Kick",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Fighting",
@@ -2723,7 +2668,6 @@
     "attacks": [
       {
         "name": "Seismic Toss",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Fighting",
@@ -2755,7 +2699,7 @@
       {
         "name": "Star Drop",
         "effect": "This attack does 40 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting",
           "Fighting"
@@ -2780,7 +2724,6 @@
     "attacks": [
       {
         "name": "Bite",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Darkness"
@@ -2831,7 +2774,6 @@
     "attacks": [
       {
         "name": "Scratch",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Darkness"
@@ -2856,7 +2798,6 @@
     "attacks": [
       {
         "name": "Claw Slash",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Darkness",
@@ -2887,7 +2828,6 @@
     "attacks": [
       {
         "name": "Sludge Toss",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Darkness",
@@ -2966,7 +2906,6 @@
     "attacks": [
       {
         "name": "Pound",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Darkness"
@@ -3018,7 +2957,6 @@
     "attacks": [
       {
         "name": "Pierce",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Darkness"
@@ -3068,7 +3006,6 @@
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Metal"
@@ -3119,7 +3056,6 @@
     "attacks": [
       {
         "name": "Slash",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Metal"
@@ -3277,7 +3213,6 @@
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -3302,7 +3237,6 @@
     "attacks": [
       {
         "name": "Dragon Claw",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Lightning",
@@ -3381,7 +3315,6 @@
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -3431,7 +3364,6 @@
     "attacks": [
       {
         "name": "Flap",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -3481,7 +3413,6 @@
     "attacks": [
       {
         "name": "Peck",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -3506,7 +3437,6 @@
     "attacks": [
       {
         "name": "Glide",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless"
@@ -3531,7 +3461,6 @@
     "attacks": [
       {
         "name": "Drill Peck",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Colorless"
@@ -3556,7 +3485,6 @@
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -3581,7 +3509,6 @@
     "attacks": [
       {
         "name": "Headbang",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -3607,7 +3534,6 @@
     "attacks": [
       {
         "name": "Hammer In",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Colorless",
@@ -3688,7 +3614,6 @@
     "attacks": [
       {
         "name": "Rolling Tackle",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Colorless",
@@ -3970,7 +3895,6 @@
     "attacks": [
       {
         "name": "Stampede",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -4102,7 +4026,7 @@
       {
         "name": "Call Forth Cold",
         "effect": "Take a Water Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
         ]
@@ -4126,7 +4050,6 @@
     "attacks": [
       {
         "name": "Sprinkle Water",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -4183,7 +4106,6 @@
     "attacks": [
       {
         "name": "Zzzap",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Lightning",
@@ -4241,7 +4163,6 @@
     "attacks": [
       {
         "name": "Flap",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -4266,7 +4187,6 @@
     "attacks": [
       {
         "name": "Spinning Attack",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Psychic",
@@ -4297,7 +4217,6 @@
     "attacks": [
       {
         "name": "Vibration",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Psychic",
@@ -4324,7 +4243,7 @@
       {
         "name": "Energy Arrow",
         "effect": "This attack does 20 damage to 1 of your opponent's Pokémon for each Energy attached to that Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic"
         ]
@@ -4349,7 +4268,7 @@
       {
         "name": "Teleport",
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -4374,7 +4293,7 @@
       {
         "name": "Signs of Evolution",
         "effect": "Put a random card that evolves from Rockruff from your deck into your hand.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting"
         ]
@@ -4427,7 +4346,7 @@
       {
         "name": "Star Drop",
         "effect": "This attack does 40 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting",
           "Fighting"
@@ -4504,7 +4423,6 @@
     "attacks": [
       {
         "name": "Peck",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -4557,7 +4475,6 @@
     "attacks": [
       {
         "name": "Rolling Tackle",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Colorless",
@@ -4589,7 +4506,7 @@
       {
         "name": "Pierce the Pain",
         "effect": "This attack does 100 damage to 1 of your opponent's Pokémon that have damage on them.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -4597,7 +4514,6 @@
       },
       {
         "name": "Razor Leaf",
-        "effect": "",
         "damage": "80",
         "cost": [
           "Grass",
@@ -4764,7 +4680,6 @@
     "attacks": [
       {
         "name": "Lunar Blast",
-        "effect": "",
         "damage": "100",
         "cost": [
           "Psychic",
@@ -4796,7 +4711,6 @@
     "attacks": [
       {
         "name": "Seismic Toss",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Fighting",
@@ -5014,7 +4928,7 @@
       {
         "name": "Pierce the Pain",
         "effect": "This attack does 100 damage to 1 of your opponent's Pokémon that have damage on them.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -5022,7 +4936,6 @@
       },
       {
         "name": "Razor Leaf",
-        "effect": "",
         "damage": "80",
         "cost": [
           "Grass",
@@ -5189,7 +5102,6 @@
     "attacks": [
       {
         "name": "Lunar Blast",
-        "effect": "",
         "damage": "100",
         "cost": [
           "Psychic",
@@ -5221,7 +5133,6 @@
     "attacks": [
       {
         "name": "Seismic Toss",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Fighting",
@@ -5342,7 +5253,6 @@
     "attacks": [
       {
         "name": "Vine Whip",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Grass",
@@ -5368,7 +5278,6 @@
     "attacks": [
       {
         "name": "Razor Leaf",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Grass",
@@ -5423,7 +5332,6 @@
     "attacks": [
       {
         "name": "Rolling Tackle",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Grass",
@@ -5477,7 +5385,6 @@
     "attacks": [
       {
         "name": "Water Gun",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -5502,7 +5409,6 @@
     "attacks": [
       {
         "name": "Wave Splash",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Water",
@@ -5555,7 +5461,6 @@
     "attacks": [
       {
         "name": "Smack",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -5580,7 +5485,6 @@
     "attacks": [
       {
         "name": "Wave Splash",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Water"
@@ -5606,7 +5510,7 @@
       {
         "name": "Astonish",
         "effect": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -5630,7 +5534,6 @@
     "attacks": [
       {
         "name": "Will-O-Wisp",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Psychic"
@@ -5680,7 +5583,6 @@
     "attacks": [
       {
         "name": "Knuckle Punch",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -5705,7 +5607,6 @@
     "attacks": [
       {
         "name": "Strength",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Fighting",
@@ -5758,7 +5659,7 @@
       {
         "name": "Growl",
         "effect": "During your opponent's next turn, attacks used by the Defending Pokémon do -20 damage.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -5782,7 +5683,6 @@
     "attacks": [
       {
         "name": "Bone Beatdown",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Fighting"
@@ -5807,7 +5707,6 @@
     "attacks": [
       {
         "name": "Rollout",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -5818,7 +5717,7 @@
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-229",
@@ -5832,7 +5731,6 @@
     "attacks": [
       {
         "name": "Gentle Slap",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -5849,7 +5747,7 @@
       }
     ],
     "evolvesFrom": "Jigglypuff",
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-230",
@@ -5863,7 +5761,6 @@
     "attacks": [
       {
         "name": "Razor Leaf",
-        "effect": "",
         "damage": "60",
         "cost": [
           "Grass",
@@ -5887,7 +5784,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Two shiny star"
   },
   {
     "id": "a3-231",
@@ -5912,7 +5809,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Exeggcute",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Two shiny star"
   },
   {
     "id": "a3-232",
@@ -5926,7 +5823,6 @@
     "attacks": [
       {
         "name": "Surf",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Water",
@@ -5948,7 +5844,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Two shiny star"
   },
   {
     "id": "a3-233",
@@ -5962,7 +5858,6 @@
     "attacks": [
       {
         "name": "Hydro Splash",
-        "effect": "",
         "damage": "90",
         "cost": [
           "Water",
@@ -5974,7 +5869,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Staryu",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Two shiny star"
   },
   {
     "id": "a3-234",
@@ -5988,7 +5883,6 @@
     "attacks": [
       {
         "name": "Spooky Shot",
-        "effect": "",
         "damage": "100",
         "cost": [
           "Psychic",
@@ -6006,7 +5900,7 @@
       }
     ],
     "evolvesFrom": "Haunter",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Two shiny star"
   },
   {
     "id": "a3-235",
@@ -6020,7 +5914,6 @@
     "attacks": [
       {
         "name": "Mega Punch",
-        "effect": "",
         "damage": "120",
         "cost": [
           "Fighting",
@@ -6033,7 +5926,7 @@
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machoke",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Two shiny star"
   },
   {
     "id": "a3-236",
@@ -6059,7 +5952,7 @@
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Cubone",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Two shiny star"
   },
   {
     "id": "a3-237",
@@ -6086,7 +5979,7 @@
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Jigglypuff",
-    "rarity": "Full Art EX/Support"
+    "rarity": "Two shiny star"
   },
   {
     "id": "a3-238",
@@ -6100,7 +5993,6 @@
     "attacks": [
       {
         "name": "Lunar Blast",
-        "effect": "",
         "damage": "100",
         "cost": [
           "Psychic",
