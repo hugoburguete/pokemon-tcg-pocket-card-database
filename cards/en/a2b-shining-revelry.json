@@ -7,8 +7,7 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Multiply",
@@ -21,7 +20,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-002",
@@ -31,8 +32,7 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "String Shot",
@@ -45,7 +45,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Weedle",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-003",
@@ -55,8 +57,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Crushing Spear",
@@ -70,7 +71,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Kakuna",
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-004",
@@ -80,8 +83,7 @@
     "subtype": "Basic",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Guillotine Rush",
@@ -96,7 +98,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-005",
@@ -106,12 +110,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Cry for Help",
-        "effect": "Put 1 random [G] Pokémon from your deck into your hand.",
+        "effect": "Put 1 random Grass Pokémon from your deck into your hand.",
         "damage": "",
         "cost": [
           "Grass"
@@ -120,7 +123,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-006",
@@ -130,11 +135,11 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Slash",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Grass",
@@ -144,7 +149,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Sprigatito",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-007",
@@ -154,8 +161,7 @@
     "subtype": "Stage 2",
     "health": 140,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
         "name": "Fighting Claws",
@@ -169,7 +175,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "Rare"
   },
   {
     "id": "a2b-008",
@@ -179,11 +187,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Combustion",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Fire"
@@ -192,7 +200,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-009",
@@ -202,11 +212,11 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Combustion",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Fire",
@@ -216,7 +226,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Charmander",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-010",
@@ -226,12 +238,11 @@
     "subtype": "Stage 2",
     "health": 180,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Stoke",
-        "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon.",
+        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "",
         "cost": [
           "Fire"
@@ -239,6 +250,7 @@
       },
       {
         "name": "Steam Artillery",
+        "effect": "",
         "damage": "150",
         "cost": [
           "Fire",
@@ -251,7 +263,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-011",
@@ -261,11 +275,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Flare",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Fire"
@@ -274,7 +288,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-012",
@@ -284,8 +300,7 @@
     "subtype": "Stage 1",
     "health": 120,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
         "name": "Smoke Bomb",
@@ -300,7 +315,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Magmar",
+    "rarity": "Rare"
   },
   {
     "id": "a2b-013",
@@ -310,8 +327,7 @@
     "subtype": "Basic",
     "health": 110,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Blaze Tackle",
@@ -326,7 +342,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-014",
@@ -336,11 +354,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Rain Splash",
+        "effect": "",
         "damage": "10",
         "cost": [
           "Water"
@@ -349,7 +367,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-015",
@@ -359,11 +379,11 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Wave Splash",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Water"
@@ -372,7 +392,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Tentacool",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-016",
@@ -382,11 +404,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Water Gun",
+        "effect": "",
         "damage": "10",
         "cost": [
           "Water"
@@ -395,7 +417,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-017",
@@ -405,8 +429,7 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Water Arrow",
@@ -419,7 +442,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Buizel",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-018",
@@ -429,8 +454,7 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Spring Out",
@@ -443,7 +467,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-019",
@@ -453,8 +479,7 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Pop Out Throughout",
@@ -469,7 +494,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Wiglett",
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-020",
@@ -479,8 +506,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
         "name": "Ocean Cyclone",
@@ -496,7 +522,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
   },
   {
     "id": "a2b-021",
@@ -506,11 +534,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Rain Splash",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -524,7 +552,9 @@
         "name": "Retreat Directive",
         "effect": "Your Active Dondozo has no Retreat Cost."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-022",
@@ -534,8 +564,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Thunderbolt",
@@ -550,7 +579,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-023",
@@ -560,11 +591,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Lightning Ball",
+        "effect": "",
         "damage": "10",
         "cost": [
           "Lightning"
@@ -573,7 +604,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-024",
@@ -583,8 +616,7 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Tumbling Attack",
@@ -598,7 +630,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Voltorb",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-025",
@@ -608,8 +642,7 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Plasma",
@@ -622,7 +655,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-026",
@@ -632,11 +667,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Punch",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Lightning"
@@ -645,7 +680,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-027",
@@ -655,11 +692,11 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Punch",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Lightning",
@@ -669,7 +706,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Pawmi",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-028",
@@ -679,11 +718,11 @@
     "subtype": "Stage 2",
     "health": 140,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
         "name": "Electric Punch",
+        "effect": "",
         "damage": "70",
         "cost": [
           "Lightning",
@@ -698,7 +737,9 @@
         "name": "Counterattack",
         "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Pawmo",
+    "rarity": "Rare"
   },
   {
     "id": "a2b-029",
@@ -708,11 +749,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Psyshot",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Psychic"
@@ -721,7 +762,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-030",
@@ -731,11 +774,11 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Psyshot",
+        "effect": "",
         "damage": "30",
         "cost": [
           "Psychic"
@@ -744,7 +787,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Abra",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-031",
@@ -754,8 +799,7 @@
     "subtype": "Stage 2",
     "health": 130,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
         "name": "Psychic Suppression",
@@ -769,7 +813,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Kadabra",
+    "rarity": "Rare"
   },
   {
     "id": "a2b-032",
@@ -779,13 +825,12 @@
     "subtype": "Basic",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
-        "name": "Juggling",
+        "name": "Juggling 20x",
         "effect": "Flip 4 coins. This attack does 20 damage for each heads.",
-        "damage": "20x",
+        "damage": "",
         "cost": [
           "Psychic",
           "Colorless"
@@ -794,7 +839,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-033",
@@ -804,11 +851,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Ram",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Psychic"
@@ -817,7 +864,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-034",
@@ -827,11 +876,11 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Gust",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Psychic"
@@ -840,7 +889,9 @@
     ],
     "retreatCost": 0,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Drifloon",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-035",
@@ -850,8 +901,7 @@
     "subtype": "Basic",
     "health": 150,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Chaotic Impact",
@@ -870,9 +920,11 @@
     "abilities": [
       {
         "name": "Broken-Space Bellow",
-        "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        "effect": "Once during your turn, you may take a Psychic Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-036",
@@ -882,8 +934,7 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Chest-ouflage",
@@ -896,7 +947,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-037",
@@ -906,11 +959,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Low Kick",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -919,7 +972,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-038",
@@ -929,8 +984,7 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Pummel",
@@ -944,7 +998,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Machop",
+    "rarity": "Common"
   },
   {
     "id": "a2b-039",
@@ -954,12 +1010,11 @@
     "subtype": "Stage 2",
     "health": 150,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
         "name": "Power Press",
-        "effect": "If this Pokémon has at least 2 extra [F] Energy attached, this attack does 50 more damage.",
+        "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 50 more damage.",
         "damage": "70+",
         "cost": [
           "Fighting",
@@ -969,7 +1024,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Machoke",
+    "rarity": "Rare"
   },
   {
     "id": "a2b-040",
@@ -979,11 +1036,11 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Kick",
+        "effect": "",
         "damage": "30",
         "cost": [
           "Fighting"
@@ -992,7 +1049,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-041",
@@ -1002,11 +1061,11 @@
     "subtype": "Basic",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Magnum Punch",
+        "effect": "",
         "damage": "90",
         "cost": [
           "Fighting",
@@ -1017,7 +1076,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-042",
@@ -1027,11 +1088,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Punch",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Fighting",
@@ -1041,7 +1102,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-043",
@@ -1051,8 +1114,7 @@
     "subtype": "Stage 1",
     "health": 150,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Aura Sphere",
@@ -1067,7 +1129,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Riolu",
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-044",
@@ -1077,13 +1141,12 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
-        "name": "Double Kick 50x",
+        "name": "Double Kick",
         "effect": "Flip 2 coins. This attack does 50 damage for each heads.",
-        "damage": "",
+        "damage": "50x",
         "cost": [
           "Fighting",
           "Fighting"
@@ -1092,7 +1155,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-045",
@@ -1102,11 +1167,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Ram",
+        "effect": "",
         "damage": "30",
         "cost": [
           "Darkness",
@@ -1116,7 +1181,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-046",
@@ -1126,8 +1193,7 @@
     "subtype": "Stage 1",
     "health": 110,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Venomous Fang",
@@ -1142,7 +1208,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Ekans",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-047",
@@ -1152,8 +1220,7 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Poison Jab",
@@ -1166,7 +1233,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-048",
@@ -1176,8 +1245,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Venoshock",
@@ -1191,7 +1259,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-049",
@@ -1201,8 +1271,7 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Confuse Ray",
@@ -1215,7 +1284,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-050",
@@ -1225,11 +1296,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Gnaw",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Darkness"
@@ -1238,7 +1309,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-051",
@@ -1248,11 +1321,11 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
         "name": "Bite",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Darkness",
@@ -1267,7 +1340,9 @@
         "name": "Poison Coating",
         "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
       }
-    ]
+    ],
+    "evolvesFrom": "Shroodle",
+    "rarity": "Rare"
   },
   {
     "id": "a2b-052",
@@ -1277,11 +1352,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Corkscrew Punch",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Metal"
@@ -1290,7 +1365,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-053",
@@ -1300,8 +1377,7 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Tenacious Hammer",
@@ -1315,7 +1391,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Tinkatink",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-054",
@@ -1325,8 +1403,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Terrific Thumping",
@@ -1341,7 +1418,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Tinkatuff",
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-055",
@@ -1351,11 +1430,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Headbutt",
+        "effect": "",
         "damage": "10",
         "cost": [
           "Metal"
@@ -1364,7 +1443,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-056",
@@ -1374,8 +1455,7 @@
     "subtype": "Stage 1",
     "health": 110,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Spinning Drift",
@@ -1390,7 +1470,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Varoom",
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-057",
@@ -1400,13 +1482,12 @@
     "subtype": "Stage 1",
     "health": 120,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
-        "name": "Scintillating Surfing 50x",
+        "name": "Scintillating Surfing",
         "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads.",
-        "damage": "",
+        "damage": "50x",
         "cost": [
           "Metal",
           "Colorless",
@@ -1416,7 +1497,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Gimmighoul",
+    "rarity": "Rare"
   },
   {
     "id": "a2b-058",
@@ -1426,11 +1509,11 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Tackle",
+        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -1439,7 +1522,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-059",
@@ -1449,11 +1534,11 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Tackle",
+        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -1463,7 +1548,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Rattata",
+    "rarity": "Common"
   },
   {
     "id": "a2b-060",
@@ -1473,11 +1560,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Rollout",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -1486,7 +1573,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-061",
@@ -1496,11 +1585,11 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare",
+    "pack": null,
     "attacks": [
       {
         "name": "Gentle Slap",
+        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -1515,7 +1604,9 @@
         "name": "Comforting Song",
         "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "Rare"
   },
   {
     "id": "a2b-062",
@@ -1525,11 +1616,11 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Rollout",
+        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1539,7 +1630,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-063",
@@ -1549,11 +1642,11 @@
     "subtype": "Stage 1",
     "health": 130,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Rollout",
+        "effect": "",
         "damage": "70",
         "cost": [
           "Colorless",
@@ -1564,7 +1657,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Common"
   },
   {
     "id": "a2b-064",
@@ -1574,11 +1669,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Headbutt",
+        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1588,7 +1683,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-065",
@@ -1598,8 +1695,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Rare EX",
+    "pack": null,
     "attacks": [
       {
         "name": "Carefree Press",
@@ -1615,7 +1711,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Rare EX"
   },
   {
     "id": "a2b-066",
@@ -1625,11 +1723,11 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Pound",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -1638,7 +1736,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
   },
   {
     "id": "a2b-067",
@@ -1648,11 +1748,11 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Common",
+    "pack": null,
     "attacks": [
       {
         "name": "Hopping Shot",
+        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless"
@@ -1661,7 +1761,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Common"
   },
   {
     "id": "a2b-068",
@@ -1671,8 +1773,7 @@
     "subtype": "Basic",
     "health": 80,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [
       {
         "name": "Overacceleration",
@@ -1685,7 +1786,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-069",
@@ -1695,12 +1798,13 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-070",
@@ -1710,12 +1814,13 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-071",
@@ -1725,27 +1830,29 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Uncommon",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-072",
     "name": "Team Rocket Grunt",
-    "rarity": "Uncommon",
     "element": null,
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
   },
   {
     "id": "a2b-073",
@@ -1755,8 +1862,7 @@
     "subtype": "Stage 2",
     "health": 140,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art",
+    "pack": null,
     "attacks": [
       {
         "name": "Fighting Claws",
@@ -1770,7 +1876,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-074",
@@ -1780,11 +1888,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art",
+    "pack": null,
     "attacks": [
       {
         "name": "Water Gun",
+        "effect": "",
         "damage": "10",
         "cost": [
           "Water"
@@ -1793,7 +1901,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-075",
@@ -1803,11 +1913,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art",
+    "pack": null,
     "attacks": [
       {
         "name": "Rain Splash",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -1821,7 +1931,9 @@
         "name": "Retreat Directive",
         "effect": "Your Active Dondozo has no Retreat Cost."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-076",
@@ -1831,11 +1943,11 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art",
+    "pack": null,
     "attacks": [
       {
         "name": "Bite",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Darkness",
@@ -1850,7 +1962,9 @@
         "name": "Poison Coating",
         "effect": "Once during your turn, you may flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
       }
-    ]
+    ],
+    "evolvesFrom": "Shroodle",
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-077",
@@ -1860,13 +1974,12 @@
     "subtype": "Stage 1",
     "health": 120,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art",
+    "pack": null,
     "attacks": [
       {
-        "name": "Scintillating Surfing 50x",
+        "name": "Scintillating Surfing",
         "effect": "Flip a coin for each [M] Energy attached to this Pokémon. This attack does 50 damage for each heads.",
-        "damage": "",
+        "damage": "50x",
         "cost": [
           "Metal",
           "Colorless",
@@ -1876,7 +1989,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Gimmighoul",
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-078",
@@ -1886,11 +2001,11 @@
     "subtype": "Stage 1",
     "health": 100,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art",
+    "pack": null,
     "attacks": [
       {
         "name": "Gentle Slap",
+        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -1905,7 +2020,9 @@
         "name": "Comforting Song",
         "effect": "Once during your turn, you may heal 20 damage from your Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-079",
@@ -1915,8 +2032,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Crushing Spear",
@@ -1930,7 +2046,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Kakuna",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-080",
@@ -1940,12 +2058,11 @@
     "subtype": "Stage 2",
     "health": 180,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Stoke",
-        "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon.",
+        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "",
         "cost": [
           "Fire"
@@ -1953,6 +2070,7 @@
       },
       {
         "name": "Steam Artillery",
+        "effect": "",
         "damage": "150",
         "cost": [
           "Fire",
@@ -1965,7 +2083,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-081",
@@ -1975,8 +2095,7 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Pop Out Throughout",
@@ -1991,7 +2110,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Wiglett",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-082",
@@ -2001,8 +2122,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Thunderbolt",
@@ -2017,7 +2137,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-083",
@@ -2027,8 +2149,7 @@
     "subtype": "Basic",
     "health": 150,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Chaotic Impact",
@@ -2047,9 +2168,11 @@
     "abilities": [
       {
         "name": "Broken-Space Bellow",
-        "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        "effect": "Once during your turn, you may take a Psychic Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-084",
@@ -2059,8 +2182,7 @@
     "subtype": "Stage 1",
     "health": 150,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Aura Sphere",
@@ -2075,7 +2197,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Riolu",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-085",
@@ -2085,8 +2209,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Venoshock",
@@ -2100,7 +2223,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-086",
@@ -2110,8 +2235,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Terrific Thumping",
@@ -2126,7 +2250,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Tinkatuff",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-087",
@@ -2136,8 +2262,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Carefree Press",
@@ -2153,7 +2278,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-088",
@@ -2163,12 +2290,13 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-089",
@@ -2178,12 +2306,13 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-090",
@@ -2193,12 +2322,13 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-091",
@@ -2208,12 +2338,13 @@
     "subtype": "Supporter",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-092",
@@ -2223,8 +2354,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Thunderbolt",
@@ -2239,7 +2369,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-093",
@@ -2249,8 +2381,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Venoshock",
@@ -2264,7 +2395,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-094",
@@ -2274,8 +2407,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Terrific Thumping",
@@ -2290,7 +2422,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Tinkatuff",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-095",
@@ -2300,8 +2434,7 @@
     "subtype": "Stage 1",
     "health": 160,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Full Art EX/Support",
+    "pack": null,
     "attacks": [
       {
         "name": "Carefree Press",
@@ -2317,7 +2450,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Full Art EX/Support"
   },
   {
     "id": "a2b-096",
@@ -2327,8 +2462,7 @@
     "subtype": "Basic",
     "health": 150,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Immersive",
+    "pack": null,
     "attacks": [
       {
         "name": "Chaotic Impact",
@@ -2347,9 +2481,11 @@
     "abilities": [
       {
         "name": "Broken-Space Bellow",
-        "effect": "Once during your turn, you may take a [P] Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
+        "effect": "Once during your turn, you may take a Psychic Energy from your Energy Zone and attach it to this Pokémon. If you use this Ability, your turn ends."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
   },
   {
     "id": "a2b-097",
@@ -2359,8 +2495,7 @@
     "subtype": "Basic",
     "health": 50,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Multiply",
@@ -2373,7 +2508,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-098",
@@ -2383,8 +2520,7 @@
     "subtype": "Stage 1",
     "health": 80,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "String Shot",
@@ -2397,7 +2533,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Weedle",
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-099",
@@ -2407,11 +2545,11 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Combustion",
+        "effect": "",
         "damage": "20",
         "cost": [
           "Fire"
@@ -2420,7 +2558,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-100",
@@ -2430,11 +2570,11 @@
     "subtype": "Stage 1",
     "health": 90,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Combustion",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Fire",
@@ -2444,7 +2584,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Charmander",
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-101",
@@ -2454,8 +2596,7 @@
     "subtype": "Basic",
     "health": 60,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Spring Out",
@@ -2468,7 +2609,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-102",
@@ -2478,8 +2621,7 @@
     "subtype": "Basic",
     "health": 120,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Ocean Cyclone",
@@ -2495,7 +2637,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-103",
@@ -2505,8 +2649,7 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Plasma",
@@ -2519,7 +2662,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-104",
@@ -2529,11 +2674,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Punch",
+        "effect": "",
         "damage": "40",
         "cost": [
           "Fighting",
@@ -2543,7 +2688,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
   },
   {
     "id": "a2b-105",
@@ -2553,11 +2700,11 @@
     "subtype": "Basic",
     "health": 70,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Headbutt",
+        "effect": "",
         "damage": "10",
         "cost": [
           "Metal"
@@ -2566,7 +2713,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
   },
   {
     "id": "a2b-106",
@@ -2576,8 +2725,7 @@
     "subtype": "Stage 1",
     "health": 110,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "One shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Spinning Drift",
@@ -2592,7 +2740,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Varoom",
+    "rarity": "One shiny star"
   },
   {
     "id": "a2b-107",
@@ -2602,8 +2752,7 @@
     "subtype": "Stage 2",
     "health": 170,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Two shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Crushing Spear",
@@ -2617,7 +2766,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Kakuna",
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a2b-108",
@@ -2627,12 +2778,11 @@
     "subtype": "Stage 2",
     "health": 180,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Two shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Stoke",
-        "effect": "Take 3 [R] Energy from your Energy Zone and attach it to this Pokémon.",
+        "effect": "Take 3 Fire Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "",
         "cost": [
           "Fire"
@@ -2640,6 +2790,7 @@
       },
       {
         "name": "Steam Artillery",
+        "effect": "",
         "damage": "150",
         "cost": [
           "Fire",
@@ -2652,7 +2803,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a2b-109",
@@ -2662,8 +2815,7 @@
     "subtype": "Stage 1",
     "health": 140,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Two shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Pop Out Throughout",
@@ -2678,7 +2830,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Wiglett",
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a2b-110",
@@ -2688,8 +2842,7 @@
     "subtype": "Stage 1",
     "health": 150,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Two shiny star",
+    "pack": null,
     "attacks": [
       {
         "name": "Aura Sphere",
@@ -2704,7 +2857,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Riolu",
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a2b-111",
@@ -2714,11 +2869,12 @@
     "subtype": "Item",
     "health": null,
     "set": "Shining Revelry (A2b)",
-    "pack": "Shining Revelry",
-    "rarity": "Gold Crown",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
   }
 ]
