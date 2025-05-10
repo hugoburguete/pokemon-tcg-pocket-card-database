@@ -139,7 +139,6 @@
     "attacks": [
       {
         "name": "Slash",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Grass",
@@ -191,7 +190,6 @@
     "attacks": [
       {
         "name": "Combustion",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fire"
@@ -216,7 +214,6 @@
     "attacks": [
       {
         "name": "Combustion",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Fire",
@@ -250,7 +247,6 @@
       },
       {
         "name": "Steam Artillery",
-        "effect": "",
         "damage": "150",
         "cost": [
           "Fire",
@@ -279,7 +275,6 @@
     "attacks": [
       {
         "name": "Flare",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fire"
@@ -358,7 +353,6 @@
     "attacks": [
       {
         "name": "Rain Splash",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Water"
@@ -383,7 +377,6 @@
     "attacks": [
       {
         "name": "Wave Splash",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Water"
@@ -408,7 +401,6 @@
     "attacks": [
       {
         "name": "Water Gun",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Water"
@@ -538,7 +530,6 @@
     "attacks": [
       {
         "name": "Rain Splash",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -595,7 +586,6 @@
     "attacks": [
       {
         "name": "Lightning Ball",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Lightning"
@@ -671,7 +661,6 @@
     "attacks": [
       {
         "name": "Punch",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Lightning"
@@ -696,7 +685,6 @@
     "attacks": [
       {
         "name": "Punch",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Lightning",
@@ -722,7 +710,6 @@
     "attacks": [
       {
         "name": "Electric Punch",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Lightning",
@@ -753,7 +740,6 @@
     "attacks": [
       {
         "name": "Psyshot",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Psychic"
@@ -778,7 +764,6 @@
     "attacks": [
       {
         "name": "Psyshot",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Psychic"
@@ -855,7 +840,6 @@
     "attacks": [
       {
         "name": "Ram",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Psychic"
@@ -880,7 +864,6 @@
     "attacks": [
       {
         "name": "Gust",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Psychic"
@@ -963,7 +946,6 @@
     "attacks": [
       {
         "name": "Low Kick",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fighting"
@@ -1040,7 +1022,6 @@
     "attacks": [
       {
         "name": "Kick",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Fighting"
@@ -1065,7 +1046,6 @@
     "attacks": [
       {
         "name": "Magnum Punch",
-        "effect": "",
         "damage": "90",
         "cost": [
           "Fighting",
@@ -1092,7 +1072,6 @@
     "attacks": [
       {
         "name": "Punch",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Fighting",
@@ -1171,7 +1150,6 @@
     "attacks": [
       {
         "name": "Ram",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Darkness",
@@ -1300,7 +1278,6 @@
     "attacks": [
       {
         "name": "Gnaw",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Darkness"
@@ -1325,7 +1302,6 @@
     "attacks": [
       {
         "name": "Bite",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Darkness",
@@ -1356,7 +1332,6 @@
     "attacks": [
       {
         "name": "Corkscrew Punch",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Metal"
@@ -1434,7 +1409,6 @@
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Metal"
@@ -1513,7 +1487,6 @@
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -1538,7 +1511,6 @@
     "attacks": [
       {
         "name": "Tackle",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -1564,7 +1536,6 @@
     "attacks": [
       {
         "name": "Rollout",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -1589,7 +1560,6 @@
     "attacks": [
       {
         "name": "Gentle Slap",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -1620,7 +1590,6 @@
     "attacks": [
       {
         "name": "Rollout",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1646,7 +1615,6 @@
     "attacks": [
       {
         "name": "Rollout",
-        "effect": "",
         "damage": "70",
         "cost": [
           "Colorless",
@@ -1673,7 +1641,6 @@
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1727,7 +1694,6 @@
     "attacks": [
       {
         "name": "Pound",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Colorless"
@@ -1752,7 +1718,6 @@
     "attacks": [
       {
         "name": "Hopping Shot",
-        "effect": "",
         "damage": "30",
         "cost": [
           "Colorless"
@@ -1892,7 +1857,6 @@
     "attacks": [
       {
         "name": "Water Gun",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Water"
@@ -1917,7 +1881,6 @@
     "attacks": [
       {
         "name": "Rain Splash",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Water"
@@ -1947,7 +1910,6 @@
     "attacks": [
       {
         "name": "Bite",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Darkness",
@@ -2005,7 +1967,6 @@
     "attacks": [
       {
         "name": "Gentle Slap",
-        "effect": "",
         "damage": "50",
         "cost": [
           "Colorless",
@@ -2070,7 +2031,6 @@
       },
       {
         "name": "Steam Artillery",
-        "effect": "",
         "damage": "150",
         "cost": [
           "Fire",
@@ -2549,7 +2509,6 @@
     "attacks": [
       {
         "name": "Combustion",
-        "effect": "",
         "damage": "20",
         "cost": [
           "Fire"
@@ -2574,7 +2533,6 @@
     "attacks": [
       {
         "name": "Combustion",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Fire",
@@ -2678,7 +2636,6 @@
     "attacks": [
       {
         "name": "Punch",
-        "effect": "",
         "damage": "40",
         "cost": [
           "Fighting",
@@ -2704,7 +2661,6 @@
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": "",
         "damage": "10",
         "cost": [
           "Metal"
@@ -2790,7 +2746,6 @@
       },
       {
         "name": "Steam Artillery",
-        "effect": "",
         "damage": "150",
         "cost": [
           "Fire",

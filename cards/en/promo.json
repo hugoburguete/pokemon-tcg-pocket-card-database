@@ -6,13 +6,14 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-002",
@@ -21,13 +22,14 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-003",
@@ -36,43 +38,46 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-004",
-    "name": "Pokedex",
+    "name": "Pokédex",
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-005",
-    "name": "Poke Ball",
+    "name": "Poké Ball",
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-006",
@@ -81,13 +86,14 @@
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-007",
@@ -96,28 +102,30 @@
     "type": "Trainer",
     "subtype": "Supporter",
     "health": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-008",
-    "name": "Pokedex",
+    "name": "Pokédex",
     "element": null,
     "type": "Trainer",
     "subtype": "Item",
     "health": null,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [],
     "retreatCost": null,
     "weakness": null,
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-009",
@@ -126,13 +134,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Gnaw",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Lightning"
@@ -141,7 +147,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-010",
@@ -150,9 +158,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Power Blast",
@@ -168,7 +175,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-011",
@@ -177,13 +186,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 120,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Gentle Slap",
-        "effect": null,
         "damage": "60",
         "cost": [
           "Colorless",
@@ -194,7 +201,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-012",
@@ -203,13 +212,12 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Pay Day",
-        "effect": "Draw a card.",
+        "effect": "Draw 1 card.",
         "damage": "10",
         "cost": [
           "Colorless"
@@ -218,7 +226,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-013",
@@ -227,13 +237,11 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Gust",
-        "effect": null,
         "damage": "60",
         "cost": [
           "Grass",
@@ -249,7 +257,9 @@
         "name": "Powder Heal",
         "effect": "Once during your turn, you may heal 20 damage from each of your Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Metapod",
+    "rarity": null
   },
   {
     "id": "pa-014",
@@ -258,13 +268,12 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Bubble Drain",
-        "effect": "Heal 20 damage from this Pokémon. ",
+        "effect": "Heal 20 damage from this Pokémon.",
         "damage": "80",
         "cost": [
           "Water",
@@ -275,7 +284,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-015",
@@ -284,13 +295,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Gnaw",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Lightning"
@@ -299,7 +308,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-016",
@@ -308,13 +319,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Slap",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Psychic"
@@ -322,8 +331,10 @@
       }
     ],
     "retreatCost": 1,
-    "weakness": "Steel",
-    "abilities": []
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-017",
@@ -332,9 +343,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Reckless Charge",
@@ -347,7 +357,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-018",
@@ -356,9 +368,8 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 160,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Mega Drain",
@@ -374,7 +385,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": null
   },
   {
     "id": "pa-019",
@@ -383,13 +396,11 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 120,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Mist Slash",
-        "effect": null,
         "damage": "60",
         "cost": [
           "Water",
@@ -404,7 +415,9 @@
         "name": "Water Shuriken",
         "effect": "Once during your turn, you may do 20 damage to 1 of your opponent's Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Frogadier",
+    "rarity": null
   },
   {
     "id": "pa-020",
@@ -413,13 +426,12 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 70,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Surprise Attack",
-        "effect": "Flip a coin. If tails, this attack does nothing. ",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
         "damage": "50",
         "cost": [
           "Psychic"
@@ -428,7 +440,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Gastly",
+    "rarity": null
   },
   {
     "id": "pa-021",
@@ -437,13 +451,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 110,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Land Crush",
-        "effect": null,
         "damage": "70",
         "cost": [
           "Fighting",
@@ -454,7 +466,9 @@
     ],
     "retreatCost": 4,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-022",
@@ -462,14 +476,13 @@
     "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Basic",
-    "health": 50,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "health": 60,
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Sing",
-        "effect": "Your opponent's Active Pokémon is now Asleep. ",
+        "effect": "Your opponent's Active Pokémon is now Asleep.",
         "damage": "",
         "cost": [
           "Colorless"
@@ -478,7 +491,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-023",
@@ -487,13 +502,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Vine Whip",
-        "effect": null,
         "damage": "40",
         "cost": [
           "Grass",
@@ -503,7 +516,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-024",
@@ -512,13 +527,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Lightning Ball",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Lightning"
@@ -527,7 +540,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-025",
@@ -536,9 +551,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Inferno Dance",
@@ -550,7 +564,6 @@
       },
       {
         "name": "Heat Blast",
-        "effect": null,
         "damage": "70",
         "cost": [
           "Fire",
@@ -561,7 +574,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-026",
@@ -570,13 +585,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Gnaw",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Lightning"
@@ -585,7 +598,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-027",
@@ -594,13 +609,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Tackle",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Grass"
@@ -609,7 +622,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-028",
@@ -618,9 +633,8 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Volcanic Ash",
@@ -635,7 +649,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Larvesta",
+    "rarity": null
   },
   {
     "id": "pa-029",
@@ -644,9 +660,8 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Hydro Pump",
@@ -661,7 +676,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": null
   },
   {
     "id": "pa-030",
@@ -670,9 +687,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Growl",
@@ -685,7 +701,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-031",
@@ -694,9 +712,8 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Do the Wave",
@@ -711,7 +728,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Minccino",
+    "rarity": null
   },
   {
     "id": "pa-032",
@@ -720,9 +739,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Ember",
@@ -735,7 +753,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-033",
@@ -744,13 +764,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Water Gun",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Water"
@@ -759,7 +777,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-034",
@@ -768,9 +788,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Nap",
@@ -783,7 +802,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-035",
@@ -792,13 +813,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Bite",
-        "effect": null,
         "damage": "30",
         "cost": [
           "Grass",
@@ -808,7 +827,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-036",
@@ -817,9 +838,8 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 120,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Exciting Voltage",
@@ -833,7 +853,9 @@
     ],
     "retreatCost": 3,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Electabuzz",
+    "rarity": null
   },
   {
     "id": "pa-037",
@@ -842,13 +864,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Psychic Flash",
-        "effect": null,
         "damage": "80",
         "cost": [
           "Psychic",
@@ -864,7 +884,9 @@
         "name": "Lunar Plumage",
         "effect": "Whenever you attach a Psychic Energy from your Energy Zone to this Pokémon, heal 20 damage from this Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-038",
@@ -873,9 +895,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Confuse Ray",
@@ -888,7 +909,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-039",
@@ -897,9 +920,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Metal Arms",
@@ -912,7 +934,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-040",
@@ -921,13 +945,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Scratch",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Fire"
@@ -936,7 +958,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Water",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-041",
@@ -945,13 +969,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Pound",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Psychic"
@@ -960,7 +982,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Metal",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-042",
@@ -969,13 +993,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Dark Prism",
-        "effect": null,
         "damage": "80",
         "cost": [
           "Darkness",
@@ -991,7 +1013,9 @@
         "name": "Nightmare Aura",
         "effect": "Whenever you attach a Darkness Energy from your Energy Zone to this Pokémon, do 20 damage to your opponent's Active Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-043",
@@ -1000,9 +1024,8 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 80,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Leech Seed",
@@ -1016,7 +1039,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Cherubi",
+    "rarity": null
   },
   {
     "id": "pa-044",
@@ -1025,9 +1050,8 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 90,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Spark",
@@ -1046,7 +1070,9 @@
         "name": "Resilience Link",
         "effect": "If you have Arceus or Arceus ex in play, this Pokémon takes −30 damage from attacks."
       }
-    ]
+    ],
+    "evolvesFrom": "Pikachu",
+    "rarity": null
   },
   {
     "id": "pa-045",
@@ -1055,9 +1081,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Iron Defense",
@@ -1071,7 +1096,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-046",
@@ -1080,13 +1107,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Tackle",
-        "effect": null,
         "damage": "20",
         "cost": [
           "Fighting"
@@ -1095,7 +1120,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Grass",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-047",
@@ -1104,13 +1131,11 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Wing Attack",
-        "effect": null,
         "damage": "90",
         "cost": [
           "Colorless",
@@ -1126,7 +1151,9 @@
         "name": "Defensive Whirlwind",
         "effect": "This Pokémon takes −30 damage from attacks from Fighting Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Staravia",
+    "rarity": null
   },
   {
     "id": "pa-048",
@@ -1135,9 +1162,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 50,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Oceanic Gift",
@@ -1150,7 +1176,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-049",
@@ -1159,9 +1187,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 140,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Collapse",
@@ -1177,7 +1204,9 @@
     ],
     "retreatCost": 4,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-050",
@@ -1186,13 +1215,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 150,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Psychic Sphere",
-        "effect": null,
         "damage": "50",
         "cost": [
           "Psychic",
@@ -1213,7 +1240,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Darkness",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-051",
@@ -1222,9 +1251,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 80,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Overacceleration",
@@ -1237,7 +1265,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-052",
@@ -1246,9 +1276,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Cry for Help",
@@ -1261,7 +1290,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fire",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-053",
@@ -1270,9 +1301,8 @@
     "type": "Pokemon",
     "subtype": "Stage 1",
     "health": 100,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Attack the Wound",
@@ -1285,7 +1315,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Lightning",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Buizel",
+    "rarity": null
   },
   {
     "id": "pa-054",
@@ -1294,13 +1326,11 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 140,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Electric Punch",
-        "effect": null,
         "damage": "70",
         "cost": [
           "Lightning",
@@ -1315,7 +1345,9 @@
         "name": "Counterattack",
         "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
       }
-    ]
+    ],
+    "evolvesFrom": "Pawmo",
+    "rarity": null
   },
   {
     "id": "pa-055",
@@ -1324,9 +1356,8 @@
     "type": "Pokemon",
     "subtype": "Stage 2",
     "health": 150,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Power Press",
@@ -1340,7 +1371,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": "Machoke",
+    "rarity": null
   },
   {
     "id": "pa-056",
@@ -1349,9 +1382,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 60,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Poison Sting",
@@ -1364,7 +1396,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-057",
@@ -1373,13 +1407,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Headbutt",
-        "effect": null,
         "damage": "30",
         "cost": [
           "Colorless",
@@ -1389,7 +1421,9 @@
     ],
     "retreatCost": 2,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-058",
@@ -1398,9 +1432,8 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Plasma",
@@ -1413,7 +1446,9 @@
     ],
     "retreatCost": 1,
     "weakness": "Fighting",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   },
   {
     "id": "pa-059",
@@ -1422,13 +1457,11 @@
     "type": "Pokemon",
     "subtype": "Basic",
     "health": 70,
-    "set": "Promo",
-    "pack": "Promo A",
-    "rarity": "Promo",
+    "set": "Promo-A",
+    "pack": null,
     "attacks": [
       {
         "name": "Punch",
-        "effect": null,
         "damage": "40",
         "cost": [
           "Fighting",
@@ -1438,6 +1471,372 @@
     ],
     "retreatCost": 1,
     "weakness": "Psychic",
-    "abilities": []
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-060",
+    "name": "Exeggcute",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Growth Spurt",
+        "effect": "Take a Grass Energy from your Energy Zone and attach it to this Pokémon.",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-061",
+    "name": "Froakie",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-062",
+    "name": "Farfetch'd",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leek Slap",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-063",
+    "name": "Rayquaza",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spiral Rush",
+        "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads.",
+        "damage": "70+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-064",
+    "name": "Rayquaza ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Draco Meteor",
+        "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it.",
+        "damage": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-065",
+    "name": "Rayquaza ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Draco Meteor",
+        "effect": "1 of your opponent's Pokémon is chosen at random 4 times. For each time a Pokémon was chosen, do 40 damage to it.",
+        "damage": "",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-066",
+    "name": "Mimikyu",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Shadow Hit",
+        "effect": "This attack also does 20 damage to 1 of your Pokémon.",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-067",
+    "name": "Cosmog",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Teleport",
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-068",
+    "name": "Lycanroc",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crunch",
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon.",
+        "damage": "80",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Rockruff",
+    "rarity": null
+  },
+  {
+    "id": "pa-069",
+    "name": "Alolan Exeggutor",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tropical Hammer",
+        "effect": "Flip a coin. If tails, this attack does nothing.",
+        "damage": "150",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": null
+  },
+  {
+    "id": "pa-070",
+    "name": "Alolan Ninetales",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "effect": "This attack also does 20 damage to each of your opponent's Benched Pokémon.",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Alolan Vulpix",
+    "rarity": null
+  },
+  {
+    "id": "pa-071",
+    "name": "Crabrawler",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-072",
+    "name": "Alolan Grimer",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Gas",
+        "effect": "Your opponent's Active Pokémon is now Poisoned.",
+        "damage": "",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-073",
+    "name": "Toucannon",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Beak Blast",
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Burned.",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Trumbeak",
+    "rarity": null
   }
 ]
