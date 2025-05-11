@@ -3203,11 +3203,11 @@
   },
   {
     "id": "a3-125",
-    "name": "Jangmo",
-    "element": "o",
+    "name": "Jangmo-o",
+    "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Basic",
-    "health": null,
+    "health": 60,
     "set": "Celestial Guardians (A3)",
     "pack": "Lunala",
     "attacks": [
@@ -3227,11 +3227,11 @@
   },
   {
     "id": "a3-126",
-    "name": "Hakamo",
-    "element": "o",
+    "name": "Hakamo-o",
+    "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 1",
-    "health": null,
+    "health": 100,
     "set": "Celestial Guardians (A3)",
     "pack": "Lunala",
     "attacks": [
@@ -3252,11 +3252,11 @@
   },
   {
     "id": "a3-127",
-    "name": "Kommo",
-    "element": "o",
+    "name": "Kommo-o",
+    "element": "Dragon",
     "type": "Pokemon",
     "subtype": "Stage 2",
-    "health": null,
+    "health": 150,
     "set": "Celestial Guardians (A3)",
     "pack": "Lunala",
     "attacks": [

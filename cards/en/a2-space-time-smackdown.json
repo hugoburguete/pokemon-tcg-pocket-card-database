@@ -3332,11 +3332,11 @@
   },
   {
     "id": "a2-129",
-    "name": "Porygon",
-    "element": "Z",
+    "name": "Porygon-Z",
+    "element": "Colorless",
     "type": "Pokemon",
     "subtype": "Stage 2",
-    "health": null,
+    "health": 140,
     "set": "Space-Time Smackdown (A2)",
     "pack": "Palkia",
     "attacks": [
