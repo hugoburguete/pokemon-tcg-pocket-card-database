@@ -5264,7 +5264,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-211",
@@ -5290,7 +5290,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Bulbasaur",
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-212",
@@ -5318,7 +5318,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
-    "rarity": "Full Art"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-213",
@@ -5343,7 +5343,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-214",
@@ -5371,7 +5371,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Exeggcute",
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-215",
@@ -5395,7 +5395,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-216",
@@ -5420,7 +5420,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Squirtle",
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-217",
@@ -5447,7 +5447,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
-    "rarity": "Full Art"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-218",
@@ -5471,7 +5471,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-219",
@@ -5495,7 +5495,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Staryu",
-    "rarity": "Full Art"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-220",
@@ -5520,7 +5520,7 @@
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-221",
@@ -5544,7 +5544,7 @@
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Gastly",
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-222",
@@ -5569,7 +5569,7 @@
     "weakness": "Darkness",
     "abilities": [],
     "evolvesFrom": "Haunter",
-    "rarity": "Full Art"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-223",
@@ -5593,7 +5593,7 @@
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-224",
@@ -5618,7 +5618,7 @@
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machop",
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-225",
@@ -5644,7 +5644,7 @@
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machoke",
-    "rarity": "Full Art"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-226",
@@ -5669,7 +5669,7 @@
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": null,
-    "rarity": "Full Art"
+    "rarity": "One shiny star"
   },
   {
     "id": "a3-227",
@@ -5693,7 +5693,7 @@
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Cubone",
-    "rarity": "Full Art"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-228",
@@ -5784,7 +5784,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
-    "rarity": "Two shiny star"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-231",
@@ -5809,7 +5809,7 @@
     "weakness": "Fire",
     "abilities": [],
     "evolvesFrom": "Exeggcute",
-    "rarity": "Two shiny star"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-232",
@@ -5844,7 +5844,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Wartortle",
-    "rarity": "Two shiny star"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-233",
@@ -5869,7 +5869,7 @@
     "weakness": "Lightning",
     "abilities": [],
     "evolvesFrom": "Staryu",
-    "rarity": "Two shiny star"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-234",
@@ -5900,7 +5900,7 @@
       }
     ],
     "evolvesFrom": "Haunter",
-    "rarity": "Two shiny star"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-235",
@@ -5926,7 +5926,7 @@
     "weakness": "Psychic",
     "abilities": [],
     "evolvesFrom": "Machoke",
-    "rarity": "Two shiny star"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-236",
@@ -5952,7 +5952,7 @@
     "weakness": "Grass",
     "abilities": [],
     "evolvesFrom": "Cubone",
-    "rarity": "Two shiny star"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-237",
@@ -5979,7 +5979,7 @@
     "weakness": "Fighting",
     "abilities": [],
     "evolvesFrom": "Jigglypuff",
-    "rarity": "Two shiny star"
+    "rarity": "Two shiny stars"
   },
   {
     "id": "a3-238",
