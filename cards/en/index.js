@@ -5,6 +5,7 @@ const spaceTimeSmackdown = require('./a2-space-time-smackdown.json');
 const triumphantLight = require('./a2a-triumphant-light.json');
 const shiningRevelry = require('./a2b-shining-revelry.json');
 const celestialGuardians = require('./a3-celestial-guardians.json');
+const extradimensionalCrisis = require('./a3a-extradimensional-crisis.json');
 
 module.exports = {
   geneticApex,
@@ -14,4 +15,5 @@ module.exports = {
   mythicalIsland,
   shiningRevelry,
   celestialGuardians,
+  extradimensionalCrisis,
 };
