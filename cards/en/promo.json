@@ -1986,7 +1986,7 @@
     "attacks": [
       {
         "name": "Black Metal",
-        "effect": "Discard a metal Energy from this Pokémon.",
+        "effect": "Discard a Metal Energy from this Pokémon.",
         "damage": "100",
         "cost": [
           "Metal",
