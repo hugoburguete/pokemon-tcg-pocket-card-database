@@ -1838,5 +1838,281 @@
     "abilities": [],
     "evolvesFrom": "Trumbeak",
     "rarity": null
+  },
+  {
+    "id": "pa-074",
+    "name": "Zeraora",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lightning Claw",
+        "damage": "50",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Thunderclap Flash",
+        "effect": "At the end of your first turn, take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-075",
+    "name": "Kartana",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thrash Metal",
+        "damage": "40",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-076",
+    "name": "Blacephalon",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Beat Punk",
+        "effect": "This Pokémon also does 70 damage to itself.",
+        "damage": "130",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-077",
+    "name": "Xurkitree",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Electronica",
+        "effect": "Your opponent's Active Pokémon is now Confused.",
+        "damage": "60",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-078",
+    "name": "Dawn Wings Necrozma",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psychobilly",
+        "effect": "This Pokémon also does 30 damage to itself.",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-079",
+    "name": "Dusk Mane Necrozma",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Black Metal",
+        "effect": "Discard a Metal Energy from this Pokémon.",
+        "damage": "100",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-080",
+    "name": "Stakataka",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Brass Rock",
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks.",
+        "damage": "40",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-081",
+    "name": "Ultra Necrozma ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Photon Claw",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Shoegaze",
+        "effect": "Discard the top 5 cards of each player’s deck.",
+        "damage": "120",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-082",
+    "name": "Poipole",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Promo-A",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "2-Step",
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads.",
+        "damage": "20x",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
+  },
+  {
+    "id": "pa-083",
+    "name": "Stufful",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Promo-A",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": null
   }
 ]
