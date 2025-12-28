@@ -1,0 +1,2781 @@
+[
+  {
+    "id": "a3b-001",
+    "name": "Tropius",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cutting Wind",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-002",
+    "name": "Leafeon",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leaf Blast",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Grass Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-003",
+    "name": "Bounsweet",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-004",
+    "name": "Steenee",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leaf Step",
+        "damage": "40",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Bounsweet",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-005",
+    "name": "Tsareena",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Kick Down",
+        "damage": "50",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Your opponent reveals a random card from their hand and shuffles it into their deck."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Steenee",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-006",
+    "name": "Applin",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-007",
+    "name": "Appletun",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": "40+",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Applin",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-008",
+    "name": "Flareon",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Assisting Heater",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-009",
+    "name": "Flareon ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "damage": "130",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Combust",
+        "effect": "Once during your turn, you may attach a Fire Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-010",
+    "name": "Torkoal",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flamethrower",
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-011",
+    "name": "Litten",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flare",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-012",
+    "name": "Torracat",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": "50",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Litten",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-013",
+    "name": "Incineroar",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Darkest Lariat",
+        "damage": "100x",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 100 damage for each heads."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Torracat",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-014",
+    "name": "Salandit",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ember",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-015",
+    "name": "Salazzle",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Combustion",
+        "damage": "40",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Salandit",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-016",
+    "name": "Vaporeon",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hyper Whirlpool",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-017",
+    "name": "Glaceon",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ice Blade",
+        "damage": "0",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-018",
+    "name": "Vanillite",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": "10+",
+        "cost": [
+          "Water"
+        ],
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-019",
+    "name": "Vanillish",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": "30+",
+        "cost": [
+          "Water"
+        ],
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Vanillite",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-020",
+    "name": "Vanilluxe",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Spin",
+        "damage": "80x",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 80 damage for each heads."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Vanillish",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-021",
+    "name": "Alomomola",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Water Pulse",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-022",
+    "name": "Popplio",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Watering",
+        "damage": "30",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-023",
+    "name": "Brionne",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Popplio",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-024",
+    "name": "Primarina ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "damage": "40+",
+        "cost": [
+          "Water"
+        ],
+        "effect": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage."
+      },
+      {
+        "name": "Sparkling Aria",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Brionne",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-025",
+    "name": "Jolteon",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Beginning Bolt",
+        "damage": "40+",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-026",
+    "name": "Joltik",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jolt",
+        "damage": "10",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-027",
+    "name": "Galvantula",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Electric Shock",
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "Discard all Energy attached to this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Joltik",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-028",
+    "name": "Espeon",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energy Crush",
+        "damage": "20x",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-029",
+    "name": "Woobat",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gust",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-030",
+    "name": "Swoobat",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "40",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Woobat",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-031",
+    "name": "Swirlix",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-032",
+    "name": "Slurpuff",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": "30+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Swirlix",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-033",
+    "name": "Sylveon",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Evoharmony",
+        "damage": "40+",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-034",
+    "name": "Sylveon ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fairy Wind",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Happy Ribbon",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-035",
+    "name": "Mimikyu",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Try to Imitate",
+        "damage": "0",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Flip a coin. If heads, choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-036",
+    "name": "Milcery",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-037",
+    "name": "Alcremie",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Overload",
+        "damage": "40x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This attack does 40 damage for each time your Pokémon used Sweets Relay during this game."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Milcery",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-038",
+    "name": "Barboach",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mud Shot",
+        "damage": "30",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-039",
+    "name": "Whiscash",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Earthquake",
+        "damage": "130",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack also does 10 damage to each of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Barboach",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-040",
+    "name": "Mienfoo",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Kick Shot",
+        "damage": "40",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-041",
+    "name": "Mienshao",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Low Kick",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Mienfoo",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-042",
+    "name": "Carbink",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hard Roll",
+        "damage": "30",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-043",
+    "name": "Umbreon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dark Binding",
+        "damage": "40",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-044",
+    "name": "Sableye",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": "30",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-045",
+    "name": "Purrloin",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Playful Knockdown",
+        "damage": "0",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Discard all Pokémon Tools from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-046",
+    "name": "Liepard",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slashing Claw",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Purrloin",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-047",
+    "name": "Mawile",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Powerful Vise",
+        "damage": "30",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-048",
+    "name": "Togedemaru",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bristling Spikes",
+        "damage": "30",
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 30 damage to the Attacking Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-049",
+    "name": "Meltan",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "20",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-050",
+    "name": "Melmetal",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mega Punch",
+        "damage": "90",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Meltan",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-051",
+    "name": "Dratini",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Beat",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-052",
+    "name": "Dragonair",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dratini",
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-053",
+    "name": "Dragonite ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "damage": "180",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-054",
+    "name": "Drampa",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dragon Breath",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-055",
+    "name": "Eevee",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collect",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Draw a card."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-056",
+    "name": "Eevee ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Veevee ’volve",
+        "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-057",
+    "name": "Snorlax ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 160,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop-Down Punch",
+        "damage": "130",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Full-Mouth Manner",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-058",
+    "name": "Aipom",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Hit",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-059",
+    "name": "Ambipom",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Corkscrew Punch",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Catching Tail",
+        "effect": "Once during your turn, you may put a random Pokémon Tool card from your deck into your hand."
+      }
+    ],
+    "evolvesFrom": "Aipom",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-060",
+    "name": "Chatot",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tone-Deaf",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-061",
+    "name": "Audino",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Do the Wave",
+        "damage": "20x",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 damage for each of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-062",
+    "name": "Minccino",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-063",
+    "name": "Cinccino",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slap",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Minccino",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-064",
+    "name": "Skwovet",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a3b-065",
+    "name": "Greedent",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Enhanced Fang",
+        "damage": "50+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Skwovet",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-066",
+    "name": "Eevee Bag",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-067",
+    "name": "Leftovers",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-068",
+    "name": "Hau",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-069",
+    "name": "Penny",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a3b-070",
+    "name": "Leafeon",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leaf Blast",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Grass Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-071",
+    "name": "Flareon",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Assisting Heater",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-072",
+    "name": "Vaporeon",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hyper Whirlpool",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-073",
+    "name": "Glaceon",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ice Blade",
+        "damage": "0",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-074",
+    "name": "Jolteon",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Beginning Bolt",
+        "damage": "40+",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "If this Pokémon evolved during this turn, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-075",
+    "name": "Espeon",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energy Crush",
+        "damage": "20x",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "This attack does 20 damage for each Energy attached to all of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-076",
+    "name": "Sylveon",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Evoharmony",
+        "damage": "40+",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "This attack does 30 more damage for each Evolution Pokémon on your Bench."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-077",
+    "name": "Umbreon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dark Binding",
+        "damage": "40",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-078",
+    "name": "Eevee",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collect",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Draw a card."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-079",
+    "name": "Flareon ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "damage": "130",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Combust",
+        "effect": "Once during your turn, you may attach a Fire Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-080",
+    "name": "Primarina ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "damage": "40+",
+        "cost": [
+          "Water"
+        ],
+        "effect": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage."
+      },
+      {
+        "name": "Sparkling Aria",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Brionne",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-081",
+    "name": "Sylveon ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fairy Wind",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Happy Ribbon",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-082",
+    "name": "Dragonite ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "damage": "180",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-083",
+    "name": "Eevee ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Veevee ’volve",
+        "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-084",
+    "name": "Snorlax ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 160,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop-Down Punch",
+        "damage": "130",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Full-Mouth Manner",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-085",
+    "name": "Hau",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-086",
+    "name": "Penny",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-087",
+    "name": "Flareon ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "damage": "130",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Combust",
+        "effect": "Once during your turn, you may attach a Fire Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-088",
+    "name": "Primarina ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "damage": "40+",
+        "cost": [
+          "Water"
+        ],
+        "effect": "If this Pokémon has at least 1 extra Water Energy attached, this attack does 40 more damage."
+      },
+      {
+        "name": "Sparkling Aria",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Heal 20 damage from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Brionne",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-089",
+    "name": "Sylveon ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fairy Wind",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Happy Ribbon",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-090",
+    "name": "Dragonite ex",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "damage": "180",
+        "cost": [
+          "Water",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-091",
+    "name": "Snorlax ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 160,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop-Down Punch",
+        "damage": "130",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Full-Mouth Manner",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, heal 20 damage from it."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a3b-092",
+    "name": "Eevee ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Veevee ’volve",
+        "effect": "This Pokémon can evolve into any Pokémon that evolves from Eevee if you play it from your hand onto this Pokémon. (This Pokémon can't evolve during your first turn or the turn you play it.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a3b-093",
+    "name": "Pinsir",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Guillotine Rush",
+        "damage": "50+",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-094",
+    "name": "Lapras",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "damage": "20+",
+        "cost": [
+          "Water"
+        ],
+        "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-095",
+    "name": "Voltorb",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Big Explosion",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-096",
+    "name": "Electrode",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rolling Attack",
+        "damage": "50",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Voltorb",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-097",
+    "name": "Ralts",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Teleport",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-098",
+    "name": "Kirlia",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slap",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Ralts",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-099",
+    "name": "Gardevoir",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 110,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Psy Shadow",
+        "effect": "Once during your turn, you may take 1 Psychic Energy from your Energy Zone and attach it to the Psychic Pokémon in the Active Spot."
+      }
+    ],
+    "evolvesFrom": "Kirlia",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-100",
+    "name": "Ekans",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-101",
+    "name": "Arbok",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Corner",
+        "damage": "60",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Ekans",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a3b-102",
+    "name": "Farfetch'd",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leek Slap",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a3b-103",
+    "name": "Moltres ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Inferno Dance",
+        "damage": "0",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Flip 3 coins. Take an amount of Fire Energy from your Energy Zone equal to the number of heads and attach it to your Benched Fire Pokémon in any way you like."
+      },
+      {
+        "name": "Heat Blast",
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "a3b-104",
+    "name": "Articuno ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ice Wing",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Blizzard",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack also does 10 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "a3b-105",
+    "name": "Zapdos ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Peck",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      },
+      {
+        "name": "Thundering Hurricane",
+        "damage": "50x",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "Flip 4 coins. This attack does 50 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "a3b-106",
+    "name": "Gallade ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energized Blade",
+        "damage": "70+",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "a3b-107",
+    "name": "Eevee Bag",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Eevee Grove  (A3b)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  }
+]

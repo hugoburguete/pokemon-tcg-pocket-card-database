@@ -1,0 +1,2698 @@
+[
+  {
+    "id": "a4a-001",
+    "name": "Hoppip",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Splash",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-002",
+    "name": "Skiploom",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bounce",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Hoppip",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-003",
+    "name": "Jumpluff ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Breeze-By Attack",
+        "damage": "70",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "You may switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Skiploom",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4a-004",
+    "name": "Sunkern",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-005",
+    "name": "Sunflora",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Trip Over",
+        "damage": "50+",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Sunkern",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-006",
+    "name": "Celebi",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Temporal Leaves",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "If your opponent's Active Pokémon is an evolved Pokémon, devolve it by putting the highest Stage Evolution card on it into your opponent's hand."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-007",
+    "name": "Durant",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mountain Munch",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-008",
+    "name": "Slugma",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Combustion",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-009",
+    "name": "Magcargo",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heat Blast",
+        "damage": "90",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Slugma",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-010",
+    "name": "Entei ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blazing Beatdown",
+        "damage": "60+",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4a-011",
+    "name": "Fletchinder",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fire Wing",
+        "damage": "40",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Fletchling",
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-012",
+    "name": "Talonflame",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Searing Flame",
+        "damage": "50",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Fletchinder",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-013",
+    "name": "Poliwag",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "damage": "0",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Put 1 random Poliwag from your deck onto your Bench."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-014",
+    "name": "Poliwhirl",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Poliwag",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-015",
+    "name": "Tentacool",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Sting",
+        "damage": "20",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-016",
+    "name": "Tentacruel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stun Poison",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned and Paralyzed."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Tentacool",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-017",
+    "name": "Slowpoke",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-018",
+    "name": "Slowking",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Litter",
+        "damage": "50x",
+        "cost": [
+          "Water"
+        ],
+        "effect": "Discard up to 2 Pokémon Tool cards from your hand. This attack does 50 damage for each card you discarded in this way."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Slowpoke",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-019",
+    "name": "Jynx",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dazzle Dance",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-020",
+    "name": "Suicune ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crystal Waltz",
+        "damage": "20x",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4a-021",
+    "name": "Feebas",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leap Out",
+        "damage": "0",
+        "cost": [
+          "Water"
+        ],
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-022",
+    "name": "Milotic",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aqua Edge",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Healing Ripples",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your Water Pokémon."
+      }
+    ],
+    "evolvesFrom": "Feebas",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-023",
+    "name": "Mantyke",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Splashy Toss",
+        "damage": "0",
+        "cost": [
+          null
+        ],
+        "effect": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-024",
+    "name": "Cryogonal",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ice Blade",
+        "damage": "0",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack does 40 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-025",
+    "name": "Raikou ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Voltaic Bullet",
+        "damage": "60",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4a-026",
+    "name": "Tynamo",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tiny Bolt",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-027",
+    "name": "Eelektrik",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "damage": "50",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tynamo",
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-028",
+    "name": "Eelektross",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wild Charge",
+        "damage": "120",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Eelektrik",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-029",
+    "name": "Stunfisk",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Static Shock",
+        "damage": "50",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-030",
+    "name": "Yamper",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Zap Kick",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-031",
+    "name": "Boltund",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Defiant Spark",
+        "damage": "70",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has damage on it, this attack can be used for 1 Lightning Energy."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Yamper",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-032",
+    "name": "Misdreavus",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Will-O-Wisp",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Infiltrating Inspection",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may have your opponent reveal their hand."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-033",
+    "name": "Mismagius",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cursed Prose",
+        "damage": "0",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "At the end of your opponent's next turn, do 90 damage to the Defending Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-034",
+    "name": "Galarian Corsola",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-035",
+    "name": "Galarian Cursola",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Perish Body",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, flip a coin. If heads, the Attacking Pokémon is Knocked Out."
+      }
+    ],
+    "evolvesFrom": "Galarian Corsola",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-036",
+    "name": "Latias",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crossing Flights",
+        "damage": "20+",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "If Latios is on your Bench, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-037",
+    "name": "Latios",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Luster Purge",
+        "damage": "120",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Fantastical Floating",
+        "effect": "If you have Latias in play, this Pokémon has no Retreat Cost."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-038",
+    "name": "Frillish",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Absorb",
+        "damage": "10",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Heal 10 damage from this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-039",
+    "name": "Jellicent",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Devour Soul",
+        "damage": "80",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Frillish",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-040",
+    "name": "Diglett",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-041",
+    "name": "Dugtrio",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cliff Crumbler",
+        "damage": "40+",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Discard the top card of your deck. If that card is a Fighting Pokémon, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Diglett",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-042",
+    "name": "Poliwrath ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydro Knuckle",
+        "damage": "100+",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has any Water Energy attached, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Poliwhirl",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4a-043",
+    "name": "Phanpy",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flail",
+        "damage": "0",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-044",
+    "name": "Donphan",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Land Crush",
+        "damage": "80",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Exoskeleton",
+        "effect": "This Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "evolvesFrom": "Phanpy",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-045",
+    "name": "Relicanth",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Take Down",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-046",
+    "name": "Dwebble",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sand Spray",
+        "damage": "30",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-047",
+    "name": "Crustle",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stone Edge",
+        "damage": "100+",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Dwebble",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-048",
+    "name": "Seviper",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fateful Fang",
+        "damage": "40+",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "effect": "If your opponent's Active Pokémon is Zangoose, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-049",
+    "name": "Zorua",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-050",
+    "name": "Zoroark",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Night Daze",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Illusive Trickery",
+        "effect": "If your opponent's Pokémon is Knocked Out by damage from this Pokémon's attacks, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "evolvesFrom": "Zorua",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-051",
+    "name": "Inkay",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-052",
+    "name": "Malamar",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mental Surge",
+        "damage": "0",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "This attack does 20 damage to each of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Inkay",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-053",
+    "name": "Skrelp",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Melt",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-054",
+    "name": "Dragalge",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sludge Bomb",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Skrelp",
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-055",
+    "name": "Altaria",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dragon Arcana",
+        "damage": "40+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has 2 or more different types of Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Swablu",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-056",
+    "name": "Farfetch'd",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leek Slam",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-057",
+    "name": "Lickitung",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stretch Tongue",
+        "damage": "0",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 30 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-058",
+    "name": "Lickilicky",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stretch Tongue",
+        "damage": "0",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 60 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-059",
+    "name": "Igglybuff",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sleepy Lullaby",
+        "damage": "10",
+        "cost": [
+          null
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-060",
+    "name": "Teddiursa",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surprise Attack",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-061",
+    "name": "Ursaring",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": "110",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Teddiursa",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-062",
+    "name": "Miltank",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rolling Frenzy",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Rolling Frenzy attack does +30 damage. This effect stacks."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-063",
+    "name": "Azurill",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Squishy Healing",
+        "damage": "0",
+        "cost": [
+          null
+        ],
+        "effect": "Heal 50 damage from 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4a-064",
+    "name": "Swablu",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Peck",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-065",
+    "name": "Zangoose",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Counterattack",
+        "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-066",
+    "name": "Fletchling",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "a4a-067",
+    "name": "Inflatable Boat",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-068",
+    "name": "Memory Light",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-069",
+    "name": "Whitney",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-070",
+    "name": "Traveling Merchant",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-071",
+    "name": "Morty",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "a4a-072",
+    "name": "Milotic",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aqua Edge",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Healing Ripples",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may heal 60 damage from 1 of your Water Pokémon."
+      }
+    ],
+    "evolvesFrom": "Feebas",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a4a-073",
+    "name": "Stunfisk",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Static Shock",
+        "damage": "50",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a4a-074",
+    "name": "Yamper",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Zap Kick",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a4a-075",
+    "name": "Latios",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Luster Purge",
+        "damage": "120",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Fantastical Floating",
+        "effect": "If you have Latias in play, this Pokémon has no Retreat Cost."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a4a-076",
+    "name": "Phanpy",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flail",
+        "damage": "0",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This attack does damage to your opponent's Active Pokémon equal to the damage this Pokémon has on it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a4a-077",
+    "name": "Azurill",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Squishy Healing",
+        "damage": "0",
+        "cost": [
+          null
+        ],
+        "effect": "Heal 50 damage from 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "a4a-078",
+    "name": "Jumpluff ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Breeze-By Attack",
+        "damage": "70",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "You may switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Skiploom",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-079",
+    "name": "Entei ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blazing Beatdown",
+        "damage": "60+",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-080",
+    "name": "Suicune ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crystal Waltz",
+        "damage": "20x",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-081",
+    "name": "Raikou ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Voltaic Bullet",
+        "damage": "60",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-082",
+    "name": "Poliwrath ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydro Knuckle",
+        "damage": "100+",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has any Water Energy attached, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Poliwhirl",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-083",
+    "name": "Whitney",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-084",
+    "name": "Traveling Merchant",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-085",
+    "name": "Morty",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-086",
+    "name": "Jumpluff ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Breeze-By Attack",
+        "damage": "70",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "You may switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Skiploom",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-087",
+    "name": "Entei ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blazing Beatdown",
+        "damage": "60+",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-088",
+    "name": "Raikou ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Voltaic Bullet",
+        "damage": "60",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-089",
+    "name": "Poliwrath ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydro Knuckle",
+        "damage": "100+",
+        "cost": [
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has any Water Energy attached, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Poliwhirl",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "a4a-090",
+    "name": "Suicune ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crystal Waltz",
+        "damage": "20x",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a4a-091",
+    "name": "Chimchar",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": "20",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-092",
+    "name": "Monferno",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fiery Punch",
+        "damage": "30",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Chimchar",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-093",
+    "name": "Psyduck",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headache",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Your opponent can't use any Supporter cards from their hand during their next turn."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-094",
+    "name": "Golduck",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aqua Edge",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Psyduck",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-095",
+    "name": "Krabby",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vise Grip",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-096",
+    "name": "Kingler",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "KO Crab",
+        "damage": "80+",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. If both of them are heads, this attack does 80 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Krabby",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-097",
+    "name": "Pyukumuku",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sprinkle Water",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Innards Out",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 50 damage to the Attacking Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-098",
+    "name": "Gible",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-099",
+    "name": "Gabite",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sharp Scythe",
+        "damage": "30",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Gible",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-100",
+    "name": "Paldean Wooper",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Jab",
+        "damage": "10",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "a4a-101",
+    "name": "Infernape ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flare Blitz",
+        "damage": "140",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Discard all Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Monferno",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "a4a-102",
+    "name": "Mew ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      },
+      {
+        "name": "Genome Hacking",
+        "damage": "0",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "a4a-103",
+    "name": "Garchomp ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Linear Attack",
+        "damage": "0",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+      },
+      {
+        "name": "Dragon Claw",
+        "damage": "100",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Gabite",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "a4a-104",
+    "name": "Paldean Clodsire ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Venoshock",
+        "damage": "60+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "a4a-105",
+    "name": "Mantyke",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Secluded Springs  (A4a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Splashy Toss",
+        "damage": "0",
+        "cost": [
+          null
+        ],
+        "effect": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  }
+]
