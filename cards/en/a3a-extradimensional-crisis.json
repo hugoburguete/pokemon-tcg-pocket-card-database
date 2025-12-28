@@ -476,7 +476,7 @@
     "attacks": [
       {
         "name": "Plasma Hurricane",
-        "effect": "Take a [L] Energy from your Energy Zone and attach it to this Pokémon.",
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "20",
         "cost": [
           "Lightning"
@@ -549,7 +549,7 @@
     "abilities": [
       {
         "name": "Thunderclap Flash",
-        "effect": "At the end of your first turn, take a [L] Energy from your Energy Zone and attach it to this Pokémon."
+        "effect": "At the end of your first turn, take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
       }
     ],
     "evolvesFrom": null,
@@ -1959,7 +1959,7 @@
     "attacks": [
       {
         "name": "Plasma Hurricane",
-        "effect": "Take a [L] Energy from your Energy Zone and attach it to this Pokémon.",
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "20",
         "cost": [
           "Lightning"
@@ -2130,7 +2130,7 @@
     "attacks": [
       {
         "name": "Plasma Hurricane",
-        "effect": "Take a [L] Energy from your Energy Zone and attach it to this Pokémon.",
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
         "damage": "20",
         "cost": [
           "Lightning"
