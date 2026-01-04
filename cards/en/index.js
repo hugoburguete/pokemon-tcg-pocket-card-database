@@ -30,18 +30,4 @@ module.exports = {
   deluxePackEx,
   megaRising,
   crimsonBlaze,
-
-  a1: geneticApex,
-  a1a: mythicalIsland,
-  a2: spaceTimeSmackdown,
-  a2a: triumphantLight,
-  a2b: shiningRevelry,
-  a3: celestialGuardians,
-  a3a: extradimensionalCrisis,
-  a3b: eeveeGrove,
-  a4: wisdomOfSeaAndSky,
-  a4a: secludedSprings,
-  a4b: deluxePackEx,
-  b1: megaRising,
-  b1a: crimsonBlaze,
 };
