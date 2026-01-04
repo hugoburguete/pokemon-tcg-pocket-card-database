@@ -15,11 +15,12 @@ const megaRising = require('./b1-mega-rising.json');
 const crimsonBlaze = require('./b1a-crimson-blaze.json');
 
 module.exports = {
-  geneticApex,
   promoA,
+  promoB,
+  geneticApex,
+  mythicalIsland,
   spaceTimeSmackdown,
   triumphantLight,
-  mythicalIsland,
   shiningRevelry,
   celestialGuardians,
   extradimensionalCrisis,
@@ -27,7 +28,6 @@ module.exports = {
   wisdomOfSeaAndSky,
   secludedSprings,
   deluxePackEx,
-  promoB,
   megaRising,
   crimsonBlaze,
 };
