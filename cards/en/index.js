@@ -18,7 +18,6 @@ module.exports = {
   promoA,
   promoB,
   geneticApex,
-  deluxePackEx,
   mythicalIsland,
   spaceTimeSmackdown,
   triumphantLight,
@@ -28,11 +27,11 @@ module.exports = {
   eeveeGrove,
   wisdomOfSeaAndSky,
   secludedSprings,
+  deluxePackEx,
   megaRising,
   crimsonBlaze,
 
   a1: geneticApex,
-  a4b: deluxePackEx,
   a1a: mythicalIsland,
   a2: spaceTimeSmackdown,
   a2a: triumphantLight,
@@ -42,6 +41,7 @@ module.exports = {
   a3b: eeveeGrove,
   a4: wisdomOfSeaAndSky,
   a4a: secludedSprings,
+  a4b: deluxePackEx,
   b1: megaRising,
   b1a: crimsonBlaze,
 };

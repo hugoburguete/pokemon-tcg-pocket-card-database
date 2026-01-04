@@ -30,9 +30,6 @@ export declare const en: {
   geneticApex: Card[];
   a1: typeof en.geneticApex;
 
-  deluxePackEx: Card[];
-  a4b: typeof en.deluxePackEx;
-
   mythicalIsland: Card[];
   a1a: typeof en.mythicalIsland;
 
@@ -59,6 +56,9 @@ export declare const en: {
 
   secludedSprings: Card[];
   a4a: typeof en.secludedSprings;
+
+  deluxePackEx: Card[];
+  a4b: typeof en.deluxePackEx;
 
   megaRising: Card[];
   b1: typeof en.megaRising;
