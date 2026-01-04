@@ -69,6 +69,3 @@ export declare const en: {
   promoA: Card[];
   promoB: Card[];
 };
-
-export declare const fr: typeof en;
-export declare const cn: typeof en;
