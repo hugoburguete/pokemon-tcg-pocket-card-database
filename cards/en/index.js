@@ -13,6 +13,9 @@ const secludedSprings = require('./a4a-secluded-springs.json');
 const promoB = require('./promo-b.json');
 const megaRising = require('./b1-mega-rising.json');
 const crimsonBlaze = require('./b1a-crimson-blaze.json');
+const fantasticalParade = require('./b2-fantastical-parade.json');
+const paldeanWonders = require('./b2a-paldean-wonders.json');
+const megaShine = require('./b2b-mega-shine.json');
 
 module.exports = {
   promoA,
@@ -30,4 +33,7 @@ module.exports = {
   deluxePackEx,
   megaRising,
   crimsonBlaze,
+  fantasticalParade,
+  paldeanWonders,
+  megaShine
 };
