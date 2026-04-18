@@ -1,0 +1,2629 @@
+[
+  {
+    "id": "a3a-001",
+    "name": "Chlorobule",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Canon Graine",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-002",
+    "name": "Fragilady",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coupe",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Petilil",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-003",
+    "name": "Brindibou",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Furie",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 10 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-004",
+    "name": "Efflèche",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Plongeon Contrôlé",
+        "effect": "Cette attaque inflige 20 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Rowlet",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-005",
+    "name": "Archéduc",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flèche de Précision",
+        "effect": "Cette attaque inflige 70 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Dartrix",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3a-006",
+    "name": "Mouscoto-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Breakbeat.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Breakbeat",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Breakbeat.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3a-007",
+    "name": "Cancrelove",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jump Blues",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-008",
+    "name": "Katagami",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thrash Metal",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-009",
+    "name": "Pierroteknik",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Punk Pop",
+        "effect": "Ce Pokémon s'inflige aussi 70 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-010",
+    "name": "Démanta",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-011",
+    "name": "Carvanha",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-012",
+    "name": "Sharpedo",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mâchouille",
+        "effect": "Lancez une pièce. Si c'est face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Carvanha",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-013",
+    "name": "Lixy",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-014",
+    "name": "Luxio",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Éclair Frontal",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Shinx",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-015",
+    "name": "Luxray",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boule de Foudre",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Croc Intimidant",
+        "effect": "Tant que ce Pokémon est sur le Poste Actif, les attaques utilisées par le Pokémon Actif de votre adversaire infligent − 20 dégâts."
+      }
+    ],
+    "evolvesFrom": "Luxio",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3a-016",
+    "name": "Zébibron",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ruade",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-017",
+    "name": "Zéblitz",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Éclair Frontal",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Blitzle",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-018",
+    "name": "Emolga",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Choc Statique",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-019",
+    "name": "Tokorico-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ouragan Plasma",
+        "effect": "Prenez une Énergie Électrique de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Électrique"
+        ]
+      },
+      {
+        "name": "Éclair Fulgurant",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3a-020",
+    "name": "Câblifère",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Electronica",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Électrique",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-021",
+    "name": "Zeraora",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Griffe Éclair",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Flash Fulgurant",
+        "effect": "À la fin de votre premier tour, prenez une Énergie Électrique de votre zone Énergie et attachez-la à ce Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3a-022",
+    "name": "Mélofée",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Face",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-023",
+    "name": "Mélodelfe",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Pied Lunaire",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Clefairy",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-024",
+    "name": "Brocélôme",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tir Effrayant",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-025",
+    "name": "Desséliande",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Réduire en Poussière",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Phantump",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-026",
+    "name": "Spododo",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crochet",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-027",
+    "name": "Lampignon",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gifle Douce",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Luminescence",
+        "effect": "Une fois pendant votre tour, vous pouvez ajouter au hasard un Pokémon de votre deck à votre main."
+      }
+    ],
+    "evolvesFrom": "Morelull",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3a-028",
+    "name": "Méditikka",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croche-Pied",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-029",
+    "name": "Charmina",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pied Voltige",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Meditite",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-030",
+    "name": "Balbuto",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Tournante",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-031",
+    "name": "Kaorine",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Puissant Rayon",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "Anti-Soin",
+        "effect": "Les Pokémon (les vôtres et ceux de votre adversaire) ne peuvent pas être soignés."
+      }
+    ],
+    "evolvesFrom": "Baltoy",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-032",
+    "name": "Rocabot",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jet-Pierres",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-033",
+    "name": "Lougaroc-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "LougaCroc",
+        "effect": "Défaussez une Énergie Combat de ce Pokémon.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3a-034",
+    "name": "Quartermac",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lancer Groupé",
+        "effect": "Si Quartermac est sur votre Banc, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-035",
+    "name": "Bacabouh",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tir Sableux",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-036",
+    "name": "Trépassable",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tourbi-Sable",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Combat",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Sandygast",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-037",
+    "name": "Miaouss d'Alola",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Intrusion",
+        "effect": "Défaussez au hasard une carte Outil Pokémon de la main de votre adversaire.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-038",
+    "name": "Persian d'Alola",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bluff",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Alolan Meowth",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-039",
+    "name": "Mascaïman",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-040",
+    "name": "Escroco",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poing Léger",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Sandile",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-041",
+    "name": "Crocorible",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crocs Extirpants",
+        "effect": "Lancez 3 pièces. Pour chaque côté face, une carte est choisie au hasard dans la main de votre adversaire. Votre adversaire montre la carte choisie et la mélange avec son deck.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Krokorok",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-042",
+    "name": "Zéroïd",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "New Wave",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Poison Sans Fin",
+        "effect": "Le Pokémon Actif de votre adversaire subit + 10 dégâts lorsqu'il est Empoisonné."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3a-043",
+    "name": "Engloutyran-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grindcore",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Trou Tyrannique",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3a-044",
+    "name": "Vémini",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Two-Step",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-045",
+    "name": "Mandrillon",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Acid House",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Poipole",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3a-046",
+    "name": "Taupiqueur d'Alola",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule Surprise",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-047",
+    "name": "Triopikeur d'Alola-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Coup d'Boule",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 60 dégâts pour chaque côté face.",
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Alolan Diglett",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3a-048",
+    "name": "Galekid",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-049",
+    "name": "Galegon",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Allonger",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Aron",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-050",
+    "name": "Galeking",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Lairon",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-051",
+    "name": "Grindur",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pic Piquant",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-052",
+    "name": "Noacier",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Tournante",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Épines d'Acier",
+        "effect": "Si ce Pokémon est sur le Poste Actif et subit les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 20 dégâts."
+      }
+    ],
+    "evolvesFrom": "Ferroseed",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-053",
+    "name": "Ama-Ama",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Brass Rock",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-054",
+    "name": "Ponchiot",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-055",
+    "name": "Ponchien",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Lillipup",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-056",
+    "name": "Mastouffe",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croc Aiguisé",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Surveillance Canine",
+        "effect": "Tant que ce Pokémon est sur le Poste Actif, les attaques utilisées par le Pokémon Actif de votre adversaire coûtent une Énergie  de plus."
+      }
+    ],
+    "evolvesFrom": "Herdier",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-057",
+    "name": "Nounourson",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-058",
+    "name": "Chelours",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Câlin Surpuissant",
+        "effect": "Lancez 2 pièces. Si elles tombent toutes sur face, le Pokémon Actif de votre adversaire est mis K.O.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-059",
+    "name": "Gouroutan",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Enfoncement",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3a-060",
+    "name": "Type:0",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Poing Éclair",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-061",
+    "name": "Silvallié",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Copains Courageux",
+        "effect": "Si vous avez joué une carte Supporter de votre main pendant ce tour, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Type: Null",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3a-062",
+    "name": "Bamboiselle",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Moombahton",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Ultra-Propulseurs",
+        "effect": "Une fois pendant votre tour, vous pouvez échanger l'Ultra-Chimère sur votre Poste Actif avec une des Ultra-Chimères sur votre Banc."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3a-063",
+    "name": "Barrière Chimère",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-064",
+    "name": "Repousse",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-065",
+    "name": "Câble Électrique",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-066",
+    "name": "Chimérite",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-067",
+    "name": "Gladio",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-068",
+    "name": "Beladonis",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-069",
+    "name": "Elsa-Mina",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3a-070",
+    "name": "Brindibou",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Furie",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 10 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3a-071",
+    "name": "Cancrelove",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jump Blues",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3a-072",
+    "name": "Pierroteknik",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Punk Pop",
+        "effect": "Ce Pokémon s'inflige aussi 70 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3a-073",
+    "name": "Miaouss d'Alola",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Intrusion",
+        "effect": "Défaussez au hasard une carte Outil Pokémon de la main de votre adversaire.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3a-074",
+    "name": "Silvallié",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Copains Courageux",
+        "effect": "Si vous avez joué une carte Supporter de votre main pendant ce tour, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Type: Null",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3a-075",
+    "name": "Bamboiselle",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Moombahton",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Ultra-Propulseurs",
+        "effect": "Une fois pendant votre tour, vous pouvez échanger l'Ultra-Chimère sur votre Poste Actif avec une des Ultra-Chimères sur votre Banc."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3a-076",
+    "name": "Mouscoto-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Breakbeat.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Breakbeat",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Breakbeat.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-077",
+    "name": "Tokorico-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ouragan Plasma",
+        "effect": "Prenez une Énergie Électrique de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Électrique"
+        ]
+      },
+      {
+        "name": "Éclair Fulgurant",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-078",
+    "name": "Lougaroc-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "LougaCroc",
+        "effect": "Défaussez une Énergie Combat de ce Pokémon.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-079",
+    "name": "Engloutyran-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grindcore",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Trou Tyrannique",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-080",
+    "name": "Triopikeur d'Alola-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Coup d'Boule",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 60 dégâts pour chaque côté face.",
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Alolan Diglett",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-081",
+    "name": "Gladio",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-082",
+    "name": "Beladonis",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-083",
+    "name": "Elsa-Mina",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-084",
+    "name": "Tokorico-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ouragan Plasma",
+        "effect": "Prenez une Énergie Électrique de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Électrique"
+        ]
+      },
+      {
+        "name": "Éclair Fulgurant",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-085",
+    "name": "Lougaroc-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "LougaCroc",
+        "effect": "Défaussez une Énergie Combat de ce Pokémon.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-086",
+    "name": "Engloutyran-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grindcore",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Trou Tyrannique",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-087",
+    "name": "Triopikeur d'Alola-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Coup d'Boule",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 60 dégâts pour chaque côté face.",
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Alolan Diglett",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3a-088",
+    "name": "Mouscoto-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Breakbeat.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Breakbeat",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Breakbeat.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a3a-089",
+    "name": "Caninos",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-090",
+    "name": "Arcanin",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge Énergétique",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Growlithe",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-091",
+    "name": "Grenousse",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-092",
+    "name": "Croâporal",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Goutte à Goutte",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Froakie",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-093",
+    "name": "Amphinobi",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 120,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tranche-Brume",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Sheauriken",
+        "effect": "Une fois pendant votre tour, vous pouvez infliger 20 dégâts à un Pokémon de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Frogadier",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-094",
+    "name": "Lippoutou",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-095",
+    "name": "Roucool",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tornade",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-096",
+    "name": "Roucoups",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tornade",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Pidgey",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-097",
+    "name": "Roucarnage",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cru-Ailes",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Déroute",
+        "effect": "Une fois pendant votre tour, vous pouvez échanger le Pokémon Actif de votre adversaire contre l'un de ses Pokémon de Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)"
+      }
+    ],
+    "evolvesFrom": "Pidgeotto",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-098",
+    "name": "Ptéra",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aile Primitive",
+        "effect": "Lancez une pièce. Si c'est face, votre adversaire mélange son Pokémon Actif avec son deck.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Old Amber",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3a-099",
+    "name": "Celebi-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Éclosion Éclatante",
+        "effect": "Lancez une pièce pour chaque Énergie attachée à ce Pokémon. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3a-100",
+    "name": "Arcanin-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Torrent d'Enfer",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Growlithe",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3a-101",
+    "name": "Ptéra-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Terre",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Ordre Primitif",
+        "effect": "Votre adversaire ne peut pas jouer de Pokémon de sa main sur le Pokémon Actif pour le faire évoluer."
+      }
+    ],
+    "evolvesFrom": "Old Amber",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3a-102",
+    "name": "Roucarnage-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cyclone Ravageur",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Pidgeotto",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3a-103",
+    "name": "Zéroïd",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crise Interdimensionnelle",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "New Wave",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Poison Sans Fin",
+        "effect": "Le Pokémon Actif de votre adversaire subit + 10 dégâts lorsqu'il est Empoisonné."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]

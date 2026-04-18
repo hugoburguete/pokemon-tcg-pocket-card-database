@@ -1,0 +1,2712 @@
+[
+  {
+    "id": "a3b-001",
+    "name": "Tropius",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vent Glacial",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-002",
+    "name": "Phyllali",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion de Feuilles",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie Plante attachée à ce Pokémon.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-003",
+    "name": "Croquine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-004",
+    "name": "Candine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Enjambée de Feuillage",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Bounsweet",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-005",
+    "name": "Sucreine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup Séparateur",
+        "effect": "Votre adversaire montre une carte de sa main au hasard, puis la mélange avec son deck.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Steenee",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-006",
+    "name": "Verpom",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-007",
+    "name": "Dratatin",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Saupoudrage Sucré",
+        "effect": "Si un de vos Pokémon a utilisé Saupoudrage Sucré lors de votre dernier tour, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Applin",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-008",
+    "name": "Pyroli",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Assistant Thermique",
+        "effect": "Prenez une Énergie Feu de votre zone Énergie et attachez-la à un de vos Pokémon de Banc.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-009",
+    "name": "Pyroli-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Danse Flammes",
+        "effect": "Défaussez 2 Énergies Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [
+      {
+        "name": "Ignition",
+        "effect": "Une fois pendant votre tour, vous pouvez attacher une Énergie Feu de votre pile de défausse à ce Pokémon. Dans ce cas, ce Pokémon subit 20 dégâts."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-010",
+    "name": "Chartor",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lance-Flammes",
+        "effect": "Défaussez une Énergie Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-011",
+    "name": "Flamiaou",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flamboiement",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-012",
+    "name": "Matoufeu",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tranch'Griffe",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Litten",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-013",
+    "name": "Félinferno",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dark Lariat",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 100 dégâts pour chaque côté face.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Torracat",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-014",
+    "name": "Tritox",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flammèche",
+        "effect": "Défaussez une Énergie Feu de ce Pokémon.",
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-015",
+    "name": "Malamandre",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fournaise",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Salandit",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-016",
+    "name": "Aquali",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hyper Tourbillon",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-017",
+    "name": "Givrali",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lame de Glace",
+        "effect": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-018",
+    "name": "Sorbébé",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Saupoudrage Sucré",
+        "effect": "Si un de vos Pokémon a utilisé Saupoudrage Sucré lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-019",
+    "name": "Sorboul",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Saupoudrage Sucré",
+        "effect": "Si un de vos Pokémon a utilisé Saupoudrage Sucré lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Vanillite",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-020",
+    "name": "Sorbouboul",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Tour",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 80 dégâts pour chaque côté face.",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Vanillish",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-021",
+    "name": "Mamanbo",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vibraqua",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-022",
+    "name": "Otaquin",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Arrosage",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-023",
+    "name": "Otarlette",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Popplio",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-024",
+    "name": "Oratoria-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydrocanon",
+        "effect": "Si ce Pokémon a au moins une Énergie Eau de plus, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Eau"
+        ]
+      },
+      {
+        "name": "Aria de l'Écume",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Brionne",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-025",
+    "name": "Voltali",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Premier Éclair",
+        "effect": "Si ce Pokémon a évolué pendant ce tour, cette attaque inflige 20 dégâts supplémentaires.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-026",
+    "name": "Statitik",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Secousse",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-027",
+    "name": "Mygavolt",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Choc Électrique",
+        "effect": "Défaussez toutes les Énergies attachées à ce Pokémon. Le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Joltik",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-028",
+    "name": "Mentali",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Énergie",
+        "effect": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-029",
+    "name": "Chovsourir",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tornade",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-030",
+    "name": "Rhinolove",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Woobat",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-031",
+    "name": "Sucroquin",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Saupoudrage Sucré",
+        "effect": "Si un de vos Pokémon a utilisé Saupoudrage Sucré lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-032",
+    "name": "Cupcanaille",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Saupoudrage Sucré",
+        "effect": "Si un de vos Pokémon a utilisé Saupoudrage Sucré lors de votre dernier tour, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Swirlix",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-033",
+    "name": "Nymphali",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Harmonie Évolutive",
+        "effect": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Pokémon Évolutif sur votre Banc.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-034",
+    "name": "Nymphali-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vent Féérique",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Ruban du Bonheur",
+        "effect": "Une fois lors de votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez piocher 2 cartes."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-035",
+    "name": "Mimiqui",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tentative d'Imitation",
+        "effect": "Lancez une pièce. Si c'est face, choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-036",
+    "name": "Crèmy",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Saupoudrage Sucré",
+        "effect": "Si un de vos Pokémon a utilisé Saupoudrage Sucré lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-037",
+    "name": "Charmilly",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Avalanche Sucrée",
+        "effect": "Cette attaque inflige 40 dégâts pour chaque utilisation de Saupoudrage Sucré par vos Pokémon pendant cette partie.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Milcery",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-038",
+    "name": "Barloche",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tir de Boue",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-039",
+    "name": "Barbicha",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Séisme",
+        "effect": "Cette attaque inflige aussi 10 dégâts à chacun de vos Pokémon de Banc.",
+        "cost": [
+          "Combat",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Barboach",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-040",
+    "name": "Kungfouine",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Ergots",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-041",
+    "name": "Shaofouine",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Balayage",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Mienfoo",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-042",
+    "name": "Strassie",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roulade Endurcie",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-043",
+    "name": "Noctali",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Entrave Sombre",
+        "effect": "Si le Pokémon Défenseur est un Pokémon de base, il ne peut pas attaquer pendant le prochain tour de votre adversaire.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3b-044",
+    "name": "Ténéfix",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-045",
+    "name": "Chacripan",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fausse Maladresse",
+        "effect": "Défaussez toutes les cartes Outil Pokémon du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-046",
+    "name": "Léopardus",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Griffe Taillante",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Purrloin",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-047",
+    "name": "Mysdibule",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Étau Costaud",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-048",
+    "name": "Togedemaru",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Épines Hérissées",
+        "effect": "Pendant le prochain tour de votre adversaire, si ce Pokémon subit les dégâts d'une attaque, le Pokémon Attaquant subit 30 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-049",
+    "name": "Meltan",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-050",
+    "name": "Melmetal",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ultimapoing",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Meltan",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-051",
+    "name": "Minidraco",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bataille",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-052",
+    "name": "Draco",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cascade",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dratini",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-053",
+    "name": "Dracolosse-ex",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "cost": [
+          "Eau",
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-054",
+    "name": "Draïeul",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Draco-Souffle",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-055",
+    "name": "Évoli",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collecte",
+        "effect": "Piochez une carte.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-056",
+    "name": "Évoli-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Volivolution",
+        "effect": "Ce Pokémon peut évoluer en n'importe quel Pokémon qui évolue de Évoli si vous le jouez de votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou pendant le tour où vous le jouez.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-057",
+    "name": "Ronflex-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 160,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poing Torpide",
+        "effect": "Ce Pokémon est maintenant Endormi.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Bouche Pleine",
+        "effect": "À la fin de votre tour, si ce Pokémon est sur le Poste Actif, soignez 20 dégâts à ce Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3b-058",
+    "name": "Capumain",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup Double",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-059",
+    "name": "Capidextre",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poing Tire-Bouchon",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Queue Farfouilleuse",
+        "effect": "Une fois pendant votre tour, vous pouvez ajouter au hasard une carte Outil Pokémon de votre deck à votre main."
+      }
+    ],
+    "evolvesFrom": "Aipom",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-060",
+    "name": "Pijako",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dur d'Oreille",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-061",
+    "name": "Nanméouïe",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Faites la Vague",
+        "effect": "Cette attaque inflige 20 dégâts pour chacun de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-062",
+    "name": "Chinchidou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Face",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-063",
+    "name": "Pashmilla",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gifle",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Minccino",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-064",
+    "name": "Rongourmand",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3b-065",
+    "name": "Rongrigou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croc Amélioré",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Skwovet",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-066",
+    "name": "Sac Évoli",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-067",
+    "name": "Restes",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-068",
+    "name": "Tili",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-069",
+    "name": "Pania",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3b-070",
+    "name": "Phyllali",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion de Feuilles",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie Plante attachée à ce Pokémon.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-071",
+    "name": "Pyroli",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Assistant Thermique",
+        "effect": "Prenez une Énergie Feu de votre zone Énergie et attachez-la à un de vos Pokémon de Banc.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-072",
+    "name": "Aquali",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hyper Tourbillon",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-073",
+    "name": "Givrali",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lame de Glace",
+        "effect": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-074",
+    "name": "Voltali",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Premier Éclair",
+        "effect": "Si ce Pokémon a évolué pendant ce tour, cette attaque inflige 20 dégâts supplémentaires.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-075",
+    "name": "Mentali",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Énergie",
+        "effect": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-076",
+    "name": "Nymphali",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Harmonie Évolutive",
+        "effect": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Pokémon Évolutif sur votre Banc.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-077",
+    "name": "Noctali",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Entrave Sombre",
+        "effect": "Si le Pokémon Défenseur est un Pokémon de base, il ne peut pas attaquer pendant le prochain tour de votre adversaire.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-078",
+    "name": "Évoli",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collecte",
+        "effect": "Piochez une carte.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-079",
+    "name": "Pyroli-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Danse Flammes",
+        "effect": "Défaussez 2 Énergies Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [
+      {
+        "name": "Ignition",
+        "effect": "Une fois pendant votre tour, vous pouvez attacher une Énergie Feu de votre pile de défausse à ce Pokémon. Dans ce cas, ce Pokémon subit 20 dégâts."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-080",
+    "name": "Oratoria-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydrocanon",
+        "effect": "Si ce Pokémon a au moins une Énergie Eau de plus, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Eau"
+        ]
+      },
+      {
+        "name": "Aria de l'Écume",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Brionne",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-081",
+    "name": "Nymphali-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vent Féérique",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Ruban du Bonheur",
+        "effect": "Une fois lors de votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez piocher 2 cartes."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-082",
+    "name": "Dracolosse-ex",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "cost": [
+          "Eau",
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-083",
+    "name": "Évoli-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Volivolution",
+        "effect": "Ce Pokémon peut évoluer en n'importe quel Pokémon qui évolue de Évoli si vous le jouez de votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou pendant le tour où vous le jouez.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-084",
+    "name": "Ronflex-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 160,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poing Torpide",
+        "effect": "Ce Pokémon est maintenant Endormi.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Bouche Pleine",
+        "effect": "À la fin de votre tour, si ce Pokémon est sur le Poste Actif, soignez 20 dégâts à ce Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-085",
+    "name": "Tili",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-086",
+    "name": "Pania",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-087",
+    "name": "Pyroli-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Danse Flammes",
+        "effect": "Défaussez 2 Énergies Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [
+      {
+        "name": "Ignition",
+        "effect": "Une fois pendant votre tour, vous pouvez attacher une Énergie Feu de votre pile de défausse à ce Pokémon. Dans ce cas, ce Pokémon subit 20 dégâts."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-088",
+    "name": "Oratoria-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydrocanon",
+        "effect": "Si ce Pokémon a au moins une Énergie Eau de plus, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Eau"
+        ]
+      },
+      {
+        "name": "Aria de l'Écume",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Brionne",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-089",
+    "name": "Nymphali-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vent Féérique",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Ruban du Bonheur",
+        "effect": "Une fois lors de votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez piocher 2 cartes."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-090",
+    "name": "Dracolosse-ex",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "cost": [
+          "Eau",
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-091",
+    "name": "Ronflex-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 160,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poing Torpide",
+        "effect": "Ce Pokémon est maintenant Endormi.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Bouche Pleine",
+        "effect": "À la fin de votre tour, si ce Pokémon est sur le Poste Actif, soignez 20 dégâts à ce Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3b-092",
+    "name": "Évoli-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Volivolution",
+        "effect": "Ce Pokémon peut évoluer en n'importe quel Pokémon qui évolue de Évoli si vous le jouez de votre main sur ce Pokémon. (Ce Pokémon ne peut pas évoluer pendant votre premier tour ou pendant le tour où vous le jouez.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a3b-093",
+    "name": "Scarabrute",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge Guillotine",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-094",
+    "name": "Lokhlass",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydrocanon",
+        "effect": "Si ce Pokémon a au moins 3 Énergies Eau de plus, cette attaque inflige 70 dégâts supplémentaires.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-095",
+    "name": "Voltorbe",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grosse Explosion",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-096",
+    "name": "Électrode",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Qui Roule",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Voltorb",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-097",
+    "name": "Tarsal",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Téléport",
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-098",
+    "name": "Kirlia",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gifle",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Ralts",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-099",
+    "name": "Gardevoir",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 110,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Ombre Psy",
+        "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie Psy de votre zone Énergie et l'attacher au Pokémon Psy sur le Poste Actif."
+      }
+    ],
+    "evolvesFrom": "Kirlia",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-100",
+    "name": "Abo",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-101",
+    "name": "Arbok",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coinçage",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Ekans",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3b-102",
+    "name": "Canarticho",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Oignon",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3b-103",
+    "name": "Sulfura-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Danse Infernale",
+        "effect": "Lancez 3 pièces. Prenez le même nombre d'Énergie Feu de votre zone Énergie que le nombre de côté face obtenu et attachez-les à vos Pokémon Feu de Banc comme il vous plaît.",
+        "cost": [
+          "Feu"
+        ]
+      },
+      {
+        "name": "Explosion de Chaleur",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3b-104",
+    "name": "Artikodin-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aile Glace",
+        "effect": "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Blizzard",
+        "effect": "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3b-105",
+    "name": "Électhor-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Picpic",
+        "effect": "Lancez 4 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Électrique"
+        ]
+      },
+      {
+        "name": "Rafale d'Éclairs",
+        "effect": "Lancez 4 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3b-106",
+    "name": "Gallame-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lame Énergisée",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3b-107",
+    "name": "Sac Évoli",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "La Clairière d'Évoli",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]
