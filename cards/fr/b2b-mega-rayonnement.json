@@ -19,7 +19,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -44,7 +44,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -69,7 +69,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -94,7 +94,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -119,7 +119,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -145,7 +145,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Phantump",
     "rarity": "Peu commune"
@@ -171,7 +171,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -197,7 +197,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [
       {
         "name": "Préchauffe",
@@ -229,7 +229,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
     "rarity": "Rare EX"
@@ -254,7 +254,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -279,7 +279,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Ponyta",
     "rarity": "Commune"
@@ -305,7 +305,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -332,7 +332,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Magmar",
     "rarity": "Peu commune"
@@ -358,7 +358,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -384,7 +384,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -411,7 +411,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
     "rarity": "Rare EX"
@@ -438,7 +438,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Peu commune"
@@ -463,7 +463,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -489,7 +489,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Piplup",
     "rarity": "Peu commune"
@@ -516,7 +516,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Prinplup",
     "rarity": "Rare"
@@ -541,7 +541,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Peu commune"
@@ -566,7 +566,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -592,7 +592,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Pikachu",
     "rarity": "Peu commune"
@@ -617,7 +617,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -643,7 +643,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electabuzz",
     "rarity": "Peu commune"
@@ -668,7 +668,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -694,7 +694,7 @@
       }
     ],
     "retreatCost": "0",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electrike",
     "rarity": "Rare EX"
@@ -719,7 +719,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Darkness",
+    "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -746,7 +746,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Darkness",
+    "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": "Drowzee",
     "rarity": "Peu commune"
@@ -772,7 +772,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Darkness",
+    "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Rare"
@@ -797,7 +797,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Darkness",
+    "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -822,7 +822,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Darkness",
+    "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": "Spoink",
     "rarity": "Peu commune"
@@ -847,7 +847,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -873,7 +873,7 @@
       }
     ],
     "retreatCost": "0",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": "Diglett",
     "rarity": "Peu commune"
@@ -901,7 +901,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Rare"
@@ -927,7 +927,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -952,7 +952,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -978,7 +978,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Gastly",
     "rarity": "Peu commune"
@@ -1006,7 +1006,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Haunter",
     "rarity": "Rare EX"
@@ -1033,7 +1033,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [
       {
         "name": "Mauvais Rêve",
@@ -1064,7 +1064,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -1090,7 +1090,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Trubbish",
     "rarity": "Commune"
@@ -1115,7 +1115,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -1140,7 +1140,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": "Zorua",
     "rarity": "Rare"
@@ -1166,7 +1166,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -1193,7 +1193,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Pineco",
     "rarity": "Peu commune"
@@ -1220,7 +1220,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Scyther",
     "rarity": "Rare EX"
@@ -1245,7 +1245,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Peu commune"
@@ -1271,7 +1271,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -1297,7 +1297,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [
       {
         "name": "Transport Métal",
@@ -1510,7 +1510,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -1537,7 +1537,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Jigglypuff",
     "rarity": "Commune"
@@ -1563,7 +1563,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Peu commune"
@@ -1588,7 +1588,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -1613,7 +1613,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Commune"
@@ -1639,7 +1639,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Minccino",
     "rarity": "Commune"
@@ -1665,7 +1665,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [
       {
         "name": "Toison Épaisse",
@@ -1777,7 +1777,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Illustration spéciale"
@@ -1804,7 +1804,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Prinplup",
     "rarity": "Illustration spéciale"
@@ -1832,7 +1832,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Illustration spéciale"
@@ -1858,7 +1858,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Illustration spéciale"
@@ -1884,7 +1884,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [
       {
         "name": "",
@@ -1915,7 +1915,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Illustration spéciale"
@@ -1942,7 +1942,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
     "rarity": "Illustration spéciale EX / Dresseur"
@@ -1969,7 +1969,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
     "rarity": "Illustration spéciale EX / Dresseur"
@@ -1995,7 +1995,7 @@
       }
     ],
     "retreatCost": "0",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electrike",
     "rarity": "Illustration spéciale EX / Dresseur"
@@ -2023,7 +2023,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Haunter",
     "rarity": "Illustration spéciale EX / Dresseur"
@@ -2050,7 +2050,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Scyther",
     "rarity": "Illustration spéciale EX / Dresseur"
@@ -2109,7 +2109,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
     "rarity": "Illustration spéciale EX / Dresseur"
@@ -2135,7 +2135,7 @@
       }
     ],
     "retreatCost": "0",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electrike",
     "rarity": "Illustration spéciale EX / Dresseur"
@@ -2161,7 +2161,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Darkness",
+    "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Immersive"
@@ -2187,7 +2187,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Darkness",
+    "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "Immersive"
@@ -2212,7 +2212,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2237,7 +2237,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2262,7 +2262,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2288,7 +2288,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Phantump",
     "rarity": "1 étoile brillante"
@@ -2314,7 +2314,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2340,7 +2340,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [
       {
         "name": "Préchauffe",
@@ -2370,7 +2370,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2395,7 +2395,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Ponyta",
     "rarity": "1 étoile brillante"
@@ -2421,7 +2421,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2446,7 +2446,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2472,7 +2472,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Pikachu",
     "rarity": "1 étoile brillante"
@@ -2497,7 +2497,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2523,7 +2523,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2548,7 +2548,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2574,7 +2574,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Gastly",
     "rarity": "1 étoile brillante"
@@ -2599,7 +2599,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
     "rarity": "1 étoile brillante"
@@ -2624,7 +2624,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Grass",
+    "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": "Zorua",
     "rarity": "1 étoile brillante"
@@ -2651,7 +2651,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Pineco",
     "rarity": "1 étoile brillante"
@@ -2834,7 +2834,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Water",
+    "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
     "rarity": "2 étoiles brillantes"
@@ -2861,7 +2861,7 @@
       }
     ],
     "retreatCost": "3",
-    "weakness": "Lightning",
+    "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
     "rarity": "2 étoiles brillantes"
@@ -2887,7 +2887,7 @@
       }
     ],
     "retreatCost": "0",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electrike",
     "rarity": "2 étoiles brillantes"
@@ -2915,7 +2915,7 @@
       }
     ],
     "retreatCost": "1",
-    "weakness": "Fighting",
+    "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Haunter",
     "rarity": "2 étoiles brillantes"
@@ -2942,7 +2942,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Scyther",
     "rarity": "2 étoiles brillantes"
@@ -2968,7 +2968,7 @@
       }
     ],
     "retreatCost": "2",
-    "weakness": "Fire",
+    "weakness": "Feu",
     "abilities": [
       {
         "name": "Soin Supplémentaire",

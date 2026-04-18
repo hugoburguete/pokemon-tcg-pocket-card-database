@@ -1,0 +1,5931 @@
+[
+  {
+    "id": "a3-001",
+    "name": "Noeunoeuf",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Roulé-Boulé",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-002",
+    "name": "Noadkoko d'Alola",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Marteau Tropical",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-003",
+    "name": "Arakdo",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vive-Attaque",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-004",
+    "name": "Maskadra",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bourdon",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Surskit",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-005",
+    "name": "Maracachi",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Dard",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-006",
+    "name": "Carabing",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-007",
+    "name": "Brocélôme",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Crochet",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-008",
+    "name": "Desséliande",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tranch'Griffe",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Phantump",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-009",
+    "name": "Brindibou",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Feuillage",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-010",
+    "name": "Brindibou",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Plongeon Contrôlé",
+        "effect": "Cette attaque inflige 10 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-011",
+    "name": "Efflèche",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Aile Tranchante",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Rowlet",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-012",
+    "name": "Archéduc-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Acharnement Perçant",
+        "effect": "Cette attaque inflige 100 dégâts à un des Pokémon de votre adversaire ayant subi des dégâts.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Tranch'Herbe",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Dartrix",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-013",
+    "name": "Larvibule",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Ronge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-014",
+    "name": "Mimantis",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Feuillage",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-015",
+    "name": "Floramantis",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tempête Florale",
+        "effect": "Cette attaque inflige 20 dégâts à chacun des Pokémon de votre adversaire.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Fomantis",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-016",
+    "name": "Spododo",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Ruée",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-017",
+    "name": "Lampignon",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Lueur Vacillante",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Défenseur ne peut pas attaquer pendant le prochain tour de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Morelull",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-018",
+    "name": "Croquine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Ruée",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-019",
+    "name": "Candine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Double Tour",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 30 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Bounsweet",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-020",
+    "name": "Sucreine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Triple Coup de Pied",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Steenee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-021",
+    "name": "Sovkipou",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Ronge",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Escampette",
+        "effect": "Pendant votre premier tour, ce Pokémon n'a aucun Coût de Retraite."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-022",
+    "name": "Sarmuraï",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Escarmouche",
+        "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Wimpod",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-023",
+    "name": "Sinistrail-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Ancrage",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-024",
+    "name": "Tokotoro",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Encastrement",
+        "effect": "Lancez une pièce. Si c'est pile, ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-025",
+    "name": "Caninos",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fournaise",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-026",
+    "name": "Arcanin",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crinière de Feu",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Growlithe",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-027",
+    "name": "Ossatueur d'Alola",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Osmerang Enflammé",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 70 dégâts pour chaque côté face. Si vous obtenez au moins un côté face, le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-028",
+    "name": "Braisillon",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Crachage de Feu Régulier",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Fletchling",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-029",
+    "name": "Flambusard",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Aile de Feu",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Fletchinder",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-030",
+    "name": "Flamiaou",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Charge Énergétique",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-031",
+    "name": "Flamiaou",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-032",
+    "name": "Matoufeu",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Charge Énergétique",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Litten",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-033",
+    "name": "Félinferno-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Crocs Feu",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+        "cost": [
+          "Feu"
+        ]
+      },
+      {
+        "name": "Frappe Balafre",
+        "effect": "Si ce Pokémon a subi des dégâts, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Torracat",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-034",
+    "name": "Plumeline",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Enflammer",
+        "effect": "Défaussez une Énergie au hasard des deux Pokémon Actifs.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-035",
+    "name": "Tritox",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ronge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-036",
+    "name": "Malamandre",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Ardent",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné et Brûlé.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Salandit",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-037",
+    "name": "Boumata",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Danse Flammes",
+        "effect": "Défaussez une Énergie Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-038",
+    "name": "Sabelette d'Alola",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-039",
+    "name": "Sablaireau d'Alola",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Armure Piquante",
+        "effect": "Pendant le prochain tour de votre adversaire, si ce Pokémon subit les dégâts d'une attaque, le Pokémon Attaquant subit 40 dégâts.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Alolan Sandshrew",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-040",
+    "name": "Goupix d'Alola",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Appel au Froid",
+        "effect": "Prenez une Énergie Eau de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-041",
+    "name": "Feunard d'Alola",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "effect": "Cette attaque inflige aussi 20 dégâts à chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Alolan Vulpix",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-042",
+    "name": "Kokiyas",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-043",
+    "name": "Crustabri",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Pression de Garde",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Shellder",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-044",
+    "name": "Lokhlass",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-045",
+    "name": "Otaquin",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Berceuse",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-046",
+    "name": "Otaquin",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-047",
+    "name": "Otarlette",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Popplio",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-048",
+    "name": "Oratoria",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Mélodie Médicinale",
+        "effect": "Une fois pendant votre tour, vous pouvez soigner 30 dégâts de chacun de vos Pokémon Eau."
+      }
+    ],
+    "evolvesFrom": "Brionne",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-049",
+    "name": "Crabominable-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tacle Insatiable",
+        "effect": "Pendant votre prochain tour, l'attaque Tacle Insatiable de ce Pokémon inflige + 40 dégâts.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Crabrawler",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-050",
+    "name": "Froussardine",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Appel à la Famille",
+        "effect": "Placez une carte au hasard entre Froussardine ou Froussardine-ex de votre deck sur votre Banc.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-051",
+    "name": "Froussardine-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Banc Houleux",
+        "effect": "Cette attaque inflige 40 dégâts supplémentaires pour chaque Froussardine et Froussardine-ex sur votre Banc.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-052",
+    "name": "Araqua",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Crochet",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-053",
+    "name": "Tarenbulle",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Griffes Redoutables",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon de base, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Dewpider",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-054",
+    "name": "Concombaffe",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Eau Aspergeante",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Expuls'Organes",
+        "effect": "Si ce Pokémon est sur le Poste Actif et qu'il est mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 50 dégâts."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-055",
+    "name": "Denticrisse",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-056",
+    "name": "Tokopisco",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Spirale Épuisante",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-057",
+    "name": "Pikachu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Coup de Queue",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-058",
+    "name": "Raichu d'Alola-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 30 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-059",
+    "name": "Racaillou d'Alola",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Coud'Phalange",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-060",
+    "name": "Gravalanch d'Alola",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Gros Impact",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Alolan Geodude",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-061",
+    "name": "Grolem d'Alola",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Super Élecanon",
+        "effect": "Défaussez 2 Énergies Électrique de ce Pokémon.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Alolan Graveler",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-062",
+    "name": "Galvaran",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coud'Pattes",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-063",
+    "name": "Iguolta",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ruade",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Helioptile",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-064",
+    "name": "Chrysapile",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Force Poigne",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Grubbin",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-065",
+    "name": "Lucanon",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Déconnexion",
+        "effect": "Pendant le prochain tour de votre adversaire, il ne peut pas jouer de cartes Objet de sa main.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Charjabug",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-066",
+    "name": "Plumeline",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Zzzap",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Rune Protect",
+        "effect": "Évitez tous les dégâts infligés à ce Pokémon par les attaques des Pokémon-ex de votre adversaire."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-067",
+    "name": "Togedemaru",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Électro Impact",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-068",
+    "name": "Tokorico",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Change Éclair",
+        "effect": "Échangez ce Pokémon avec un de vos Pokémon Électrique de Banc.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-069",
+    "name": "M. Mime",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Barrière Déflectrice",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-070",
+    "name": "Ténéfix",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coinçage",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-071",
+    "name": "Spoink",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Recharge Psychique",
+        "effect": "Prenez une Énergie Psy de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-072",
+    "name": "Groret",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psykoud'Boul",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Spoink",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-073",
+    "name": "Séléroc",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Pression Lunaire",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-074",
+    "name": "Polichombr",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Feu Follet",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-075",
+    "name": "Branette",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lien Nocturne",
+        "effect": "Pendant le prochain tour de votre adversaire, il ne peut prendre aucune Énergie de sa zone Énergie pour en attacher à son Pokémon Actif.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Shuppet",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-076",
+    "name": "Plumeline",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Danse Éblouissante",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-077",
+    "name": "Plumeline",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Danse Rancunière",
+        "effect": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-078",
+    "name": "Bombydou",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Battement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-079",
+    "name": "Rubombelle",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Vent Féérique",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Cutiefly",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-080",
+    "name": "Guérilande",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Attaque Tournante",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Garde Florale",
+        "effect": "Chacun de vos Pokémon auquel de l'Énergie Psy est attachée guérit de tous les États Spéciaux et ne peut être affecté par aucun État Spécial."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-081",
+    "name": "Bacabouh",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Vibration",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-082",
+    "name": "Trépassable",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tir Effrayant",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Sandygast",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-083",
+    "name": "Mimiqui",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Frappe Ombre",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un de vos Pokémon.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-084",
+    "name": "Tokopiyon",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Flèche d'Énergie",
+        "effect": "Cette attaque inflige 20 dégâts à un des Pokémon de votre adversaire pour chaque Énergie attachée à ce Pokémon.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-085",
+    "name": "Cosmog",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Téléport",
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-086",
+    "name": "Cosmovum",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Raidissement",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 50 dégâts provenant des attaques.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Cosmog",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-087",
+    "name": "Lunala-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Explosion Lunaire",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Connexion Psy",
+        "effect": "Une fois pendant votre tour, vous pouvez déplacer toute l'Énergie Psy de l'un de vos Pokémon Psy de Banc vers votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-088",
+    "name": "Necrozma",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Laser Prisme",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-089",
+    "name": "Osselait",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Bataille",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-090",
+    "name": "Makuhita",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grande Claque",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-091",
+    "name": "Hariyama",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Expulsion",
+        "effect": "Échangez le Pokémon Actif de votre adversaire avec l'un de ses Pokémon de Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)",
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Makuhita",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-092",
+    "name": "Solaroc",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Lance-Soleil",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-093",
+    "name": "Rototaupe",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-094",
+    "name": "Charpenti",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Poing Tire-Bouchon",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-095",
+    "name": "Ouvrifier",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Force",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Timburr",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-096",
+    "name": "Bétochef",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Ultimapoing",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Psy",
+    "abilities": [
+      {
+        "name": "Cran",
+        "effect": "Si ce Pokémon doit être mis K.O. par les dégâts d'une attaque, lancez une pièce. Si c'est face, ce Pokémon n'est pas mis K.O. et il lui reste 10 PV."
+      }
+    ],
+    "evolvesFrom": "Gurdurr",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-097",
+    "name": "Crabagarre",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-098",
+    "name": "Rocabot",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Signes d'Évolution",
+        "effect": "Ajoutez au hasard une carte Évolution de Rocabot de votre deck à votre main.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-099",
+    "name": "Rocabot",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-100",
+    "name": "Lougaroc",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Mâchouille",
+        "effect": "Lancez une pièce. Si c'est face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-101",
+    "name": "Lougaroc",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Crocs de Sang",
+        "effect": "S'il reste plus de PV au Pokémon Actif de votre adversaire qu'à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Rockruff",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-102",
+    "name": "Tiboudet",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Ruade",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-103",
+    "name": "Bourrinos",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Cavalerie Lourde",
+        "effect": "Ce Pokémon s'inflige aussi 40 dégâts.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Mudbray",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-104",
+    "name": "Quartermac-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Frappe Atlas",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [
+      {
+        "name": "Passe Latérale",
+        "effect": "Si ce Pokémon est sur le Poste Actif et qu'il est mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire, déplacez toute l'Énergie Combat de ce Pokémon vers l'un de vos Pokémon de Banc."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-105",
+    "name": "Météno",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Chute d'Étoiles",
+        "effect": "Cette attaque inflige 40 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-106",
+    "name": "Rattata d'Alola",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-107",
+    "name": "Rattatac d'Alola",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Farfouronge",
+        "effect": "Défaussez au hasard une carte Objet de la main de votre adversaire.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Alolan Rattata",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-108",
+    "name": "Miaouss d'Alola",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-109",
+    "name": "Persian d'Alola",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tranch'Griffe",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "Toison Épaisse",
+        "effect": "Ce Pokémon subit − 20 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": "Alolan Meowth",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-110",
+    "name": "Tadmorv d'Alola",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Giclée Vaseuse",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-111",
+    "name": "Grotadmorv d'Alola-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Panique Chimique",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant affecté par un État Spécial choisi au hasard parmi Endormi, Brûlé, Confus, Paralysé et Empoisonné. Tout État Spécial qui affecte déjà ce Pokémon ne sera pas choisi.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Alolan Grimer",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-112",
+    "name": "Absol",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Griffe Invisible",
+        "effect": "Si le Pokémon Actif de votre adversaire est affecté par un État Spécial, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-113",
+    "name": "Miamiasme",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Face",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-114",
+    "name": "Miasmax",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Super Haleine Empoisonnée",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Trubbish",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-115",
+    "name": "Vorastérie",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Transpercement",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-116",
+    "name": "Prédastérie",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Picanon",
+        "effect": "Lancez 4 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Mareanie",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-117",
+    "name": "Taupiqueur d'Alola",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-118",
+    "name": "Triopikeur d'Alola",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tête de Fer",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 70 dégâts pour chaque côté face.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Alolan Diglett",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-119",
+    "name": "Minotaupe",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Drilbur",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-120",
+    "name": "Lançargot",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Javelot",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Karrablast",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-121",
+    "name": "Trousselin",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Déverrouillage",
+        "effect": "Piochez une carte.",
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-122",
+    "name": "Solgaleo-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Brèche Solaire",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Ascension Solaire",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur votre Banc, vous pouvez l'échanger avec votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a3-123",
+    "name": "Magearna",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Canon Argenté",
+        "effect": "Si le Pokémon Actif de votre adversaire a un talent, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-124",
+    "name": "Draïeul",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Folle Furie",
+        "effect": "Si au moins un de vos Pokémon de Banc a subi des dégâts, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-125",
+    "name": "Bébécaille",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-126",
+    "name": "Écaïd",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Draco-Griffe",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Jangmo-o",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-127",
+    "name": "Ékaïser",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Vibrécaille",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit + 30 dégâts provenant des attaques.",
+        "cost": [
+          "Électrique",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Hakamo-o",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-128",
+    "name": "Tauros",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Botte Secrète",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 50 dégâts de plus.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-129",
+    "name": "Skitty",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-130",
+    "name": "Delcatty",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Assistance Énergétique",
+        "effect": "Prenez une Énergie Incolore de votre zone Énergie et attachez-la à un de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Skitty",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-131",
+    "name": "Passerouge",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Battement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-132",
+    "name": "Brutalibré",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Juste Pression",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon Obscurité, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-133",
+    "name": "Picassaut",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Picpic",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-134",
+    "name": "Piclairon",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Glissement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Pikipek",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-135",
+    "name": "Bazoucan",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bec Vrille",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Trumbeak",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-136",
+    "name": "Manglouton",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-137",
+    "name": "Argouste",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Frappe de Tête",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Yungoos",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-138",
+    "name": "Nounourson",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Enfoncement",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a3-139",
+    "name": "Chelours",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Mauvaise Humeur",
+        "effect": "Ce Pokémon est maintenant Confus.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-140",
+    "name": "Gouroutan",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Piège Simien",
+        "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur coûtent une Énergie  de plus, et son Coût de Retraite augmente de une Énergie .",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a3-141",
+    "name": "Dodoala",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Roulé-Boulé",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Hypersommeil",
+        "effect": "Tant que ce Pokémon est sur le Poste Actif, lorsque vous lui attachez une Énergie de votre zone Énergie, il est désormais Endormi."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-142",
+    "name": "Malasada Maxi",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-143",
+    "name": "Filet de Pêche",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-144",
+    "name": "Super Bonbon",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-145",
+    "name": "Motisma-Dex",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-146",
+    "name": "Pic Venin",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-147",
+    "name": "Cape Sylvestre",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-148",
+    "name": "Margie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-149",
+    "name": "Althéo",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-150",
+    "name": "Kiawe",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-151",
+    "name": "Guzma",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-152",
+    "name": "Néphie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-153",
+    "name": "Chrys",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-154",
+    "name": "Barbara",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-155",
+    "name": "Lilie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a3-156",
+    "name": "Noadkoko d'Alola",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Marteau Tropical",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-157",
+    "name": "Spododo",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Ruée",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-158",
+    "name": "Sucreine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Triple Coup de Pied",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Steenee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-159",
+    "name": "Tokotoro",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Encastrement",
+        "effect": "Lancez une pièce. Si c'est pile, ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-160",
+    "name": "Ossatueur d'Alola",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Osmerang Enflammé",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 70 dégâts pour chaque côté face. Si vous obtenez au moins un côté face, le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-161",
+    "name": "Boumata",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Danse Flammes",
+        "effect": "Défaussez une Énergie Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-162",
+    "name": "Goupix d'Alola",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Appel au Froid",
+        "effect": "Prenez une Énergie Eau de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-163",
+    "name": "Concombaffe",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Eau Aspergeante",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Expuls'Organes",
+        "effect": "Si ce Pokémon est sur le Poste Actif et qu'il est mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 50 dégâts."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-164",
+    "name": "Tokopisco",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Spirale Épuisante",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-165",
+    "name": "Plumeline",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Zzzap",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Rune Protect",
+        "effect": "Évitez tous les dégâts infligés à ce Pokémon par les attaques des Pokémon-ex de votre adversaire."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-166",
+    "name": "Tokorico",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Change Éclair",
+        "effect": "Échangez ce Pokémon avec un de vos Pokémon Électrique de Banc.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-167",
+    "name": "Bombydou",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Battement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-168",
+    "name": "Guérilande",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Attaque Tournante",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Garde Florale",
+        "effect": "Chacun de vos Pokémon auquel de l'Énergie Psy est attachée guérit de tous les États Spéciaux et ne peut être affecté par aucun État Spécial."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-169",
+    "name": "Bacabouh",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Vibration",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-170",
+    "name": "Tokopiyon",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Flèche d'Énergie",
+        "effect": "Cette attaque inflige 20 dégâts à un des Pokémon de votre adversaire pour chaque Énergie attachée à ce Pokémon.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-171",
+    "name": "Cosmog",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Téléport",
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-172",
+    "name": "Rocabot",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Signes d'Évolution",
+        "effect": "Ajoutez au hasard une carte Évolution de Rocabot de votre deck à votre main.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-173",
+    "name": "Bourrinos",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Cavalerie Lourde",
+        "effect": "Ce Pokémon s'inflige aussi 40 dégâts.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Mudbray",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-174",
+    "name": "Météno",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Chute d'Étoiles",
+        "effect": "Cette attaque inflige 40 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-175",
+    "name": "Magearna",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Canon Argenté",
+        "effect": "Si le Pokémon Actif de votre adversaire a un talent, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-176",
+    "name": "Draïeul",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Folle Furie",
+        "effect": "Si au moins un de vos Pokémon de Banc a subi des dégâts, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-177",
+    "name": "Picassaut",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Picpic",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-178",
+    "name": "Chelours",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Mauvaise Humeur",
+        "effect": "Ce Pokémon est maintenant Confus.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Stufful",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-179",
+    "name": "Dodoala",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Roulé-Boulé",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Hypersommeil",
+        "effect": "Tant que ce Pokémon est sur le Poste Actif, lorsque vous lui attachez une Énergie de votre zone Énergie, il est désormais Endormi."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a3-180",
+    "name": "Archéduc-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Acharnement Perçant",
+        "effect": "Cette attaque inflige 100 dégâts à un des Pokémon de votre adversaire ayant subi des dégâts.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Tranch'Herbe",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Dartrix",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-181",
+    "name": "Sinistrail-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Ancrage",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-182",
+    "name": "Félinferno-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Crocs Feu",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+        "cost": [
+          "Feu"
+        ]
+      },
+      {
+        "name": "Frappe Balafre",
+        "effect": "Si ce Pokémon a subi des dégâts, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Torracat",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-183",
+    "name": "Crabominable-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tacle Insatiable",
+        "effect": "Pendant votre prochain tour, l'attaque Tacle Insatiable de ce Pokémon inflige + 40 dégâts.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Crabrawler",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-184",
+    "name": "Froussardine-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Banc Houleux",
+        "effect": "Cette attaque inflige 40 dégâts supplémentaires pour chaque Froussardine et Froussardine-ex sur votre Banc.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-185",
+    "name": "Raichu d'Alola-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 30 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-186",
+    "name": "Lunala-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Explosion Lunaire",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Connexion Psy",
+        "effect": "Une fois pendant votre tour, vous pouvez déplacer toute l'Énergie Psy de l'un de vos Pokémon Psy de Banc vers votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-187",
+    "name": "Quartermac-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Frappe Atlas",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [
+      {
+        "name": "Passe Latérale",
+        "effect": "Si ce Pokémon est sur le Poste Actif et qu'il est mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire, déplacez toute l'Énergie Combat de ce Pokémon vers l'un de vos Pokémon de Banc."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-188",
+    "name": "Grotadmorv d'Alola-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Panique Chimique",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant affecté par un État Spécial choisi au hasard parmi Endormi, Brûlé, Confus, Paralysé et Empoisonné. Tout État Spécial qui affecte déjà ce Pokémon ne sera pas choisi.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Alolan Grimer",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-189",
+    "name": "Solgaleo-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Brèche Solaire",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Ascension Solaire",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur votre Banc, vous pouvez l'échanger avec votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-190",
+    "name": "Margie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-191",
+    "name": "Althéo",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-192",
+    "name": "Kiawe",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-193",
+    "name": "Guzma",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-194",
+    "name": "Néphie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-195",
+    "name": "Chrys",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-196",
+    "name": "Barbara",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-197",
+    "name": "Lilie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-198",
+    "name": "Archéduc-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Acharnement Perçant",
+        "effect": "Cette attaque inflige 100 dégâts à un des Pokémon de votre adversaire ayant subi des dégâts.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Tranch'Herbe",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Dartrix",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-199",
+    "name": "Sinistrail-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Ancrage",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-200",
+    "name": "Félinferno-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Crocs Feu",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+        "cost": [
+          "Feu"
+        ]
+      },
+      {
+        "name": "Frappe Balafre",
+        "effect": "Si ce Pokémon a subi des dégâts, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Torracat",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-201",
+    "name": "Crabominable-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tacle Insatiable",
+        "effect": "Pendant votre prochain tour, l'attaque Tacle Insatiable de ce Pokémon inflige + 40 dégâts.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Crabrawler",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-202",
+    "name": "Froussardine-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Banc Houleux",
+        "effect": "Cette attaque inflige 40 dégâts supplémentaires pour chaque Froussardine et Froussardine-ex sur votre Banc.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-203",
+    "name": "Raichu d'Alola-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 30 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-204",
+    "name": "Lunala-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Explosion Lunaire",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Connexion Psy",
+        "effect": "Une fois pendant votre tour, vous pouvez déplacer toute l'Énergie Psy de l'un de vos Pokémon Psy de Banc vers votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-205",
+    "name": "Quartermac-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Frappe Atlas",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [
+      {
+        "name": "Passe Latérale",
+        "effect": "Si ce Pokémon est sur le Poste Actif et qu'il est mis K.O. par les dégâts d'une attaque d'un Pokémon de votre adversaire, déplacez toute l'Énergie Combat de ce Pokémon vers l'un de vos Pokémon de Banc."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-206",
+    "name": "Grotadmorv d'Alola-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Panique Chimique",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant affecté par un État Spécial choisi au hasard parmi Endormi, Brûlé, Confus, Paralysé et Empoisonné. Tout État Spécial qui affecte déjà ce Pokémon ne sera pas choisi.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Alolan Grimer",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-207",
+    "name": "Solgaleo-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Brèche Solaire",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Ascension Solaire",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur votre Banc, vous pouvez l'échanger avec votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a3-208",
+    "name": "Guzma",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a3-209",
+    "name": "Lilie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a3-210",
+    "name": "Bulbizarre",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Fouet Lianes",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-211",
+    "name": "Herbizarre",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tranch'Herbe",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Bulbasaur",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-212",
+    "name": "Florizarre",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Méga-Sangsue",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-213",
+    "name": "Noeunoeuf",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Roulé-Boulé",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-214",
+    "name": "Noadkoko",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-215",
+    "name": "Carapuce",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-216",
+    "name": "Carabaffe",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Squirtle",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-217",
+    "name": "Tortank",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Hydrocanon",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Eau de plus, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-218",
+    "name": "Stari",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Claque",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-219",
+    "name": "Staross",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Staryu",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-220",
+    "name": "Fantominus",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Étonnement",
+        "effect": "Lancez une pièce. Si c'est face, votre adversaire montre une carte de sa main au hasard, puis la mélange avec son deck.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-221",
+    "name": "Spectrum",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Feu Follet",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Gastly",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-222",
+    "name": "Ectoplasma",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Supplice",
+        "effect": "Votre adversaire ne peut pas jouer de carte Supporter de sa main lors son prochain tour.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-223",
+    "name": "Machoc",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Coud'Phalange",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-224",
+    "name": "Machopeur",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Force",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Machop",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-225",
+    "name": "Mackogneur",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Étau Puissant",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Combat de plus, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Machoke",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-226",
+    "name": "Osselait",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Rugissement",
+        "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent − 20 dégâts.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-227",
+    "name": "Ossatueur",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Dérouillée d'Os",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-228",
+    "name": "Rondoudou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Roulade",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-229",
+    "name": "Grodoudou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Gifle Douce",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Chant Réconfortant",
+        "effect": "Une fois pendant votre tour, vous pouvez soigner 20 dégâts de votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a3-230",
+    "name": "Florizarre-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 190,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Tranch'Herbe",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Pousse Géante",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-231",
+    "name": "Noadkoko-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Coup Tropical",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts de plus.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-232",
+    "name": "Tortank-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Eau de plus, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Aquazooka",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Eau de plus, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-233",
+    "name": "Staross-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Hydro-Éclaboussure",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Staryu",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-234",
+    "name": "Ectoplasma-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Tir Effrayant",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Maléfice des Ombres",
+        "effect": "Tant que ce Pokémon est sur le Poste Actif, votre adversaire ne peut pas jouer de carte Supporter de sa main."
+      }
+    ],
+    "evolvesFrom": "Haunter",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-235",
+    "name": "Mackogneur-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Ultimapoing",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Machoke",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-236",
+    "name": "Ossatueur-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Lunala",
+    "attacks": [
+      {
+        "name": "Osmerang",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 80 dégâts pour chaque côté face.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-237",
+    "name": "Grodoudou-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Gardiens Astraux",
+    "pack": "Solgaleo",
+    "attacks": [
+      {
+        "name": "Chanson Berçante",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a3-238",
+    "name": "Lunala-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion Lunaire",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Connexion Psy",
+        "effect": "Une fois pendant votre tour, vous pouvez déplacer toute l'Énergie Psy de l'un de vos Pokémon Psy de Banc vers votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Couronne dorée"
+  },
+  {
+    "id": "a3-239",
+    "name": "Solgaleo-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Gardiens Astraux",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Brèche Solaire",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Ascension Solaire",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur votre Banc, vous pouvez l'échanger avec votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Couronne dorée"
+  }
+]

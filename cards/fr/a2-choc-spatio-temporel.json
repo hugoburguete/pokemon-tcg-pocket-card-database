@@ -1,0 +1,5187 @@
+[
+  {
+    "id": "a2-001",
+    "name": "Mystherbe",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pâté",
+        "effect": "Soignez 10 dégâts de ce Pokémon.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-002",
+    "name": "Ortide",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tranch'Herbe",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Oddish",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-003",
+    "name": "Joliflor",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Enjambée de Feuillage",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Gloom",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-004",
+    "name": "Saquedeneu",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Fouet Lianes",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-005",
+    "name": "Bouldeneu",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Méga-Sangsue",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Tangela",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-006",
+    "name": "Yanma",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Battement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-007",
+    "name": "Yanmega-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Lame d'Air",
+        "effect": "Défaussez une Énergie au hasard de ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Yanma",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-008",
+    "name": "Rosélia",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dard",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-009",
+    "name": "Roserade",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fouet Empoisonné",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Roselia",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-010",
+    "name": "Tortipouss",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-011",
+    "name": "Boskara",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tranch'Herbe",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Turtwig",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-012",
+    "name": "Torterra",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Végé-Attaque",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Végé-Attaque.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Grotle",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-013",
+    "name": "Crikzik",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Piqûre",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-014",
+    "name": "Mélokrik",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Mélodie Envoûtante",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Kricketot",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-015",
+    "name": "Cheniti",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-016",
+    "name": "Cheniselle",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coupe Feuille",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-017",
+    "name": "Apitrini",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Appel à la Famille",
+        "effect": "Placez un Pokémon de base au hasard de votre deck sur votre Banc.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-018",
+    "name": "Apireine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Transpercement",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Combee",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-019",
+    "name": "Vortente",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Martinet",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 50 dégâts de plus.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-020",
+    "name": "Phyllali",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Cyclone Arboré",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-021",
+    "name": "Motisma Tonte",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coupure d'Énergie",
+        "effect": "Lancez une pièce. Si c'est face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-022",
+    "name": "Shaymin",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Flop",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Jardin Fleuri Parfumé",
+        "effect": "Une fois pendant votre tour, vous pouvez soigner 10 dégâts de chacun de vos Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-023",
+    "name": "Magmar",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Attisement",
+        "effect": "Prenez une Énergie Feu de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-024",
+    "name": "Maganon",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Enfer Explosif",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Magmar",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-025",
+    "name": "Limagma",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flamboiement",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-026",
+    "name": "Volcaropod",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flammes Calcinantes",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlé.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Slugma",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-027",
+    "name": "Ouisticram",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-028",
+    "name": "Chimpenfeu",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Poing de Feu",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Chimchar",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-029",
+    "name": "Simiabraz-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Boutefeu",
+        "effect": "Défaussez toutes les Énergies Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Monferno",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-030",
+    "name": "Motisma Chaleur",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Souffle Ardent",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-031",
+    "name": "Marcacrin",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-032",
+    "name": "Cochignon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Enfoncement",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Isograisse",
+        "effect": "Ce Pokémon subit −20 dégâts provenant des attaques des Pokémon Feu ou Eau."
+      }
+    ],
+    "evolvesFrom": "Swinub",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-033",
+    "name": "Mammochon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Aplatissement Givré",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Isograisse",
+        "effect": "Ce Pokémon subit −30 dégâts provenant des attaques des Pokémon Feu ou Eau."
+      }
+    ],
+    "evolvesFrom": "Piloswine",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-034",
+    "name": "Regice",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Impact Glacial",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Corps de Cristal",
+        "effect": "Évitez tous les effets d'attaques utilisées par les Pokémon de votre adversaire infligés à ce Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-035",
+    "name": "Tiplouf",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tit'Sieste",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-036",
+    "name": "Prinplouf",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Piplup",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-037",
+    "name": "Pingoléon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Aqua-Jet",
+        "effect": "Cette attaque inflige aussi 30 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Prinplup",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-038",
+    "name": "Mustébouée",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-039",
+    "name": "Mustéflott",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vis Express",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Buizel",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-040",
+    "name": "Sancoki",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Coud'Boue",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-041",
+    "name": "Tritosor",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Ocroupi",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Shellos",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-042",
+    "name": "Écayon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Nage Élégante",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-043",
+    "name": "Luminéon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cascade",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Finneon",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-044",
+    "name": "Blizzi",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Éclats Glace",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon Combat, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-045",
+    "name": "Blizzaroi",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Souffle Glacé",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Snover",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-046",
+    "name": "Givrali",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Laser Glace",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-047",
+    "name": "Motisma Lavage",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-048",
+    "name": "Motisma Froid",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "effect": "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-049",
+    "name": "Palkia-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": "Défaussez 3 Énergies Eau de ce Pokémon. Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau"
+        ]
+      },
+      {
+        "name": "Tempête Dimensionnelle",
+        "effect": "Défaussez 3 Énergies Eau de ce Pokémon. Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-050",
+    "name": "Manaphy",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Cadeau de l'Océan",
+        "effect": "Choisissez 2 de vos Pokémon de Banc. Pour chacun de ces Pokémon, prenez une Énergie Eau de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-051",
+    "name": "Magnéti",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-052",
+    "name": "Magnéton",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boule Éclair",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Magnemite",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-053",
+    "name": "Magnézone",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grondement de Tonnerre",
+        "effect": "Défaussez une Énergie Électrique de ce Pokémon.",
+        "cost": [
+          "Électrique",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Magneton",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-054",
+    "name": "Voltorbe",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grosse Explosion",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-055",
+    "name": "Électrode",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Qui Roule",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Voltorb",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-056",
+    "name": "Élektek",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Chargeur",
+        "effect": "Prenez une Énergie Électrique de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-057",
+    "name": "Élekable",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Voltage Amplifié",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Électrique de plus, cette attaque inflige 80 dégâts supplémentaires.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Electabuzz",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-058",
+    "name": "Lixy",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Cachette",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-059",
+    "name": "Luxio",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Griffes Électriques",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Shinx",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-060",
+    "name": "Luxray",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Flèche Survoltée",
+        "effect": "Défaussez toutes les Énergies Électrique de ce Pokémon. Cette attaque inflige 120 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Luxio",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-061",
+    "name": "Pachirisu-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Gadget'incelles",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-062",
+    "name": "Motisma",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Laser d'Assaut",
+        "effect": "Si un Outil Pokémon est attaché au Pokémon Actif de votre adversaire, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-063",
+    "name": "Togepi",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Face",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-064",
+    "name": "Togetic",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vent Féérique",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Togepi",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-065",
+    "name": "Togekiss",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boost Atomisant",
+        "effect": "Pendant votre prochain tour, l'attaque Boost Atomisant de ce Pokémon inflige +60 dégâts.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Togetic",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-066",
+    "name": "Feuforêve",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Murmure",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-067",
+    "name": "Magirêve-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Voyage Magique",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-068",
+    "name": "Tarsal",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Téléport",
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-069",
+    "name": "Kirlia",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Gifle",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Ralts",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-070",
+    "name": "Skelénox",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Feu Follet",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-071",
+    "name": "Téraclope",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Coup de Poing Psy",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Duskull",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-072",
+    "name": "Noctunoir",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Dévoreur d'Âmes",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Crevasse d'Ombre",
+        "effect": "Autant de fois que vous le voulez pendant votre tour, vous pouvez choisir un de vos Pokémon qui a subi des dégâts et déplacer ses dégâts vers ce Pokémon."
+      }
+    ],
+    "evolvesFrom": "Dusclops",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-073",
+    "name": "Baudrive",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Développement",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-074",
+    "name": "Grodrive",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Coup de Ballon",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Drifloon",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-075",
+    "name": "Créhelf",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boost Cérébral",
+        "effect": "Prenez une Énergie Psy de votre zone Énergie et attachez-la à Créfollet ou à Créfadet.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-076",
+    "name": "Créfollet",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion Suprême",
+        "effect": "Vous ne pouvez utiliser cette attaque que si vous avez Créhelf et Créfadet sur votre Banc. Défaussez toutes les Énergies de ce Pokémon.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-077",
+    "name": "Créfadet",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flèche Psy",
+        "effect": "Cette attaque inflige 20 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-078",
+    "name": "Giratina",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tir Effrayant",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Lévitation",
+        "effect": "Si de l'Énergie est attachée à ce Pokémon, il n'a aucun Coût de Retraite."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-079",
+    "name": "Cresselia",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Soin au Clair de Lune",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-080",
+    "name": "Rhinocorne",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Koud'Korne",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-081",
+    "name": "Rhinoféros",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Réduire en Poussière",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Rhyhorn",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-082",
+    "name": "Rhinastoc",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Frappe Montagneuse",
+        "effect": "Défaussez les 3premières cartes du dessus de votre deck.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Rhydon",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-083",
+    "name": "Scorplane",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Transpercement",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-084",
+    "name": "Scorvol",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Acrobatie",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Gligar",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-085",
+    "name": "Kapoera",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Attaque Tournante",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-086",
+    "name": "Tarinor",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-087",
+    "name": "Regirock",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rocher Écrasant",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "Exosquelette",
+        "effect": "Ce Pokémon subit −20 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-088",
+    "name": "Kranidos",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Skull Fossil",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-089",
+    "name": "Charkos",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Fracass'Tête",
+        "effect": "Si le Pokémon de l'adversaire est mis K.O. par les dégâts de cette attaque, ce Pokémon s'inflige aussi 50 dégâts.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Cranidos",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-090",
+    "name": "Cheniselle",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Écras'Terre",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-091",
+    "name": "Riolu",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Taquet",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-092",
+    "name": "Lucario",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Coup Sous-Marin",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [
+      {
+        "name": "Entraînement au Combat",
+        "effect": "Les attaques de vos Pokémon Combat infligent +20 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Riolu",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-093",
+    "name": "Hippopotas",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Roulé-Boulé",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-094",
+    "name": "Hippodocus",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Pression Tellurique",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Hippopotas",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-095",
+    "name": "Gallame-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Lame Énergisée",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-096",
+    "name": "Cornèbre",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Picpic",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-097",
+    "name": "Corboss",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Plongeon Contrôlé",
+        "effect": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Murkrow",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-098",
+    "name": "Farfuret",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Double Écorchure",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-099",
+    "name": "Dimoret-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Griffes Griffantes",
+        "effect": "Si le Pokémon Actif de votre adversaire a subi des dégâts, cette attaque inflige 40 dégâts de plus.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-100",
+    "name": "Medhyèna",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-101",
+    "name": "Grahyèna",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croc Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Poochyena",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-102",
+    "name": "Moufouette",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-103",
+    "name": "Moufflair",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Gaz Toxik",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Stunky",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-104",
+    "name": "Spiritomb",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Désastre Tourbillonnant",
+        "effect": "Cette attaque inflige 10 dégâts à chacun des Pokémon de votre adversaire.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-105",
+    "name": "Rapion",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Transpercement",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-106",
+    "name": "Drascore",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Croix",
+        "effect": "Lancez 4 pièces. Cette attaque inflige 40 dégâts pour chaque côté face. Si vous obtenez au moins 2 côtés face, le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Skorupi",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-107",
+    "name": "Cradopaud",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Raclée Collective",
+        "effect": "Lancez une pièce pour chacun de vos Pokémon en jeu. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-108",
+    "name": "Coatox",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Raclée Collective",
+        "effect": "Lancez une pièce pour chacun de vos Pokémon en jeu. Cette attaque inflige 40 dégâts multipliés par le nombre de côtés face.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Croagunk",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-109",
+    "name": "Darkrai",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Trou Noir",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-110",
+    "name": "Darkrai-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Prisme Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "Aura Cauchemardesque",
+        "effect": "Chaque fois que vous attachez une Énergie Obscurité de votre zone Énergie à ce Pokémon, infligez 20 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-111",
+    "name": "Airmure",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bras Métalliques",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-112",
+    "name": "Registeel",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Griffe Acier",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-113",
+    "name": "Dinoclier",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Armor Fossil",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-114",
+    "name": "Bastiodon",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Frappe de Tête",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Protection Frontale",
+        "effect": "Si des dégâts sont infligés à ce Pokémon par des attaques, lancez une pièce. Si c'est face, ce Pokémon subit −100 dégâts provenant de cette attaque."
+      }
+    ],
+    "evolvesFrom": "Shieldon",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-115",
+    "name": "Cheniselle",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tête de Fer",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 30 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-116",
+    "name": "Archéomire",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-117",
+    "name": "Archéodong",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Pression de Garde",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Bronzor",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-118",
+    "name": "Tarinorme",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Nez",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 50 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-119",
+    "name": "Dialga-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Turbo Métallique",
+        "effect": "Prenez 2 Énergies Métal de votre zone Énergie et attachez-les à l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      },
+      {
+        "name": "Gros Impact",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-120",
+    "name": "Heatran",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Charge d'Acier",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-121",
+    "name": "Griknot",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Ronge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-122",
+    "name": "Carmache",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Gible",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-123",
+    "name": "Carchacrok",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Draco-Griffe",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [
+      {
+        "name": "Taillade Sauvage",
+        "effect": "Vous devez défausser une carte de votre main pour pouvoir utiliser ce talent. Une fois pendant votre tour, vous pouvez piocher une carte."
+      }
+    ],
+    "evolvesFrom": "Gabite",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-124",
+    "name": "Excelangue",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Gros Coup de Langue",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-125",
+    "name": "Coudlangue-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Langue Frénétique",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2-126",
+    "name": "Évoli",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vive-Attaque",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-127",
+    "name": "Porygon",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Rayon",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-128",
+    "name": "Porygon2",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Affûtage",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Porygon",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-129",
+    "name": "Porygon-Z",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Rayon Bogué",
+        "effect": "Le type de la prochaine Énergie générée pour votre adversaire est remplacé au hasard par l'un des suivants : , , , , , , , ou .",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Porygon2",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-130",
+    "name": "Capumain",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Queue",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-131",
+    "name": "Capidextre",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup Double",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 40 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Aipom",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-132",
+    "name": "Étourmi",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Picore",
+        "effect": "Avant d'infliger des dégâts, défaussez tous les Outils Pokémon du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-133",
+    "name": "Étourvol",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Cru-Ailes",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Starly",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-134",
+    "name": "Étouraptor",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Serre",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Staravia",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-135",
+    "name": "Keunotor",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Croc Fatal",
+        "effect": "Réduisez de moitié les PV restants du Pokémon Actif de votre adversaire en arrondissant au nombre inférieur.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-136",
+    "name": "Castorno",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Roulé-Boulé",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-137",
+    "name": "Laporeille",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Trempette",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-138",
+    "name": "Lockpin",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Pied Sauté",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-139",
+    "name": "Chaglam",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Pose",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-140",
+    "name": "Chaffreux",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Interruption",
+        "effect": "Votre adversaire dévoile sa main. Choisissez une carte que vous y trouvez et mélangez-la avec le deck de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Glameow",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-141",
+    "name": "Pijako",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Furie",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-142",
+    "name": "Motisma Hélice",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Orage Virevoltant",
+        "effect": "Lancez une pièce. Si c'est face, ajoutez à la main de votre adversaire son Pokémon Actif.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-143",
+    "name": "Regigigas",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Marteau Rageur",
+        "effect": "Cette attaque inflige des dégâts supplémentaires égaux à ceux que ce Pokémon a déjà subis.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2-144",
+    "name": "Fossile Crâne",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-145",
+    "name": "Fossile Armure",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2-146",
+    "name": "Communication Pokémon",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-147",
+    "name": "Cape Géante",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-148",
+    "name": "Casque Brut",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-149",
+    "name": "Baie Prine",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-150",
+    "name": "Hélio",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-151",
+    "name": "Sbire de la Team Galaxie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-152",
+    "name": "Cynthia",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-153",
+    "name": "Tanguy",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-154",
+    "name": "Aurore",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-155",
+    "name": "Mars",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2-156",
+    "name": "Bouldeneu",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Méga-Sangsue",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Tangela",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-157",
+    "name": "Apitrini",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Appel à la Famille",
+        "effect": "Placez un Pokémon de base au hasard de votre deck sur votre Banc.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-158",
+    "name": "Vortente",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Martinet",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 50 dégâts de plus.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-159",
+    "name": "Shaymin",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Flop",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Jardin Fleuri Parfumé",
+        "effect": "Une fois pendant votre tour, vous pouvez soigner 10 dégâts de chacun de vos Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-160",
+    "name": "Mammochon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Aplatissement Givré",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Isograisse",
+        "effect": "Ce Pokémon subit −30 dégâts provenant des attaques des Pokémon Feu ou Eau."
+      }
+    ],
+    "evolvesFrom": "Piloswine",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-161",
+    "name": "Tritosor",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Ocroupi",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Shellos",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-162",
+    "name": "Manaphy",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Cadeau de l'Océan",
+        "effect": "Choisissez 2 de vos Pokémon de Banc. Pour chacun de ces Pokémon, prenez une Énergie Eau de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-163",
+    "name": "Lixy",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Cachette",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-164",
+    "name": "Motisma",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Laser d'Assaut",
+        "effect": "Si un Outil Pokémon est attaché au Pokémon Actif de votre adversaire, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-165",
+    "name": "Baudrive",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Développement",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-166",
+    "name": "Créfollet",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Explosion Suprême",
+        "effect": "Vous ne pouvez utiliser cette attaque que si vous avez Créhelf et Créfadet sur votre Banc. Défaussez toutes les Énergies de ce Pokémon.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-167",
+    "name": "Giratina",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tir Effrayant",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Lévitation",
+        "effect": "Si de l'Énergie est attachée à ce Pokémon, il n'a aucun Coût de Retraite."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-168",
+    "name": "Cresselia",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Soin au Clair de Lune",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-169",
+    "name": "Rhinastoc",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Frappe Montagneuse",
+        "effect": "Défaussez les 3premières cartes du dessus de votre deck.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Rhydon",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-170",
+    "name": "Lucario",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Coup Sous-Marin",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [
+      {
+        "name": "Entraînement au Combat",
+        "effect": "Les attaques de vos Pokémon Combat infligent +20 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Riolu",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-171",
+    "name": "Hippopotas",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Roulé-Boulé",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-172",
+    "name": "Spiritomb",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Désastre Tourbillonnant",
+        "effect": "Cette attaque inflige 10 dégâts à chacun des Pokémon de votre adversaire.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-173",
+    "name": "Cradopaud",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Raclée Collective",
+        "effect": "Lancez une pièce pour chacun de vos Pokémon en jeu. Cette attaque inflige 20 dégâts multipliés par le nombre de côtés face.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-174",
+    "name": "Heatran",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Charge d'Acier",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-175",
+    "name": "Carchacrok",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Draco-Griffe",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": null,
+    "abilities": [
+      {
+        "name": "Taillade Sauvage",
+        "effect": "Vous devez défausser une carte de votre main pour pouvoir utiliser ce talent. Une fois pendant votre tour, vous pouvez piocher une carte."
+      }
+    ],
+    "evolvesFrom": "Gabite",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-176",
+    "name": "Étouraptor",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Serre",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Staravia",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-177",
+    "name": "Keunotor",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Croc Fatal",
+        "effect": "Réduisez de moitié les PV restants du Pokémon Actif de votre adversaire en arrondissant au nombre inférieur.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-178",
+    "name": "Chaglam",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Pose",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-179",
+    "name": "Regigigas",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Marteau Rageur",
+        "effect": "Cette attaque inflige des dégâts supplémentaires égaux à ceux que ce Pokémon a déjà subis.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2-180",
+    "name": "Yanmega-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Lame d'Air",
+        "effect": "Défaussez une Énergie au hasard de ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Yanma",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-181",
+    "name": "Simiabraz-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Boutefeu",
+        "effect": "Défaussez toutes les Énergies Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Monferno",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-182",
+    "name": "Palkia-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": "Défaussez 3 Énergies Eau de ce Pokémon. Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau"
+        ]
+      },
+      {
+        "name": "Tempête Dimensionnelle",
+        "effect": "Défaussez 3 Énergies Eau de ce Pokémon. Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-183",
+    "name": "Pachirisu-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Gadget'incelles",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-184",
+    "name": "Magirêve-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Voyage Magique",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-185",
+    "name": "Gallame-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Lame Énergisée",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-186",
+    "name": "Dimoret-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Griffes Griffantes",
+        "effect": "Si le Pokémon Actif de votre adversaire a subi des dégâts, cette attaque inflige 40 dégâts de plus.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-187",
+    "name": "Darkrai-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Prisme Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "Aura Cauchemardesque",
+        "effect": "Chaque fois que vous attachez une Énergie Obscurité de votre zone Énergie à ce Pokémon, infligez 20 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-188",
+    "name": "Dialga-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Turbo Métallique",
+        "effect": "Prenez 2 Énergies Métal de votre zone Énergie et attachez-les à l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      },
+      {
+        "name": "Gros Impact",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-189",
+    "name": "Coudlangue-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Langue Frénétique",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-190",
+    "name": "Hélio",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-191",
+    "name": "Sbire de la Team Galaxie",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-192",
+    "name": "Cynthia",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-193",
+    "name": "Tanguy",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-194",
+    "name": "Aurore",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-195",
+    "name": "Mars",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-196",
+    "name": "Yanmega-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Lame d'Air",
+        "effect": "Défaussez une Énergie au hasard de ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Yanma",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-197",
+    "name": "Simiabraz-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Boutefeu",
+        "effect": "Défaussez toutes les Énergies Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Monferno",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-198",
+    "name": "Pachirisu-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Gadget'incelles",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-199",
+    "name": "Magirêve-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Voyage Magique",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-200",
+    "name": "Gallame-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Lame Énergisée",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-201",
+    "name": "Dimoret-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Griffes Griffantes",
+        "effect": "Si le Pokémon Actif de votre adversaire a subi des dégâts, cette attaque inflige 40 dégâts de plus.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-202",
+    "name": "Darkrai-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Prisme Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "Aura Cauchemardesque",
+        "effect": "Chaque fois que vous attachez une Énergie Obscurité de votre zone Énergie à ce Pokémon, infligez 20 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-203",
+    "name": "Coudlangue-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Langue Frénétique",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2-204",
+    "name": "Palkia-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Palkia",
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": "Défaussez 3 Énergies Eau de ce Pokémon. Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau"
+        ]
+      },
+      {
+        "name": "Tempête Dimensionnelle",
+        "effect": "Défaussez 3 Énergies Eau de ce Pokémon. Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a2-205",
+    "name": "Dialga-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": "Dialga",
+    "attacks": [
+      {
+        "name": "Turbo Métallique",
+        "effect": "Prenez 2 Énergies Métal de votre zone Énergie et attachez-les à l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      },
+      {
+        "name": "Gros Impact",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a2-206",
+    "name": "Palkia-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": "Défaussez 3 Énergies Eau de ce Pokémon. Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau"
+        ]
+      },
+      {
+        "name": "Tempête Dimensionnelle",
+        "effect": "Défaussez 3 Énergies Eau de ce Pokémon. Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  },
+  {
+    "id": "a2-207",
+    "name": "Dialga-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Choc Spatio-Temporel",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Turbo Métallique",
+        "effect": "Prenez 2 Énergies Métal de votre zone Énergie et attachez-les à l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      },
+      {
+        "name": "Gros Impact",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]

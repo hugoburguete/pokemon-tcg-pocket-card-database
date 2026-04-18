@@ -1,0 +1,2139 @@
+[
+  {
+    "id": "a1a-001",
+    "name": "Noeunoeuf",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Jaillissement",
+        "effect": "Prenez une Énergie Plante de votre zone Énergie et attachez-la à ce Pokémon.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-002",
+    "name": "Noadkoko",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-003",
+    "name": "Celebi-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Éclosion Éclatante",
+        "effect": "Lancez une pièce pour chaque Énergie attachée à ce Pokémon. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a1a-004",
+    "name": "Vipélierre",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Fouet Lianes",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-005",
+    "name": "Lianaja",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Fouet Lianes",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Snivy",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-006",
+    "name": "Majaspic",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 110,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Lance-Soleil",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Jungle Dominante",
+        "effect": "Chaque Énergie Plante attachée à vos Pokémon Plante fournit 2 Énergies Plante. Cet effet est non cumulable."
+      }
+    ],
+    "evolvesFrom": "Servine",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a1a-007",
+    "name": "Spododo",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-008",
+    "name": "Lampignon",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Spores Scintillantes",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Morelull",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-009",
+    "name": "Sinistrail",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Fouet d'Énergie",
+        "effect": "Si ce Pokémon a au moins 3 Énergies Plante de plus, cette attaque inflige 70 dégâts supplémentaires.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-010",
+    "name": "Ponyta",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Écrasement",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-011",
+    "name": "Galopa",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Botte Secrète",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Ponyta",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-012",
+    "name": "Magmar",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Déflagration",
+        "effect": "Défaussez 2 Énergies Feu de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-013",
+    "name": "Pyronille",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Fournaise",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-014",
+    "name": "Pyrax",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Cendres volcaniques",
+        "effect": "Défaussez 2 Énergie Feu de ce Pokémon. Cette attaque inflige 80 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Larvesta",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a1a-015",
+    "name": "Tritox",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Choc Venin",
+        "effect": "Si le Pokémon Actif de votre adversaire est Empoisonné, cette attaque inflige 40 dégâts de plus.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-016",
+    "name": "Malamandre",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Griffes Empoisonnées",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Salandit",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-017",
+    "name": "Magicarpe",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Bondir",
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-018",
+    "name": "Léviator-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 180,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Tourbillon Tempétueux",
+        "effect": "Défaussez une Énergie au hasard parmi celles attachées à tous les Pokémon en jeu (les vôtres et ceux de votre adversaire).",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Magikarp",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a1a-019",
+    "name": "Aquali",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Surlavage",
+        "effect": "Autant de fois que vous le voulez pendant votre tour, vous pouvez déplacer une Énergie Eau de l'un de vos Pokémon Eau de Banc vers votre Pokémon Eau Actif."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a1a-020",
+    "name": "Écayon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-021",
+    "name": "Luminéon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Aqua-Paquebot",
+        "effect": "Cette attaque inflige 50 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Finneon",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-022",
+    "name": "Khélocrok",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-023",
+    "name": "Torgamord",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Mâchouille",
+        "effect": "Lancez une pièce. Si c'est face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Chewtle",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-024",
+    "name": "Nigosier",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Plongée",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-025",
+    "name": "Pikachu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Cercle Électrik",
+        "effect": "Cette attaque inflige 10 dégâts pour chaque Pokémon Électrique sur votre Banc.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-026",
+    "name": "Raichu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Electrochok",
+        "effect": "Cette attaque inflige aussi 20 dégâts à chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a1a-027",
+    "name": "Élektek",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Lance-Éclair",
+        "effect": "Cette attaque inflige 40 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-028",
+    "name": "Statitik",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Piqûre",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-029",
+    "name": "Mygavolt",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Toile Élek",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Joltik",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-030",
+    "name": "Dedenne",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Éclair",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-031",
+    "name": "Mew",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Observation Psychique",
+        "effect": "Votre adversaire dévoile sa main.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a1a-032",
+    "name": "Mew-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Psy"
+        ]
+      },
+      {
+        "name": "Piratage de Génome",
+        "effect": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a1a-033",
+    "name": "Cryptéro",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Pique-Pioche",
+        "effect": "Piochez une carte.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-034",
+    "name": "Lewsor",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-035",
+    "name": "Neitram",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Emprise Mentale",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Elgyem",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-036",
+    "name": "Flabébé",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Regard Hypnotique",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-037",
+    "name": "Floette",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Feuille Sangsue",
+        "effect": "Soignez 10 dégâts de ce Pokémon.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Flabébé",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-038",
+    "name": "Florges",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 120,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Éclobrillance",
+        "effect": "Soignez 20 dégâts de chacun de vos Pokémon.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Floette",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-039",
+    "name": "Sucroquin",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Vent Féérique",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-040",
+    "name": "Cupcanaille",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Coup Magique",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Swirlix",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-041",
+    "name": "Férosinge",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Poing Concentré",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-042",
+    "name": "Colossinge",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Mankey",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-043",
+    "name": "Racaillou",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Poing Léger",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-044",
+    "name": "Gravalanch",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Allonger",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Geodude",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-045",
+    "name": "Grolem",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Pression de Garde",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 30 dégâts provenant des attaques.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Graveler",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a1a-046",
+    "name": "Ptéra-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Écras'Terre",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Ordre Primitif",
+        "effect": "Votre adversaire ne peut pas jouer de Pokémon de sa main sur le Pokémon Actif pour le faire évoluer."
+      }
+    ],
+    "evolvesFrom": "Old Amber",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a1a-047",
+    "name": "Marshadow",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Vendetta",
+        "effect": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a1a-048",
+    "name": "Dolman",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Ultimawashi",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-049",
+    "name": "Smogo",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Division",
+        "effect": "Placez une carte Smogo au hasard de votre deck sur votre Banc.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-050",
+    "name": "Smogogo",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Brouillard",
+        "effect": "Pendant le prochain tour de votre adversaire, si le Pokémon Défenseur essaie d'utiliser une attaque, votre adversaire lance une pièce. Si c'est pile, l'attaque n'est pas lancée.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Koffing",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-051",
+    "name": "Chacripan",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-052",
+    "name": "Léopardus",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Purrloin",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-053",
+    "name": "Venipatte",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-054",
+    "name": "Scobolide",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Dard-Venin",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Venipede",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-055",
+    "name": "Brutapode",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Choc Venin",
+        "effect": "Si le Pokémon Actif de votre adversaire est Empoisonné, cette attaque inflige 50 dégâts de plus.",
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Whirlipede",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-056",
+    "name": "Drakkarmin",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Draco-Griffe",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [
+      {
+        "name": "Peau Dure",
+        "effect": "Si ce Pokémon est sur le Poste Actif et subit les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 20 dégâts."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-057",
+    "name": "Roucool",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Battement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-058",
+    "name": "Roucoups",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Cru-Ailes",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Pidgey",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-059",
+    "name": "Roucarnage-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Cyclone Ravageur",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Pidgeotto",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a1a-060",
+    "name": "Tauros",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Charge Combative",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon-ex, cette attaque inflige 80 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a1a-061",
+    "name": "Évoli",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Pas Continus",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-062",
+    "name": "Pijako",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Copie",
+        "effect": "Mélangez votre main avec votre deck. Piochez une carte pour chaque carte dans la main de votre adversaire.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-063",
+    "name": "Vieil Ambre",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a1a-064",
+    "name": "Flûte Pokémon",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-065",
+    "name": "Dalle Fabuleuse",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-066",
+    "name": "Jeune Explorateur",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-067",
+    "name": "Blue",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-068",
+    "name": "Leaf",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a1a-069",
+    "name": "Noadkoko",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Exeggcute",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a1a-070",
+    "name": "Majaspic",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 110,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Lance-Soleil",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Jungle Dominante",
+        "effect": "Chaque Énergie Plante attachée à vos Pokémon Plante fournit 2 Énergies Plante. Cet effet est non cumulable."
+      }
+    ],
+    "evolvesFrom": "Servine",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a1a-071",
+    "name": "Tritox",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Choc Venin",
+        "effect": "Si le Pokémon Actif de votre adversaire est Empoisonné, cette attaque inflige 40 dégâts de plus.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a1a-072",
+    "name": "Aquali",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Surlavage",
+        "effect": "Autant de fois que vous le voulez pendant votre tour, vous pouvez déplacer une Énergie Eau de l'un de vos Pokémon Eau de Banc vers votre Pokémon Eau Actif."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a1a-073",
+    "name": "Dedenne",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Éclair",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a1a-074",
+    "name": "Marshadow",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Vendetta",
+        "effect": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a1a-075",
+    "name": "Celebi-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Éclosion Éclatante",
+        "effect": "Lancez une pièce pour chaque Énergie attachée à ce Pokémon. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-076",
+    "name": "Léviator-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 180,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Tourbillon Tempétueux",
+        "effect": "Défaussez une Énergie au hasard parmi celles attachées à tous les Pokémon en jeu (les vôtres et ceux de votre adversaire).",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Magikarp",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-077",
+    "name": "Mew-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Psy"
+        ]
+      },
+      {
+        "name": "Piratage de Génome",
+        "effect": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-078",
+    "name": "Ptéra-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Écras'Terre",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Ordre Primitif",
+        "effect": "Votre adversaire ne peut pas jouer de Pokémon de sa main sur le Pokémon Actif pour le faire évoluer."
+      }
+    ],
+    "evolvesFrom": "Old Amber",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-079",
+    "name": "Roucarnage-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Cyclone Ravageur",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Pidgeotto",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-080",
+    "name": "Jeune Explorateur",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-081",
+    "name": "Blue",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-082",
+    "name": "Leaf",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-083",
+    "name": "Mew-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Psy"
+        ]
+      },
+      {
+        "name": "Piratage de Génome",
+        "effect": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-084",
+    "name": "Ptéra-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Écras'Terre",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Ordre Primitif",
+        "effect": "Votre adversaire ne peut pas jouer de Pokémon de sa main sur le Pokémon Actif pour le faire évoluer."
+      }
+    ],
+    "evolvesFrom": "Old Amber",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a1a-085",
+    "name": "Celebi-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Éclosion Éclatante",
+        "effect": "Lancez une pièce pour chaque Énergie attachée à ce Pokémon. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a1a-086",
+    "name": "Mew-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "L'Île Fabuleuse",
+    "pack": "Mew",
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Psy"
+        ]
+      },
+      {
+        "name": "Piratage de Génome",
+        "effect": "Choisissez l'une des attaques du Pokémon Actif de votre adversaire et utilisez-la en tant que cette attaque.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]

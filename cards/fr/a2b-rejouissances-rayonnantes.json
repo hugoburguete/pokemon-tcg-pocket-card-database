@@ -1,0 +1,2775 @@
+[
+  {
+    "id": "a2b-001",
+    "name": "Aspicot",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Multiplication",
+        "effect": "Placez une carte Aspicot au hasard de votre deck sur votre Banc.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-002",
+    "name": "Coconfort",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sécrétion",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Weedle",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-003",
+    "name": "Dardargnan-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lance Destructrice",
+        "effect": "Défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Kakuna",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-004",
+    "name": "Scarabrute",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge Guillotine",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-005",
+    "name": "Poussacha",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Appel au secours",
+        "effect": "Ajoutez au hasard un Pokémon Plante de votre deck à votre main.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-006",
+    "name": "Matourgeon",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Sprigatito",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-007",
+    "name": "Miascarade",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Griffes Combatives",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon-ex, cette attaque inflige 70 dégâts supplémentaires.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-008",
+    "name": "Salamèche",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fournaise",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-009",
+    "name": "Reptincel",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fournaise",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmander",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-010",
+    "name": "Dracaufeu-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attisement",
+        "effect": "Prenez 3 Énergies Feu de votre zone Énergie et attachez-les à ce Pokémon.",
+        "cost": [
+          "Feu"
+        ]
+      },
+      {
+        "name": "Artillerie Vapeur",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-011",
+    "name": "Magmar",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flamboiement",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-012",
+    "name": "Maganon",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bombe Fumante",
+        "effect": "Pendant le prochain tour de votre adversaire, si le Pokémon Défenseur essaie d'utiliser une attaque, votre adversaire lance une pièce. Si c'est pile, l'attaque n'est pas lancée.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Magmar",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-013",
+    "name": "Tauros de Paldea",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge Flamboyante",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Feu",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-014",
+    "name": "Tentacool",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pluie Éclaboussante",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-015",
+    "name": "Tentacruel",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Tentacool",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-016",
+    "name": "Mustébouée",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-017",
+    "name": "Mustéflott",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flèche d'Eau",
+        "effect": "Cette attaque inflige 30 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Buizel",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-018",
+    "name": "Taupikeau",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surgir",
+        "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 30 dégâts.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-019",
+    "name": "Triopikeau-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tape en Trois Temps",
+        "effect": "Un des Pokémon de votre adversaire est choisi au hasard 3 fois. Pour chaque fois où un Pokémon est choisi, il subit 50 dégâts.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wiglett",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-020",
+    "name": "Oyacata",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cyclone Océanique",
+        "effect": "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-021",
+    "name": "Nigirigon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pluie Éclaboussante",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Ordre de Repli",
+        "effect": "Votre Oyacata Actif n'a aucun Coût de Retraite."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-022",
+    "name": "Pikachu-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tonnerre",
+        "effect": "Défaussez toutes les Énergies de ce Pokémon.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-023",
+    "name": "Voltorbe",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boule Éclair",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-024",
+    "name": "Électrode",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Trébuchante",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Voltorb",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-025",
+    "name": "Pachirisu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Plasma",
+        "effect": "Prenez une Énergie Électrique de votre zone Énergie et attachez-la à l'un de vos Pokémon Électrique de Banc.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-026",
+    "name": "Pohm",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-027",
+    "name": "Pohmotte",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Pawmi",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-028",
+    "name": "Pohmarmotte",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poing Électrique",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Contre-Attaque",
+        "effect": "Si ce Pokémon est sur le Poste Actif et subit les dégâts d'une attaque d'un Pokémon de votre adversaire, le Pokémon Attaquant subit 20 dégâts."
+      }
+    ],
+    "evolvesFrom": "Pawmo",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-029",
+    "name": "Abra",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-030",
+    "name": "Kadabra",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Abra",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-031",
+    "name": "Alakazam",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Suppression Psychique",
+        "effect": "Cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire auxquels au moins une Énergie est attachée.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Kadabra",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-032",
+    "name": "M. Mime",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jonglerie",
+        "effect": "Lancez 4 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-033",
+    "name": "Baudrive",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-034",
+    "name": "Grodrive",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tornade",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Drifloon",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-035",
+    "name": "Giratina-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Impact du Chaos",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Cri Espace-Brisé",
+        "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie Psy de votre zone Énergie et l'attacher à ce Pokémon. Si vous utilisez ce talent, votre tour se termine."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-036",
+    "name": "Mordudor",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coffrouflage",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-037",
+    "name": "Machoc",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Balayage",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-038",
+    "name": "Machopeur",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Martelage",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Machop",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-039",
+    "name": "Mackogneur",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Étau Puissant",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Combat de plus, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Machoke",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-040",
+    "name": "Kicklee",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud’Pied",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-041",
+    "name": "Tygnon",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poing Magnum",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-042",
+    "name": "Riolu",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-043",
+    "name": "Lucario-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aurasphère",
+        "effect": "Cette attaque inflige aussi 30 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Riolu",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-044",
+    "name": "Flamenroule",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Pied",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-045",
+    "name": "Abo",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-046",
+    "name": "Arbok",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croc-Poison",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Ekans",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-047",
+    "name": "Axoloto de Paldea",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Direct Toxik",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-048",
+    "name": "Terraiste de Paldea-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Choc Venin",
+        "effect": "Si le Pokémon Actif de votre adversaire est Empoisonné, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-049",
+    "name": "Spiritomb",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Onde Folie",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-050",
+    "name": "Gribouraigne",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ronge",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-051",
+    "name": "Tag-Tag",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Couche de Poison",
+        "effect": "Une fois pendant votre tour, vous pouvez lancer une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+      }
+    ],
+    "evolvesFrom": "Shroodle",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-052",
+    "name": "Forgerette",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poing Tire-Bouchon",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-053",
+    "name": "Forgella",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Marteau Persévérant",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Tinkatink",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-054",
+    "name": "Forgelina-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écrasement Formidable",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 80 dégâts de plus.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Tinkatuff",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-055",
+    "name": "Vrombi",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-056",
+    "name": "Vrombotor",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Drift Tournoyant",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Varoom",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-057",
+    "name": "Gromago",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surf Scintillant",
+        "effect": "Lancez une pièce pour chaque Énergie Métal attachée à ce Pokémon. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Gimmighoul",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-058",
+    "name": "Rattata",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-059",
+    "name": "Rattatac",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Rattata",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-060",
+    "name": "Rondoudou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roulade",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-061",
+    "name": "Grodoudou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gifle Douce",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Chant Réconfortant",
+        "effect": "Une fois pendant votre tour, vous pouvez soigner 20 dégâts de votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2b-062",
+    "name": "Excelangue",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roulade",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-063",
+    "name": "Coudlangue",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roulade",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-064",
+    "name": "Keunotor",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-065",
+    "name": "Castorno-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pression Insouciante",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2b-066",
+    "name": "Laporeille",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Face",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-067",
+    "name": "Lockpin",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tir Sauteur",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2b-068",
+    "name": "Motorizard",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hyperaccélération",
+        "effect": "Pendant votre prochain tour, l'attaque Hyperaccélération de ce Pokémon inflige +20 dégâts.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-069",
+    "name": "Mashynn",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-070",
+    "name": "Dame du Centre Pokémon",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-071",
+    "name": "Red",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-072",
+    "name": "Sbire de la Team Rocket",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2b-073",
+    "name": "Miascarade",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Griffes Combatives",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon-ex, cette attaque inflige 70 dégâts supplémentaires.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2b-074",
+    "name": "Mustébouée",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2b-075",
+    "name": "Nigirigon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pluie Éclaboussante",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Ordre de Repli",
+        "effect": "Votre Oyacata Actif n'a aucun Coût de Retraite."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2b-076",
+    "name": "Tag-Tag",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Couche de Poison",
+        "effect": "Une fois pendant votre tour, vous pouvez lancer une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Empoisonné."
+      }
+    ],
+    "evolvesFrom": "Shroodle",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2b-077",
+    "name": "Gromago",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surf Scintillant",
+        "effect": "Lancez une pièce pour chaque Énergie Métal attachée à ce Pokémon. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Gimmighoul",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2b-078",
+    "name": "Grodoudou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gifle Douce",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Chant Réconfortant",
+        "effect": "Une fois pendant votre tour, vous pouvez soigner 20 dégâts de votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2b-079",
+    "name": "Dardargnan-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lance Destructrice",
+        "effect": "Défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Kakuna",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-080",
+    "name": "Dracaufeu-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attisement",
+        "effect": "Prenez 3 Énergies Feu de votre zone Énergie et attachez-les à ce Pokémon.",
+        "cost": [
+          "Feu"
+        ]
+      },
+      {
+        "name": "Artillerie Vapeur",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-081",
+    "name": "Triopikeau-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tape en Trois Temps",
+        "effect": "Un des Pokémon de votre adversaire est choisi au hasard 3 fois. Pour chaque fois où un Pokémon est choisi, il subit 50 dégâts.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wiglett",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-082",
+    "name": "Pikachu-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tonnerre",
+        "effect": "Défaussez toutes les Énergies de ce Pokémon.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-083",
+    "name": "Giratina-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Impact du Chaos",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Cri Espace-Brisé",
+        "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie Psy de votre zone Énergie et l'attacher à ce Pokémon. Si vous utilisez ce talent, votre tour se termine."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-084",
+    "name": "Lucario-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aurasphère",
+        "effect": "Cette attaque inflige aussi 30 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Riolu",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-085",
+    "name": "Terraiste de Paldea-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Choc Venin",
+        "effect": "Si le Pokémon Actif de votre adversaire est Empoisonné, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-086",
+    "name": "Forgelina-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écrasement Formidable",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 80 dégâts de plus.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Tinkatuff",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-087",
+    "name": "Castorno-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pression Insouciante",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-088",
+    "name": "Mashynn",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-089",
+    "name": "Dame du Centre Pokémon",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-090",
+    "name": "Red",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-091",
+    "name": "Sbire de la Team Rocket",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-092",
+    "name": "Pikachu-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tonnerre",
+        "effect": "Défaussez toutes les Énergies de ce Pokémon.",
+        "cost": [
+          "Électrique",
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-093",
+    "name": "Terraiste de Paldea-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Choc Venin",
+        "effect": "Si le Pokémon Actif de votre adversaire est Empoisonné, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-094",
+    "name": "Forgelina-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écrasement Formidable",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 80 dégâts de plus.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Tinkatuff",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-095",
+    "name": "Castorno-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pression Insouciante",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Bidoof",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2b-096",
+    "name": "Giratina-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Impact du Chaos",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Cri Espace-Brisé",
+        "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie Psy de votre zone Énergie et l'attacher à ce Pokémon. Si vous utilisez ce talent, votre tour se termine."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a2b-097",
+    "name": "Aspicot",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Multiplication",
+        "effect": "Placez une carte Aspicot au hasard de votre deck sur votre Banc.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-098",
+    "name": "Coconfort",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sécrétion",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysé.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Weedle",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-099",
+    "name": "Salamèche",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fournaise",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-100",
+    "name": "Reptincel",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fournaise",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmander",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-101",
+    "name": "Taupikeau",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surgir",
+        "effect": "Un des Pokémon de votre adversaire est choisi au hasard. Il subit 30 dégâts.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-102",
+    "name": "Oyacata",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cyclone Océanique",
+        "effect": "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-103",
+    "name": "Pachirisu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Plasma",
+        "effect": "Prenez une Énergie Électrique de votre zone Énergie et attachez-la à l'un de vos Pokémon Électrique de Banc.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-104",
+    "name": "Riolu",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-105",
+    "name": "Vrombi",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-106",
+    "name": "Vrombotor",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Drift Tournoyant",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Varoom",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a2b-107",
+    "name": "Dardargnan-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lance Destructrice",
+        "effect": "Défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Kakuna",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a2b-108",
+    "name": "Dracaufeu-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attisement",
+        "effect": "Prenez 3 Énergies Feu de votre zone Énergie et attachez-les à ce Pokémon.",
+        "cost": [
+          "Feu"
+        ]
+      },
+      {
+        "name": "Artillerie Vapeur",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a2b-109",
+    "name": "Triopikeau-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tape en Trois Temps",
+        "effect": "Un des Pokémon de votre adversaire est choisi au hasard 3 fois. Pour chaque fois où un Pokémon est choisi, il subit 50 dégâts.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wiglett",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a2b-110",
+    "name": "Lucario-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aurasphère",
+        "effect": "Cette attaque inflige aussi 30 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Riolu",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a2b-111",
+    "name": "Poké Ball",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Réjouissances Rayonnantes",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]

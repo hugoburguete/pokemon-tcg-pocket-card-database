@@ -1,0 +1,2461 @@
+[
+  {
+    "id": "a2a-001",
+    "name": "Scarhino",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Lancer Unicorne",
+        "effect": "Lancez 2 pièces. Si toutes sont côté face, cette attaque inflige 70 dégâts de plus.",
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-002",
+    "name": "Cheniti",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-003",
+    "name": "Papilord",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Tornade",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-004",
+    "name": "Apitrini",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Piqûre",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-005",
+    "name": "Apireine",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Attaque Imprudente",
+        "effect": "Ce Pokémon s'inflige aussi 30 dégâts.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Combee",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-006",
+    "name": "Ceribou",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Feuillage",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-007",
+    "name": "Ceriflor",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Soucigraine",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Cherubi",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-008",
+    "name": "Ceriflor",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Vampigraine",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Cherubi",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-009",
+    "name": "Vortente",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Fouet Lianes",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Lien Puissance",
+        "effect": "Si vous avez Arceus ou Arceus-ex en jeu, les attaques utilisées par ce Pokémon infligent +30 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-010",
+    "name": "Phyllali-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Lance-Soleil",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Souffle Forestier",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez prendre une Énergie Plante de votre zone Énergie et l'attacher à l'un de vos Pokémon Plante."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2a-011",
+    "name": "Malosse",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Flamboiement",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-012",
+    "name": "Démolosse",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Coinçage",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Houndour",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-013",
+    "name": "Heatran",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Rage Furibonde",
+        "effect": "Si ce Pokémon a subi des dégâts, cette attaque inflige 40 dégâts de plus.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Eau",
+    "abilities": [
+      {
+        "name": "Lien Vitesse",
+        "effect": "Si vous avez Arceus ou Arceus-ex en jeu, ce Pokémon n'a aucun Coût de Retraite."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-014",
+    "name": "Marill",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-015",
+    "name": "Azumarill",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Cascade",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Marill",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-016",
+    "name": "Barloche",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Coud'Boue",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-017",
+    "name": "Barbicha",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Mania",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 60 dégâts de plus. Si c'est pile, ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Barboach",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-018",
+    "name": "Stalgamin",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Concrétion Glacée",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-019",
+    "name": "Momartik",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Blizzard",
+        "effect": "Cette attaque inflige aussi 10 dégâts à chaque Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Snorunt",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-020",
+    "name": "Blizzi",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Poing Tire-Bouchon",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-021",
+    "name": "Blizzaroi",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Ultimapoing",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Lien Vigueur",
+        "effect": "Si vous avez Arceus ou Arceus-ex en jeu, les attaques utilisées par ce Pokémon coûtent une Énergie Incolore de moins."
+      }
+    ],
+    "evolvesFrom": "Snover",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-022",
+    "name": "Givrali-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Vent Glaçant",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Terrain Enneigé",
+        "effect": "Pendant le Contrôle Pokémon, si ce Pokémon est sur le Poste Actif, infligez 10 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2a-023",
+    "name": "Palkia Forme Originelle",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Zone d'Impact",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-024",
+    "name": "Phione",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Vibraqua",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-025",
+    "name": "Pikachu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Étincelle",
+        "effect": "Cette attaque inflige aussi 10 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-026",
+    "name": "Raichu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Étincelle",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Lien Protection",
+        "effect": "Si vous avez Arceus ou Arceus-ex en jeu, ce Pokémon subit −30 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-027",
+    "name": "Dynavolt",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Coup de Pied Ravageur",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-028",
+    "name": "Élecsprint",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Flash",
+        "effect": "Pendant le prochain tour de votre adversaire, si le Pokémon Défenseur essaie d'utiliser une attaque, votre adversaire lance une pièce. Si c'est pile, l'attaque n'est pas lancée.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Electrike",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-029",
+    "name": "Mélofée",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Claque",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-030",
+    "name": "Mélodelfe",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Pouvoir Lunaire",
+        "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent − 30 dégâts.",
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Clefairy",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-031",
+    "name": "Fantominus",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Étonnement",
+        "effect": "Lancez une pièce. Si c'est face, votre adversaire montre une carte de sa main au hasard, puis la mélange avec son deck.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-032",
+    "name": "Spectrum",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Murmure",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Gastly",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-033",
+    "name": "Ectoplasma",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Hypnoblast",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-034",
+    "name": "Zarbi",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Puissance Cachée",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "CHECK",
+        "effect": "Une fois pendant votre tour, vous pouvez choisir l'un des joueurs. Regardez une carte du dessus du deck de ce joueur."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-035",
+    "name": "Motisma",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Attaque Brusque",
+        "effect": "Cette attaque inflige 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Lien Vitesse",
+        "effect": "Si vous avez Arceus ou Arceus-ex en jeu, ce Pokémon n'a aucun Coût de Retraite."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-036",
+    "name": "Simularbre",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Coup d’Boule Combatif",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon-ex, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-037",
+    "name": "Phanpy",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Roulade",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-038",
+    "name": "Donphan",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Tournis Roulis",
+        "effect": "Pendant votre prochain tour, l'attaque Tournis Roulis de ce Pokémon inflige +60 dégâts.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Phanpy",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-039",
+    "name": "Embrylex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Poing Tire-Bouchon",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-040",
+    "name": "Ymphect",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Attaque Rapide",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Larvitar",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-041",
+    "name": "Tyranocif",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Écras'Terre",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "Lien Puissance",
+        "effect": "Si vous avez Arceus ou Arceus-ex en jeu, les attaques utilisées par ce Pokémon infligent +30 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Pupitar",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-042",
+    "name": "Tarinor",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-043",
+    "name": "Méditikka",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Koud’Pied",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-044",
+    "name": "Charmina",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Coup d’Ergots",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Meditite",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-045",
+    "name": "Griknot",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-046",
+    "name": "Carmache",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Faucille Acérée",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Gible",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-047",
+    "name": "Carchacrok-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Attaque Linéaire",
+        "effect": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Combat"
+        ]
+      },
+      {
+        "name": "Draco-Griffe",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Gabite",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2a-048",
+    "name": "Nosferapti",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-049",
+    "name": "Nosferalto",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Zubat",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-050",
+    "name": "Nostenfer",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 110,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Croc Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 0,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Lien Malice",
+        "effect": "Une fois pendant votre tour, si vous avez Arceus ou Arceus-ex en jeu, vous pouvez infliger 30 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Golbat",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-051",
+    "name": "Cradopaud",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Bataille",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-052",
+    "name": "Coatox",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Toxik",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné. Infligez 20 dégâts à ce Pokémon au lieu de la quantité habituelle pour cet État Spécial.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Croagunk",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-053",
+    "name": "Magnéti",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-054",
+    "name": "Magnéton",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Attaque Qui Roule",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Magnemite",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-055",
+    "name": "Magnézone",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Puissant Rayon",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Lien Protection",
+        "effect": "Si vous avez Arceus ou Arceus-ex en jeu, ce Pokémon subit −30 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": "Magneton",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-056",
+    "name": "Mysdibule",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Broyeur d'Acier",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon Métal, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-057",
+    "name": "Tarinorme-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Unité Défensive",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2a-058",
+    "name": "Archéomire",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-059",
+    "name": "Archéodong",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 20 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Bronzor",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-060",
+    "name": "Dialga Forme Originelle",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Compression Temporelle",
+        "effect": "Lancez une pièce. Si c'est pile, ce Pokémon ne peut pas attaquer pendant votre prochain tour.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-061",
+    "name": "Giratina",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Plongeon Critique",
+        "effect": "Défaussez 2 Énergies au hasard de ce Pokémon.",
+        "cost": [
+          "Plante",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-062",
+    "name": "Évoli",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Queue Battoir",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-063",
+    "name": "Ronflex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Effondrement",
+        "effect": "Ce Pokémon est maintenant Endormi.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 4,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-064",
+    "name": "Hoothoot",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Picpic",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-065",
+    "name": "Noarfang",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Aile Silencieuse",
+        "effect": "Votre adversaire dévoile sa main.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Hoothoot",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-066",
+    "name": "Étourmi",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Glissement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-067",
+    "name": "Étourvol",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Cru-Ailes",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Starly",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a2a-068",
+    "name": "Étouraptor",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Rapace",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Staravia",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-069",
+    "name": "Shaymin",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Battement",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Soutien Céleste",
+        "effect": "Tant que ce Pokémon est sur votre Banc, le Coût de Retraite de votre Pokémon de base Actif est diminué de 1."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-070",
+    "name": "Arceus",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Violente Déflagration",
+        "effect": "Défaussez une Énergie au hasard de ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a2a-071",
+    "name": "Arceus-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Pouvoir Ultime",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chacun de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Éclat de Légende",
+        "effect": "Ce Pokémon ne peut être affecté par aucun État Spécial."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a2a-072",
+    "name": "Nacchara",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-073",
+    "name": "Doyenne de Célestia",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-074",
+    "name": "René",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-075",
+    "name": "Adamantin",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a2a-076",
+    "name": "Démolosse",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Coinçage",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Houndour",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2a-077",
+    "name": "Marill",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2a-078",
+    "name": "Zarbi",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Puissance Cachée",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "CHECK",
+        "effect": "Une fois pendant votre tour, vous pouvez choisir l'un des joueurs. Regardez une carte du dessus du deck de ce joueur."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2a-079",
+    "name": "Simularbre",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Coup d’Boule Combatif",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon-ex, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2a-080",
+    "name": "Magnéti",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2a-081",
+    "name": "Shaymin",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Battement",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Soutien Céleste",
+        "effect": "Tant que ce Pokémon est sur votre Banc, le Coût de Retraite de votre Pokémon de base Actif est diminué de 1."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a2a-082",
+    "name": "Phyllali-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Lance-Soleil",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Souffle Forestier",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez prendre une Énergie Plante de votre zone Énergie et l'attacher à l'un de vos Pokémon Plante."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-083",
+    "name": "Givrali-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Vent Glaçant",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Terrain Enneigé",
+        "effect": "Pendant le Contrôle Pokémon, si ce Pokémon est sur le Poste Actif, infligez 10 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-084",
+    "name": "Carchacrok-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Attaque Linéaire",
+        "effect": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Combat"
+        ]
+      },
+      {
+        "name": "Draco-Griffe",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Gabite",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-085",
+    "name": "Tarinorme-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Unité Défensive",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-086",
+    "name": "Arceus-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Pouvoir Ultime",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chacun de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Éclat de Légende",
+        "effect": "Ce Pokémon ne peut être affecté par aucun État Spécial."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-087",
+    "name": "Nacchara",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-088",
+    "name": "Doyenne de Célestia",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-089",
+    "name": "René",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-090",
+    "name": "Adamantin",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-091",
+    "name": "Phyllali-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Lance-Soleil",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Souffle Forestier",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez prendre une Énergie Plante de votre zone Énergie et l'attacher à l'un de vos Pokémon Plante."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-092",
+    "name": "Givrali-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Vent Glaçant",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Terrain Enneigé",
+        "effect": "Pendant le Contrôle Pokémon, si ce Pokémon est sur le Poste Actif, infligez 10 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-093",
+    "name": "Carchacrok-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Attaque Linéaire",
+        "effect": "Cette attaque inflige 50 dégâts à l'un des Pokémon de votre adversaire.",
+        "cost": [
+          "Combat"
+        ]
+      },
+      {
+        "name": "Draco-Griffe",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 1,
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Gabite",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-094",
+    "name": "Tarinorme-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Unité Défensive",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 3,
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a2a-095",
+    "name": "Arceus-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Pouvoir Ultime",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chacun de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Éclat de Légende",
+        "effect": "Ce Pokémon ne peut être affecté par aucun État Spécial."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a2a-096",
+    "name": "Arceus-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Lumière Triomphale",
+    "pack": "Arceus",
+    "attacks": [
+      {
+        "name": "Pouvoir Ultime",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chacun de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": 2,
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Éclat de Légende",
+        "effect": "Ce Pokémon ne peut être affecté par aucun État Spécial."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]

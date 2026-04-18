@@ -44,3 +44,21 @@ export declare const en: {
   promoA: Card[];
   promoB: Card[];
 };
+
+export declare const fr: {
+  puissanceGenetique: Card[];
+  ileFabuleuse: Card[];
+  chocSpatioTemporel: Card[];
+  lumiereTriomphale: Card[];
+  rejouissancesRayonnantes: Card[];
+  gardiensAstraux: Card[];
+  criseInterdimensionnelle: Card[];
+  clairiereDevoli: Card[];
+  sagesseEntreCielEtMer: Card[];
+  sourceSecrete: Card[];
+  boosterDeLuxeEx: Card[];
+  megaAscension: Card[];
+  embrasementEcarlate: Card[];
+  paradeOnirique: Card[];
+  megaRayonnement: Card[];
+};

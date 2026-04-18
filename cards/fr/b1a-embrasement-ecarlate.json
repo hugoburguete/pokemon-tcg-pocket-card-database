@@ -1,0 +1,2597 @@
+[
+  {
+    "id": "b1a-001",
+    "name": "Bulbizarre",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-002",
+    "name": "Herbizarre",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Synthèse",
+        "effect": "Prenez 2 Énergies Plante de votre zone Énergie et attachez-les à ce Pokémon.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Bulbasaur",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-003",
+    "name": "Florizarre",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fouet Empoisonné",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-004",
+    "name": "Méga-Florizarre-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 240,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Floraison Fatale",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés et Endormi.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-005",
+    "name": "Mimigal",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dard",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-006",
+    "name": "Migalos",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Transpercement",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Territoire Piégé",
+        "effect": "Le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté de 1."
+      }
+    ],
+    "evolvesFrom": "Spinarak",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-007",
+    "name": "Tournegrin",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Canon Graine",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-008",
+    "name": "Héliatronc",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rayon de Croissance",
+        "effect": "Si Extrait de Croissance est dans votre pile de défausse, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Sunkern",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-009",
+    "name": "Cheniti",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Suspension",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-010",
+    "name": "Papilord",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vent Glacial",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-011",
+    "name": "Salamèche",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-012",
+    "name": "Reptincel",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crachage de Feu Régulier",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [
+      {
+        "name": "Préchauffe",
+        "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez prendre une Énergie Feu de votre zone Énergie et l'attacher à votre Pokémon Feu Actif."
+      }
+    ],
+    "evolvesFrom": "Charmander",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-013",
+    "name": "Dracaufeu",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Torrent d'Enfer",
+        "effect": "Ce Pokémon s'inflige aussi 30 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-014",
+    "name": "Méga-Dracaufeu Y-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Plongeon Écarlate",
+        "effect": "Ce Pokémon s'inflige aussi 50 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-015",
+    "name": "Malosse",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hurlement",
+        "effect": "Échangez le Pokémon Actif de votre adversaire avec l'un de ses Pokémon de Banc. (Votre adversaire choisit le nouveau Pokémon Actif.)",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-016",
+    "name": "Démolosse",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croc Aiguisé",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Houndour",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-017",
+    "name": "Carapuce",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Queue Battoir",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-018",
+    "name": "Carabaffe",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cascade",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "Carapace",
+        "effect": "Tant que ce Pokémon est sur votre Banc, évitez tous les dégâts infligés à ce Pokémon par les attaques."
+      }
+    ],
+    "evolvesFrom": "Squirtle",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-019",
+    "name": "Tortank",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Vague",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Eau de plus, cette attaque inflige également 50 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-020",
+    "name": "Méga-Tortank-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Bombardement",
+        "effect": "Si ce Pokémon a au moins 3 Énergies Eau de plus, cette attaque inflige également 50 dégâts à deux des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-021",
+    "name": "Bargantua",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Frappe Surprise",
+        "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-022",
+    "name": "Flingouste",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-023",
+    "name": "Gamblast",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aqua-Douche",
+        "effect": "Cette attaque inflige 20 dégâts à chacun des Pokémon de votre adversaire.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Clauncher",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-024",
+    "name": "Magnéti",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boule Élek",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-025",
+    "name": "Magnéton",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Étincelle",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Magnemite",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-026",
+    "name": "Magnézone",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Miroi-Tir",
+        "effect": "Pendant le prochain tour de votre adversaire, si le Pokémon Défenseur essaie d'utiliser une attaque, votre adversaire lance une pièce. Si c'est pile, l'attaque n'est pas lancée.",
+        "cost": [
+          "Électrique",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Magneton",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-027",
+    "name": "Emolga",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Éclair Fulgurant",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-028",
+    "name": "Galvaran",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Éclair",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysés.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-029",
+    "name": "Iguolta",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tonnerre",
+        "effect": "Défaussez toutes les Énergies de ce Pokémon.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Helioptile",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-030",
+    "name": "Feuforêve",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mentor",
+        "effect": "Ajoutez une carte Supporter au hasard de votre deck à votre main.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-031",
+    "name": "Magirêve",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Force Ajoutée",
+        "effect": "Déplacez toute l'Énergie Psy de ce Pokémon vers un de vos Pokémon de Banc.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-032",
+    "name": "Nucléos",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roulade",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-033",
+    "name": "Méios",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Solosis",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-034",
+    "name": "Symbios",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup de Poing Psy",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Amplification Infinie",
+        "effect": "Chaque Énergie Psy attachée à ce Pokémon lui ajoute 30 PV."
+      }
+    ],
+    "evolvesFrom": "Duosion",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-035",
+    "name": "Fluvetin",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Doux Parfum",
+        "effect": "Soignez 20 dégâts d'un de vos Pokémon.",
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-036",
+    "name": "Cocotine",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion Parfumée",
+        "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur coûtent une Énergie Dragon de plus.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Spritzee",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-037",
+    "name": "Xerneas",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Géo-Éclat",
+        "effect": "Les dégâts infligés par cette attaque sont réduits du montant des dégâts déjà subis par ce Pokémon.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-038",
+    "name": "Onix",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tunnel",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-039",
+    "name": "Makuhita",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Force",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-040",
+    "name": "Hariyama",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grande Claque Titanesque",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Makuhita",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-041",
+    "name": "Tarinor",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Botte Secrète",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-042",
+    "name": "Méga-Lockpin-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 190,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pieds Vifs",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 90 dégâts pour chaque côté face. Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-043",
+    "name": "Kungfouine",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup Tranchant",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-044",
+    "name": "Shaofouine",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Balayette",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Mienfoo",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-045",
+    "name": "Tadmorv",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bombe Beurk",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-046",
+    "name": "Grotadmorv",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Détricanon",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Grimer",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-047",
+    "name": "Chacripan",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croche-Pied",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-048",
+    "name": "Léopardus",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vol à l'Arraché",
+        "effect": "Votre adversaire montre une carte de sa main au hasard, puis la mélange avec son deck. Mélangez ce Pokémon avec votre deck.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Purrloin",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-049",
+    "name": "Miamiasme",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gluant",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-050",
+    "name": "Miasmax",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bombe Acide",
+        "effect": "Lancez une pièce. Si c'est face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Trubbish",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-051",
+    "name": "Steelix",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Défense Métallique",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon n'a pas de Faiblesse.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-052",
+    "name": "Méga-Steelix-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 220,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roulade Diamantine",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques et n'a pas de Faiblesse.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-053",
+    "name": "Tarinorme",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Turbo Métallique",
+        "effect": "Prenez 2 Énergies Métal de votre zone Énergie et attachez-les à l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-054",
+    "name": "Genesect",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion Métallique",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie Métal attachée à ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-055",
+    "name": "Métamorph",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Copitage",
+        "effect": "Choisissez une des attaques d'un de vos Pokémon de Banc, à l'exception des Pokémon-ex, et utilisez-la en tant que cette attaque. Si ce Pokémon n'a pas l'Énergie nécessaire pour utiliser cette attaque, cette attaque ne fait rien.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-056",
+    "name": "Porygon",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Raidissement",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-057",
+    "name": "Porygon2",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Rapide",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Porygon",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-058",
+    "name": "Porygon-Z",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cyberpiratage",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque carte Dresseur dans le deck de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Porygon2",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-059",
+    "name": "Étourmi",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Appel à la Famille",
+        "effect": "Placez une carte Étourmi au hasard de votre deck sur votre Banc.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-060",
+    "name": "Étourvol",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vive-Attaque",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Starly",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-061",
+    "name": "Étouraptor",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tornad'Aile",
+        "effect": "Lancez 4 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Staravia",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-062",
+    "name": "Laporeille",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Pied",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b1a-063",
+    "name": "Lockpin",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Pied",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 50 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-064",
+    "name": "Frison",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vendetta",
+        "effect": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-065",
+    "name": "Couafarel",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Toison Épaisse",
+        "effect": "Ce Pokémon subit − 20 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-066",
+    "name": "Sac de Lem",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-067",
+    "name": "Extrait de Croissance",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-068",
+    "name": "Lem",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-069",
+    "name": "Serena",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b1a-070",
+    "name": "Migalos",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Transpercement",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Territoire Piégé",
+        "effect": "Le Coût de Retraite du Pokémon Actif de votre adversaire est augmenté de 1."
+      }
+    ],
+    "evolvesFrom": "Spinarak",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b1a-071",
+    "name": "Héliatronc",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rayon de Croissance",
+        "effect": "Si Extrait de Croissance est dans votre pile de défausse, cette attaque inflige 30 dégâts supplémentaires.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Sunkern",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b1a-072",
+    "name": "Symbios",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup de Poing Psy",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Amplification Infinie",
+        "effect": "Chaque Énergie Psy attachée à ce Pokémon lui ajoute 30 PV."
+      }
+    ],
+    "evolvesFrom": "Duosion",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b1a-073",
+    "name": "Xerneas",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Géo-Éclat",
+        "effect": "Les dégâts infligés par cette attaque sont réduits du montant des dégâts déjà subis par ce Pokémon.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b1a-074",
+    "name": "Miamiasme",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gluant",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b1a-075",
+    "name": "Laporeille",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Pied",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b1a-076",
+    "name": "Méga-Florizarre-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 240,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Floraison Fatale",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés et Endormi.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-077",
+    "name": "Méga-Dracaufeu Y-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Plongeon Écarlate",
+        "effect": "Ce Pokémon s'inflige aussi 50 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-078",
+    "name": "Méga-Tortank-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Bombardement",
+        "effect": "Si ce Pokémon a au moins 3 Énergies Eau de plus, cette attaque inflige également 50 dégâts à deux des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-079",
+    "name": "Méga-Lockpin-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 190,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pieds Vifs",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 90 dégâts pour chaque côté face. Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-080",
+    "name": "Méga-Steelix-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 220,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roulade Diamantine",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques et n'a pas de Faiblesse.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-081",
+    "name": "Lem",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-082",
+    "name": "Serena",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-083",
+    "name": "Méga-Florizarre-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 240,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Floraison Fatale",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés et Endormi.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-084",
+    "name": "Méga-Tortank-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Bombardement",
+        "effect": "Si ce Pokémon a au moins 3 Énergies Eau de plus, cette attaque inflige également 50 dégâts à deux des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-085",
+    "name": "Méga-Lockpin-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 190,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pieds Vifs",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 90 dégâts pour chaque côté face. Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-086",
+    "name": "Méga-Steelix-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 220,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roulade Diamantine",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques et n'a pas de Faiblesse.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b1a-087",
+    "name": "Méga-Dracaufeu Y-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Plongeon Écarlate",
+        "effect": "Ce Pokémon s'inflige aussi 50 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Immersive"
+  },
+  {
+    "id": "b1a-088",
+    "name": "Mystherbe",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poudre Toxik",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-089",
+    "name": "Ortide",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Enjambée de Feuillage",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Oddish",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-090",
+    "name": "Rafflesia",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Senteur Apaisante",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Gloom",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-091",
+    "name": "Dracaufeu",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Torrent d'Enfer",
+        "effect": "Ce Pokémon s'inflige aussi 30 dégâts.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-092",
+    "name": "Kokiyas",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-093",
+    "name": "Crustabri",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pression de Garde",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Shellder",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-094",
+    "name": "Sabelette",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jet Sableux",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-095",
+    "name": "Sablaireau",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coupe",
+        "effect": null,
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Sandshrew",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-096",
+    "name": "Type:0",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Poing Éclair",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-097",
+    "name": "Silvallié",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Copains Courageux",
+        "effect": "Si vous avez joué une carte Supporter de votre main pendant ce tour, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Type: Null",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b1a-098",
+    "name": "Mouscoto-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Breakbeat.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Breakbeat",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas utiliser Breakbeat.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b1a-099",
+    "name": "Lunala-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion Lunaire",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "Connexion Psy",
+        "effect": "Une fois pendant votre tour, vous pouvez déplacer toute l'Énergie Psy de l'un de vos Pokémon Psy de Banc vers votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b1a-100",
+    "name": "Engloutyran-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grindcore",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Pour chaque côté face, défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      },
+      {
+        "name": "Trou Tyrannique",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b1a-101",
+    "name": "Solgaleo-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Brèche Solaire",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Ascension Solaire",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur votre Banc, vous pouvez l'échanger avec votre Pokémon Actif."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b1a-102",
+    "name": "Exagide",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lame Tranchante",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Métal Maudit",
+        "effect": "Les attaques de vos Pokémon Psy et Métal infligent + 30 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Doublade",
+    "rarity": "Couronne dorée"
+  },
+  {
+    "id": "b1a-103",
+    "name": "Extrait de Croissance",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Embrasement Écarlate",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]

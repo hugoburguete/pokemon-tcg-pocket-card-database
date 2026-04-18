@@ -1,0 +1,5967 @@
+[
+  {
+    "id": "a4-001",
+    "name": "Mystherbe",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Poudre Toxik",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-002",
+    "name": "Ortide",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Enjambée de Feuillage",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Oddish",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-003",
+    "name": "Joliflor",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Danse Fleurs",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 60 dégâts pour chaque côté face. Ce Pokémon est maintenant Confus.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Gloom",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-004",
+    "name": "Saquedeneu",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Poudre Dodo",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi.",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-005",
+    "name": "Bouldeneu",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Nœud Herbe",
+        "effect": "Cette attaque inflige 40 dégâts supplémentaires pour chaque Énergie dans le Coût de Retraite du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Tangela",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-006",
+    "name": "Insécateur",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-007",
+    "name": "Scarabrute",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Guillotine",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-008",
+    "name": "Germignon",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Tranch'Herbe",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-009",
+    "name": "Macronium",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Fouet Lianes",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Chikorita",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-010",
+    "name": "Méganium",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Éclobrillance",
+        "effect": "Soignez 20 dégâts de chacun de vos Pokémon.",
+        "cost": [
+          "Plante",
+          "Plante",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Bayleef",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-011",
+    "name": "Coxy",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Piqûre",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-012",
+    "name": "Coxyclaque",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Koud'Poing",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Ledyba",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-013",
+    "name": "Granivol",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-014",
+    "name": "Floravol",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Canon Graine",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Hoppip",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-015",
+    "name": "Cotovol",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Attaque Tournante",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Votre Pokémon Actif n'a aucun Coût de Retraite."
+      }
+    ],
+    "evolvesFrom": "Skiploom",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-016",
+    "name": "Tournegrin",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pâté",
+        "effect": "Soignez 10 dégâts de ce Pokémon.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-017",
+    "name": "Héliatronc",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lance-Soleil",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Sunkern",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-018",
+    "name": "Yanma",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Demi-Tour",
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-019",
+    "name": "Yanmega",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bourdon",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Yanma",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-020",
+    "name": "Pomdepik",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-021",
+    "name": "Caratroc-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Triple Gifle",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Ce Pokémon subit − 20 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-022",
+    "name": "Scarhino",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Allongement Simple",
+        "effect": "Si ce Pokémon n'a subi aucun dégât, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-023",
+    "name": "Ceribou",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Saupoudrage Sucré",
+        "effect": "Si un de vos Pokémon a utilisé PokemonAttackName_ID_441 lors de votre dernier tour, cette attaque inflige 20 dégâts supplémentaires.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, les attaques utilisées par ce Pokémon coûtent une Énergie Plante de moins."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-024",
+    "name": "Ceriflor",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Canon Graine",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Cherubi",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-025",
+    "name": "Goupix",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Charbon Mutant",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-026",
+    "name": "Feunard",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Souffle Brûlant",
+        "effect": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer.",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Vulpix",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-027",
+    "name": "Héricendre",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Flamboiement",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-028",
+    "name": "Feurisson",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Fournaise",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Cyndaquil",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-029",
+    "name": "Typhlosion",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Poing Magma",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, vous pouvez laisser le Pokémon Actif de votre adversaire Brûlés."
+      }
+    ],
+    "evolvesFrom": "Quilava",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-030",
+    "name": "Limagma",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Ruée",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-031",
+    "name": "Volcaropod",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Éruption de Flammes",
+        "effect": "Un autre Pokémon (un des vôtres ou un de ceux de votre adversaire) est choisi au hasard 3 fois. Chaque fois qu'un Pokémon est choisi, il subit 50 dégâts.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Slugma",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-032",
+    "name": "Magby",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Lancer qui Réchauffe",
+        "effect": "Prenez une Énergie Feu de votre zone Énergie et attachez-la à un de vos Pokémon de base de Banc.",
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-033",
+    "name": "Entei",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Flamboiement Intense",
+        "effect": "Lancez une pièce. Si c'est pile, défaussez au hasard 2 Énergies de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-034",
+    "name": "Ho-Oh-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Accélération du Phénix",
+        "effect": "Prenez une Énergie Feu, Eau et Électrique de votre zone Énergie et attachez-les à vos Pokémon de base de Banc comme il vous plaît.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-035",
+    "name": "Darumarond",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-036",
+    "name": "Darumacho",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion de Chaleur",
+        "effect": null,
+        "cost": [
+          "Feu",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Darumaka",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-037",
+    "name": "Aflamanoir",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rôtissoire",
+        "effect": "Si le Pokémon Actif de votre adversaire est Brûlés, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Feu",
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-038",
+    "name": "Ptitard",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-039",
+    "name": "Têtarte",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Poliwag",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-040",
+    "name": "Tarpaud",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Mégaphone",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Tant que ce Pokémon est sur votre Banc, les attaques de vos Pokémon évoluant de Têtarte infligent + 40 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Poliwhirl",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-041",
+    "name": "Hypotrempe",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Crochet",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-042",
+    "name": "Hypocéan",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Aileron-Rasoir",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Horsea",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-043",
+    "name": "Hyporoi-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Prison Tempétueuse",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Seadra",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-044",
+    "name": "Magicarpe",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Esquive Éclaboussante",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-045",
+    "name": "Léviator",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Folle Frappe",
+        "effect": "Vous pouvez défausser autant de vos Pokémon Eau de Banc que vous le voulez. Cette attaque inflige 40 dégâts supplémentaires pour chaque Pokémon de Banc défaussé de cette façon.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Magikarp",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-046",
+    "name": "Kaiminus",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-047",
+    "name": "Crocrodil",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Totodile",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-048",
+    "name": "Aligatueur",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Siphon Destructeur",
+        "effect": "Défaussez au hasard une Énergie du Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Croconaw",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-049",
+    "name": "Marill",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-050",
+    "name": "Azumarill",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Coup de Queue",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Ce Pokémon subit − 30 dégâts provenant des attaques des Pokémon Feu ou Eau."
+      }
+    ],
+    "evolvesFrom": "Marill",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-051",
+    "name": "Axoloto",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Pluie Éclaboussante",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-052",
+    "name": "Maraiste",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Surf",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Wooper",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-053",
+    "name": "Qwilfish",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Dard-Venin",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-054",
+    "name": "Corayon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Trouver un Ami",
+        "effect": "Ajoutez au hasard un Pokémon de votre deck à votre main.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-055",
+    "name": "Rémoraid",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-056",
+    "name": "Octillery",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Octazooka",
+        "effect": "Si le Pokémon Défenseur essaie d'utiliser une attaque, votre adversaire lance une pièce. Si c'est pile, l'attaque n'est pas lancée. Cet effet s'applique jusqu'à ce que le Pokémon Défenseur quitte le Poste Actif, et il ne se cumule pas.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Remoraid",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-057",
+    "name": "Cadoizo",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Glissé-Pioché",
+        "effect": "Piochez une carte.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-058",
+    "name": "Démanta",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Plongée",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-059",
+    "name": "Suicune",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Ruisseau Guérisseur",
+        "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent − 20 dégâts.",
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-060",
+    "name": "Écrapince",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Force Poigne",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-061",
+    "name": "Colhomard",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Pince-Masse",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez défausser au hasard une Énergie attachée au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Corphish",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-062",
+    "name": "Couaneton",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Pluie Éclaboussante",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-063",
+    "name": "Lakmécygne",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Cyclone de Plumes",
+        "effect": "Déplacez toute l'Énergie de ce Pokémon vers un de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Ducklett",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-064",
+    "name": "Loupio",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Boule Éclair",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-065",
+    "name": "Lanturn-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Signaux Aveuglants",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysés. Si c'est pile, le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Électrique",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Chinchou",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-066",
+    "name": "Pichu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Lancer qui Crépite",
+        "effect": "Prenez une Énergie Électrique de votre zone Énergie et attachez-la à un de vos Pokémon de base de Banc.",
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-067",
+    "name": "Wattouat",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Choc Statique",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-068",
+    "name": "Lainergie",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Coup de Pied Ravageur",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Mareep",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-069",
+    "name": "Pharamp",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Poing Éclair",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts de plus. Si c'est pile, ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Flaaffy",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-070",
+    "name": "Élekid",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Coup qui Pique",
+        "effect": "Cette attaque inflige 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-071",
+    "name": "Raikou",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Fatal-Foudre",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Électrique",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-072",
+    "name": "Emolga",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tonnerre Déchaîné",
+        "effect": "Cette attaque inflige aussi 10 dégâts à un de vos Pokémon de Banc.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-073",
+    "name": "Ramoloss",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Repos",
+        "effect": "Ce Pokémon est maintenant Endormi. Soignez 30 dégâts à ce Pokémon.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-074",
+    "name": "Roigada",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Psyko",
+        "effect": "Cette attaque inflige 30 dégâts de plus pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Slowpoke",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-075",
+    "name": "Lippouti",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Onde qui Affole",
+        "effect": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée au Pokémon Actif de votre adversaire.",
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-076",
+    "name": "Lippoutou",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poutou Grisant",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysés.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-077",
+    "name": "Mélo",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Appel qui Brille",
+        "effect": "Ajoutez au hasard un Pokémon de votre deck à votre main.",
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-078",
+    "name": "Togepi",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Charme",
+        "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent − 20 dégâts.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-079",
+    "name": "Togetic",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Plongée Rapide",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Togepi",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-080",
+    "name": "Togekiss",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Coup Magique",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Si des dégâts sont infligés à ce Pokémon par des attaques, lancez une pièce. Si c'est face, évitez ces dégâts."
+      }
+    ],
+    "evolvesFrom": "Togetic",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-081",
+    "name": "Natu",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Picpic",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-082",
+    "name": "Xatu",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Perte d'Énergie",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire a maintenant 10 PV restants.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Natu",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-083",
+    "name": "Mentali-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Super Psy",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez soigner 30 dégâts d'un de vos Pokémon."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-084",
+    "name": "Zarbi",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Puissance Cachée",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Ce talent s'active si vous avez une carte Zarbi en jeu avec un talent autre que GARDIEN. Tous vos Pokémon subissent − 10 dégâts provenant des attaques des Pokémon de votre adversaire."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-085",
+    "name": "Zarbi",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Puissance Cachée",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Ce talent s'active si vous avez une carte Zarbi en jeu avec un talent autre que Power. Les attaques de vos Pokémon infligent + 10 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-086",
+    "name": "Qulbutoké",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Puissante Réplique",
+        "effect": "Si ce Pokémon a subi les dégâts d'une attaque pendant le dernier tour de votre adversaire alors qu'il était sur le Poste Actif, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-087",
+    "name": "Girafarig",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Rafale Psy",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-088",
+    "name": "Snubbull",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-089",
+    "name": "Granbull",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tacle Brutal",
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Psy",
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": "Snubbull",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-090",
+    "name": "Munna",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-091",
+    "name": "Mushana",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Danse-Rêve",
+        "effect": "Les deux Pokémon Actifs sont maintenant Endormi.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Munna",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-092",
+    "name": "Onix",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-093",
+    "name": "Simularbre",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jet-Pierres",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-094",
+    "name": "Scorplane",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Glissement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-095",
+    "name": "Scorvol",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Croc Aiguisé",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Gligar",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-096",
+    "name": "Marcacrin",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Coud'Boue",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-097",
+    "name": "Cochignon",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Culbute Surprise",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Swinub",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-098",
+    "name": "Mammochon",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Séisme",
+        "effect": "Cette attaque inflige aussi 20 dégâts à chacun de vos Pokémon de Banc.",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Piloswine",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-099",
+    "name": "Phanpy",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Attaque Imprudente",
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-100",
+    "name": "Donphan-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Pression Gigatonne",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Combat de plus, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Phanpy",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-101",
+    "name": "Debugant",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Poing qui Tabasse",
+        "effect": null,
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-102",
+    "name": "Kapoera",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pirouette Perçante",
+        "effect": "Cette attaque inflige aussi 20 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-103",
+    "name": "Embrylex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Charge",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-104",
+    "name": "Ymphect",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Pression de Garde",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 30 dégâts provenant des attaques.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Larvitar",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-105",
+    "name": "Opermine",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Double Baffe",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 30 dégâts pour chaque côté face.",
+        "cost": [
+          "Combat",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-106",
+    "name": "Golgopathe",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Coupe Dynamique",
+        "effect": null,
+        "cost": [
+          "Combat",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Binacle",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-107",
+    "name": "Nosferapti",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Croc-Poison",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-108",
+    "name": "Nosferalto",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Croc-Poison",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Zubat",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-109",
+    "name": "Nostenfer-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Taillade Venimeuse",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Golbat",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-110",
+    "name": "Mimigal",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Transpercement",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-111",
+    "name": "Migalos",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Astreinte",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Spinarak",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-112",
+    "name": "Noctali-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Croc Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez envoyer un des Pokémon de Banc de votre adversaire ayant subi des dégâts sur le Poste Actif."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-113",
+    "name": "Cornèbre",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Étonnement",
+        "effect": "Lancez une pièce. Si c'est face, votre adversaire montre une carte de sa main au hasard, puis la mélange avec son deck.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-114",
+    "name": "Corboss",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Tranch'Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Murkrow",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-115",
+    "name": "Farfuret",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-116",
+    "name": "Dimoret",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Tranche",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-117",
+    "name": "Malosse",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-118",
+    "name": "Démolosse",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rafle Plongeante",
+        "effect": "Défaussez au hasard une carte de la main de votre adversaire.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Houndour",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-119",
+    "name": "Tyranocif",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Queue Destructrice",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, vous pouvez déplacer toute l'Énergie Obscurité de chacun de vos Pokémon vers ce Pokémon."
+      }
+    ],
+    "evolvesFrom": "Pupitar",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-120",
+    "name": "Absol",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Élan Bondissant",
+        "effect": "Cette attaque inflige 30 dégâts à un des Pokémon de Banc de votre adversaire.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-121",
+    "name": "Foretress",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Collision Carapace",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Pineco",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-122",
+    "name": "Steelix",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Gros Impact",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-123",
+    "name": "Cizayox",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Coup d'Bourrasque",
+        "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Scyther",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-124",
+    "name": "Airmure-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Ailes d'Acier",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-125",
+    "name": "Mysdibule",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-126",
+    "name": "Tic",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Force Poigne",
+        "effect": null,
+        "cost": [
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-127",
+    "name": "Clic",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Engrenage Tranchant",
+        "effect": null,
+        "cost": [
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Klink",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-128",
+    "name": "Cliticlic",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Tourne Rouage",
+        "effect": "Pendant votre prochain tour, l'attaque PokemonAttackName_ID_562 de ce Pokémon inflige + 70 dégâts.",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Klang",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-129",
+    "name": "Piafabec",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Glissement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-130",
+    "name": "Rapasdepic",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Picore Insectes",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon Plante, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Spearow",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-131",
+    "name": "Leveinard",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Compresse",
+        "effect": "Lancez une pièce. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts infligés à ce Pokémon par des attaques.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-132",
+    "name": "Leuphorie",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Coup d'Énergie",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie attachée à ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Chansey",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-133",
+    "name": "Kangourex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Coupe Transversale",
+        "effect": "Si le Pokémon Actif de votre adversaire est un Pokémon Évolutif, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-134",
+    "name": "Évoli",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Trouver un Ami",
+        "effect": "Ajoutez au hasard un Pokémon de votre deck à votre main.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-135",
+    "name": "Porygon",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Collision",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-136",
+    "name": "Porygon2",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Attaque Tournante",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Lorsque vous attachez une Énergie de votre zone Énergie à ce Pokémon, prenez au hasard une carte pouvant faire évoluer ce Pokémon dans votre deck, puis placez-la sur ce Pokémon pour le faire évoluer."
+      }
+    ],
+    "evolvesFrom": "Porygon",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-137",
+    "name": "Porygon-Z",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Rayon Ralentissant",
+        "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur coûtent une Énergie  de plus.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Porygon2",
+    "rarity": "Rare"
+  },
+  {
+    "id": "a4-138",
+    "name": "Fouinette",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-139",
+    "name": "Fouinar",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Éclate-Queue",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Sentret",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-140",
+    "name": "Hoothoot",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Cru-Ailes",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Ce Pokémon ne peut pas être Endormi."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-141",
+    "name": "Noarfang",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Vol",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien. Si c'est face, pendant le prochain tour de votre adversaire, évitez tous les dégâts et les effets d'attaques infligés à ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Hoothoot",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-142",
+    "name": "Capumain",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Imiter",
+        "effect": "Piochez jusqu'à ce que vous obteniez le même nombre de cartes dans votre main que votre adversaire.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-143",
+    "name": "Capidextre",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Queue",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Aipom",
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-144",
+    "name": "Insolourdo",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flash Surprise",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysés.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-145",
+    "name": "Teddiursa",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Tartine au Miel",
+        "effect": "Soignez 20 dégâts de ce Pokémon.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "a4-146",
+    "name": "Ursaring",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Balançoire",
+        "effect": "Lancez 2 pièces. Cette attaque inflige 20 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Teddiursa",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-147",
+    "name": "Cerfrousse",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Cornes Améliorées",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-148",
+    "name": "Queulorior",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Surcouche Épaisse",
+        "effect": "Une des Énergies attachée au Pokémon Actif de votre adversaire est choisie au hasard pour être remplacée par une Énergie choisie au hasard parmi les types suivants : , , , , , ,  et .",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-149",
+    "name": "Lugia-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Explosion Élémentaire",
+        "effect": "Défaussez une Énergie Feu, Eau et Électrique de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Eau",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "a4-150",
+    "name": "Frison",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule Sans Fin",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 70 dégâts pour chaque côté face.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-151",
+    "name": "Échange Élémentaire",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-152",
+    "name": "Carapuce à O",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-153",
+    "name": "Tablier d'Acier",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-154",
+    "name": "Pendentif des Ténèbres",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-155",
+    "name": "Foulard de Sauvetage",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-156",
+    "name": "Clément",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-157",
+    "name": "Célesta",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-158",
+    "name": "Silver",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-159",
+    "name": "Pêcheur",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-160",
+    "name": "Jasmine",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-161",
+    "name": "Montagnard",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "a4-162",
+    "name": "Germignon",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Tranch'Herbe",
+        "effect": null,
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-163",
+    "name": "Joliflor",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Danse Fleurs",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 60 dégâts pour chaque côté face. Ce Pokémon est maintenant Confus.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Gloom",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-164",
+    "name": "Scarhino",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Allongement Simple",
+        "effect": "Si ce Pokémon n'a subi aucun dégât, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Plante",
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-165",
+    "name": "Héricendre",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Flamboiement",
+        "effect": null,
+        "cost": [
+          "Feu"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-166",
+    "name": "Magby",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Lancer qui Réchauffe",
+        "effect": "Prenez une Énergie Feu de votre zone Énergie et attachez-la à un de vos Pokémon de base de Banc.",
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-167",
+    "name": "Kaiminus",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Grosse Vague",
+        "effect": null,
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-168",
+    "name": "Qwilfish",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Dard-Venin",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-169",
+    "name": "Octillery",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Octazooka",
+        "effect": "Si le Pokémon Défenseur essaie d'utiliser une attaque, votre adversaire lance une pièce. Si c'est pile, l'attaque n'est pas lancée. Cet effet s'applique jusqu'à ce que le Pokémon Défenseur quitte le Poste Actif, et il ne se cumule pas.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Remoraid",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-170",
+    "name": "Cadoizo",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Glissé-Pioché",
+        "effect": "Piochez une carte.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-171",
+    "name": "Pichu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Lancer qui Crépite",
+        "effect": "Prenez une Énergie Électrique de votre zone Énergie et attachez-la à un de vos Pokémon de base de Banc.",
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-172",
+    "name": "Pharamp",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Poing Éclair",
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 40 dégâts de plus. Si c'est pile, ce Pokémon s'inflige aussi 20 dégâts.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Flaaffy",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-173",
+    "name": "Togepi",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Charme",
+        "effect": "Pendant le prochain tour de votre adversaire, les attaques utilisées par le Pokémon Défenseur infligent − 20 dégâts.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-174",
+    "name": "Xatu",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Perte d'Énergie",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire a maintenant 10 PV restants.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Natu",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-175",
+    "name": "Qulbutoké",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Puissante Réplique",
+        "effect": "Si ce Pokémon a subi les dégâts d'une attaque pendant le dernier tour de votre adversaire alors qu'il était sur le Poste Actif, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-176",
+    "name": "Scorplane",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Glissement",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-177",
+    "name": "Mimigal",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Transpercement",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-178",
+    "name": "Cornèbre",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Étonnement",
+        "effect": "Lancez une pièce. Si c'est face, votre adversaire montre une carte de sa main au hasard, puis la mélange avec son deck.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-179",
+    "name": "Tyranocif",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Queue Destructrice",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, vous pouvez déplacer toute l'Énergie Obscurité de chacun de vos Pokémon vers ce Pokémon."
+      }
+    ],
+    "evolvesFrom": "Pupitar",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-180",
+    "name": "Cizayox",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Coup d'Bourrasque",
+        "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": "Scyther",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-181",
+    "name": "Fouinette",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-182",
+    "name": "Hoothoot",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Cru-Ailes",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Ce Pokémon ne peut pas être Endormi."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-183",
+    "name": "Cerfrousse",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Cornes Améliorées",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 50 dégâts supplémentaires.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-184",
+    "name": "Queulorior",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Surcouche Épaisse",
+        "effect": "Une des Énergies attachée au Pokémon Actif de votre adversaire est choisie au hasard pour être remplacée par une Énergie choisie au hasard parmi les types suivants : , , , , , ,  et .",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-185",
+    "name": "Leuphorie",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Coup d'Énergie",
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Énergie attachée à ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Chansey",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "a4-186",
+    "name": "Caratroc-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Triple Gifle",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Ce Pokémon subit − 20 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-187",
+    "name": "Ho-Oh-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Accélération du Phénix",
+        "effect": "Prenez une Énergie Feu, Eau et Électrique de votre zone Énergie et attachez-les à vos Pokémon de base de Banc comme il vous plaît.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-188",
+    "name": "Hyporoi-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Prison Tempétueuse",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Seadra",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-189",
+    "name": "Lanturn-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Signaux Aveuglants",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysés. Si c'est pile, le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Électrique",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Chinchou",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-190",
+    "name": "Mentali-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Super Psy",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez soigner 30 dégâts d'un de vos Pokémon."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-191",
+    "name": "Donphan-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Pression Gigatonne",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Combat de plus, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Phanpy",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-192",
+    "name": "Nostenfer-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Taillade Venimeuse",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Golbat",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-193",
+    "name": "Noctali-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Croc Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez envoyer un des Pokémon de Banc de votre adversaire ayant subi des dégâts sur le Poste Actif."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-194",
+    "name": "Airmure-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Ailes d'Acier",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-195",
+    "name": "Lugia-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Explosion Élémentaire",
+        "effect": "Défaussez une Énergie Feu, Eau et Électrique de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Eau",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-196",
+    "name": "Clément",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-197",
+    "name": "Célesta",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-198",
+    "name": "Silver",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-199",
+    "name": "Pêcheur",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-200",
+    "name": "Jasmine",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-201",
+    "name": "Montagnard",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-202",
+    "name": "Caratroc-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Triple Gifle",
+        "effect": "Lancez 3 pièces. Cette attaque inflige 20 dégâts pour chaque côté face.",
+        "cost": [
+          "Plante"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Ce Pokémon subit − 20 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-203",
+    "name": "Hyporoi-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Prison Tempétueuse",
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Seadra",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-204",
+    "name": "Lanturn-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Signaux Aveuglants",
+        "effect": "Lancez une pièce. Si c'est face, le Pokémon Actif de votre adversaire est maintenant Paralysés. Si c'est pile, le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Électrique",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Chinchou",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-205",
+    "name": "Mentali-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Super Psy",
+        "effect": null,
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez soigner 30 dégâts d'un de vos Pokémon."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-206",
+    "name": "Donphan-ex",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Pression Gigatonne",
+        "effect": "Si ce Pokémon a au moins 2 Énergies Combat de plus, cette attaque inflige 60 dégâts supplémentaires.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Phanpy",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-207",
+    "name": "Nostenfer-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Taillade Venimeuse",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonnés.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Golbat",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-208",
+    "name": "Noctali-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Croc Obscur",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Plante",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez envoyer un des Pokémon de Banc de votre adversaire ayant subi des dégâts sur le Poste Actif."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-209",
+    "name": "Airmure-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Ailes d'Acier",
+        "effect": "Pendant le prochain tour de votre adversaire, ce Pokémon subit − 20 dégâts provenant des attaques.",
+        "cost": [
+          "Métal",
+          "Métal"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Feu",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "a4-210",
+    "name": "Ho-Oh-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Accélération du Phénix",
+        "effect": "Prenez une Énergie Feu, Eau et Électrique de votre zone Énergie et attachez-les à vos Pokémon de base de Banc comme il vous plaît.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a4-211",
+    "name": "Lugia-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Explosion Élémentaire",
+        "effect": "Défaussez une Énergie Feu, Eau et Électrique de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Eau",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "a4-212",
+    "name": "Yanma",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Demi-Tour",
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-213",
+    "name": "Pyroli",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Assistant Thermique",
+        "effect": "Prenez une Énergie Feu de votre zone Énergie et attachez-la à un de vos Pokémon de Banc.",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Eau",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-214",
+    "name": "Magicarpe",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Bondir",
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc.",
+        "cost": [
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-215",
+    "name": "Léviator",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Folle Frappe",
+        "effect": "Vous pouvez défausser autant de vos Pokémon Eau de Banc que vous le voulez. Cette attaque inflige 40 dégâts supplémentaires pour chaque Pokémon de Banc défaussé de cette façon.",
+        "cost": [
+          "Eau",
+          "Eau"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Magikarp",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-216",
+    "name": "Aquali",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Vide Bulle",
+        "effect": "Soignez 30 dégâts de ce Pokémon.",
+        "cost": [
+          "Eau",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-217",
+    "name": "Magnéti",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Boule Éclair",
+        "effect": null,
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-218",
+    "name": "Magnéton",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Attaque Tournante",
+        "effect": null,
+        "cost": [
+          "Électrique",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [
+      {
+        "name": "Charge Volt",
+        "effect": "Une fois pendant votre tour, vous pouvez prendre une Énergie Électrique de votre zone Énergie et l'attacher à ce Pokémon."
+      }
+    ],
+    "evolvesFrom": "Magnemite",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-219",
+    "name": "Voltali",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Premier Éclair",
+        "effect": "Si ce Pokémon a évolué pendant ce tour, cette attaque inflige 20 dégâts supplémentaires.",
+        "cost": [
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-220",
+    "name": "Feuforêve",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Murmure",
+        "effect": null,
+        "cost": [
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-221",
+    "name": "Férosinge",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Poing Concentré",
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien.",
+        "cost": [
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-222",
+    "name": "Colossinge",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Rendre les Coups",
+        "effect": "Si ce Pokémon a subi des dégâts, cette attaque inflige 60 dégâts de plus.",
+        "cost": [
+          "Combat",
+          "Combat"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psy",
+    "abilities": [],
+    "evolvesFrom": "Mankey",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-223",
+    "name": "Nidoran♀",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Appel à la Famille",
+        "effect": "Placez une carte Nidoran♂ au hasard de votre deck sur votre Banc.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-224",
+    "name": "Nidorina",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Morsure",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Nidoran♀",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-225",
+    "name": "Nidoqueen",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Coup de Foudre",
+        "effect": "Cette attaque inflige 50 dégâts supplémentaires pour chaque Nidoking sur votre Banc.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Nidorina",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-226",
+    "name": "Nidoran♂",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Picpic",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-227",
+    "name": "Nidorino",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Koud'Korne",
+        "effect": null,
+        "cost": [
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Nidoran♂",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-228",
+    "name": "Nidoking",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Corne Empoisonnée",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Empoisonné.",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Nidorino",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-229",
+    "name": "Farfuret",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Griffe",
+        "effect": null,
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-230",
+    "name": "Excelangue",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Gros Coup de Langue",
+        "effect": null,
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-231",
+    "name": "Évoli",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Trouver un Ami",
+        "effect": "Ajoutez au hasard un Pokémon de votre deck à votre main.",
+        "cost": [
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "a4-232",
+    "name": "Yanmega-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Lame d'Air",
+        "effect": "Défaussez une Énergie au hasard de ce Pokémon.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Yanma",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a4-233",
+    "name": "Phyllali-ex",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Lance-Soleil",
+        "effect": null,
+        "cost": [
+          "Plante",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Feu",
+    "abilities": [
+      {
+        "name": "Souffle Forestier",
+        "effect": "Une fois pendant votre tour, si ce Pokémon est sur le Poste Actif, vous pouvez prendre une Énergie Plante de votre zone Énergie et l'attacher à l'un de vos Pokémon Plante."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a4-234",
+    "name": "Léviator-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 180,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Tourbillon Tempétueux",
+        "effect": "Défaussez une Énergie au hasard parmi celles attachées à tous les Pokémon en jeu (les vôtres et ceux de votre adversaire).",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": "Magikarp",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a4-235",
+    "name": "Givrali-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Vent Glaçant",
+        "effect": null,
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Métal",
+    "abilities": [
+      {
+        "name": "Terrain Enneigé",
+        "effect": "Pendant le Contrôle Pokémon, si ce Pokémon est sur le Poste Actif, infligez 10 dégâts au Pokémon Actif de votre adversaire."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a4-236",
+    "name": "Pachirisu-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Gadget'incelles",
+        "effect": "Si un Outil Pokémon est attaché à ce Pokémon, cette attaque inflige 40 dégâts supplémentaires.",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a4-237",
+    "name": "Magirêve-ex",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Voyage Magique",
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus.",
+        "cost": [
+          "Psy",
+          "Psy"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Obscurité",
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a4-238",
+    "name": "Dimoret-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Lugia",
+    "attacks": [
+      {
+        "name": "Griffes Griffantes",
+        "effect": "Si le Pokémon Actif de votre adversaire a subi des dégâts, cette attaque inflige 40 dégâts de plus.",
+        "cost": [
+          "Obscurité"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Plante",
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a4-239",
+    "name": "Coudlangue-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": "Ho-Oh",
+    "attacks": [
+      {
+        "name": "Langue Frénétique",
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Combat",
+    "abilities": [],
+    "evolvesFrom": "Lickitung",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "a4-240",
+    "name": "Ho-Oh-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Accélération du Phénix",
+        "effect": "Prenez une Énergie Feu, Eau et Électrique de votre zone Énergie et attachez-les à vos Pokémon de base de Banc comme il vous plaît.",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  },
+  {
+    "id": "a4-241",
+    "name": "Lugia-ex",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Sagesse entre Ciel et Mer",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Explosion Élémentaire",
+        "effect": "Défaussez une Énergie Feu, Eau et Électrique de ce Pokémon.",
+        "cost": [
+          "Feu",
+          "Eau",
+          "Électrique"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Électrique",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]
