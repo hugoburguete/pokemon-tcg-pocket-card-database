@@ -1,0 +1,2997 @@
+[
+  {
+    "id": "b2b-001",
+    "name": "Insécateur",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Demi-Tour",
+        "damage": "10",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-002",
+    "name": "Pomdepik",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Suspension",
+        "damage": "10",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-003",
+    "name": "Muciole",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Onde Folie",
+        "damage": "10",
+        "cost": [
+          "Plante"
+        ],
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-004",
+    "name": "Lumivole",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écrasement Mental",
+        "damage": "20+",
+        "cost": [
+          "Plante"
+        ],
+        "effect": "Si le Pokémon Actif de votre adversaire est Confus, cette attaque inflige 40 dégâts de plus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-005",
+    "name": "Brocélôme",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "damage": "10",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-006",
+    "name": "Desséliande",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Piétinement Lourd",
+        "damage": "40+",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ],
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Phantump",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-007",
+    "name": "Salamèche",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Queue de Flammes",
+        "damage": "30",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-008",
+    "name": "Reptincel",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tranche",
+        "damage": "40",
+        "cost": [
+          "Feu",
+          "Feu"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Préchauffe",
+        "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez prendre une Énergie Feu de votre zone Énergie et l'attacher à votre Pokémon Feu Actif."
+      }
+    ],
+    "evolvesFrom": "Charmander",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-009",
+    "name": "Méga-Dracaufeu X-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Brasier Déchaîné",
+        "damage": "100+",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu"
+        ],
+        "effect": "S'il reste 110 PV ou moins à ce Pokémon, cette attaque inflige 80 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2b-010",
+    "name": "Ponyta",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roussi",
+        "damage": "",
+        "cost": [
+          "Feu"
+        ],
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlés."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-011",
+    "name": "Galopa",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boost Atomisant",
+        "damage": "30",
+        "cost": [
+          "Feu"
+        ],
+        "effect": "Pendant votre prochain tour, l'attaque PokemonAttackName_ID_242 de ce Pokémon inflige + 30 dégâts."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Ponyta",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-012",
+    "name": "Magmar",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Queue Battoir",
+        "damage": "30",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-013",
+    "name": "Maganon",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Volcan Fulgurant",
+        "damage": "70",
+        "cost": [
+          "Feu",
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Si Élekable est sur votre Banc, cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Magmar",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-014",
+    "name": "Tauros de Paldea",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bélier",
+        "damage": "60",
+        "cost": [
+          "Feu",
+          "Feu"
+        ],
+        "effect": "Ce Pokémon s'inflige aussi 20 dégâts."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-015",
+    "name": "Ramoloss",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "damage": "30",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-016",
+    "name": "Méga-Flagadoss-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 200,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Manège à Laver",
+        "damage": "90",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ],
+        "effect": "Lancez 3 pièces. Cette attaque inflige aussi 20 dégâts pour chaque côté face à chaque Pokémon de Banc de votre adversaire."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Slowpoke",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2b-017",
+    "name": "Lokhlass",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gel Acharné",
+        "damage": "60",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ],
+        "effect": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, le Pokémon Actif de votre adversaire est maintenant paralysé."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-018",
+    "name": "Tiplouf",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pistolet à O",
+        "damage": "20",
+        "cost": [
+          "Eau"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-019",
+    "name": "Prinplouf",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Éclaboussure",
+        "damage": "30+",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ],
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Piplup",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-020",
+    "name": "Pingoléon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Frappe Impériale",
+        "damage": "80+",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ],
+        "effect": "S'il reste plus de PV au Pokémon Actif de votre adversaire qu'à ce Pokémon, cette attaque inflige 60 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Prinplup",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2b-021",
+    "name": "Phione",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aqua Turbo",
+        "damage": "10",
+        "cost": [
+          "Eau"
+        ],
+        "effect": "Prenez une Énergie Eau de votre zone Énergie et attachez-la à l'un de vos Pokémon Eau de Banc."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-022",
+    "name": "Pikachu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Choc Statique",
+        "damage": "10",
+        "cost": [
+          "Électrique"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-023",
+    "name": "Raichu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fatal-Foudre",
+        "damage": "90",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ],
+        "effect": "Ce Pokémon s'inflige aussi 30 dégâts."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-024",
+    "name": "Élektek",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Éclair Frontal",
+        "damage": "30",
+        "cost": [
+          "Électrique"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-025",
+    "name": "Élekable",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tonnerre Incendiaire",
+        "damage": "50+",
+        "cost": [
+          "Électrique",
+          "Incolore"
+        ],
+        "effect": "Si Maganon est sur votre Banc, cette attaque inflige 70 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Electabuzz",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-026",
+    "name": "Dynavolt",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vive-Attaque",
+        "damage": "10+",
+        "cost": [
+          "Électrique"
+        ],
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-027",
+    "name": "Méga-Élecsprint-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 180,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Accélérateur d'Éclair",
+        "damage": "80+",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ],
+        "effect": "Cette attaque inflige 30 dégâts supplémentaires pour chaque point que vous avez gagné."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Electrike",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2b-028",
+    "name": "Soporifik",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hypnose",
+        "damage": "",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-029",
+    "name": "Hypnomade",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hypnoblast",
+        "damage": "60",
+        "cost": [
+          "Psy",
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Drowzee",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-030",
+    "name": "Mew",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mémoire Miraculeuse",
+        "damage": "",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ],
+        "effect": "Une attaque est choisie au hasard parmi celles des Pokémon dans la main et dans le deck de votre adversaire. Utilisez l'attaque ainsi choisie comme effet de cette attaque."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2b-031",
+    "name": "Spoink",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Piqûre Psy",
+        "damage": "20",
+        "cost": [
+          "Psy"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-032",
+    "name": "Groret",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Danse Oscillante",
+        "damage": "40+",
+        "cost": [
+          "Psy"
+        ],
+        "effect": "Si votre adversaire a exactement 2, 4 ou 6 cartes dans sa main, cette attaque inflige 40 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Spoink",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-033",
+    "name": "Taupiqueur",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Légère Intrusion",
+        "damage": "30",
+        "cost": [
+          "Combat"
+        ],
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-034",
+    "name": "Triopikeur",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boue-Bombe",
+        "damage": "60",
+        "cost": [
+          "Combat",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Diglett",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-035",
+    "name": "Groudon",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Déflagration de Gaïa",
+        "damage": "130",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Défaussez 2 Énergies au hasard parmi celles attachées à tous vos Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2b-036",
+    "name": "Brutalibré",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bélier",
+        "damage": "50",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-037",
+    "name": "Fantominus",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Murmure",
+        "damage": "20",
+        "cost": [
+          "Obscurité"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-038",
+    "name": "Spectrum",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tournoyer",
+        "damage": "40",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ],
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Gastly",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-039",
+    "name": "Méga-Ectoplasma-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 210,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Labyrinthe des Ombres",
+        "damage": "120",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ],
+        "effect": "Pendant le procha n tour de voutre adversaire, il ne peut pas jouer de cartes Dresseur de sa main."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2b-040",
+    "name": "Darkrai",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sommeil Obscur",
+        "damage": "40",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Mauvais Rêve",
+        "effect": "À la fin de chaque tour, si le Pokémon Actif de votre adversaire est endormi, infligez-lui 20 dégâts."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2b-041",
+    "name": "Miamiasme",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giclée Vaseuse",
+        "damage": "40",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-042",
+    "name": "Miasmax",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tourbillon de Boue",
+        "damage": "70",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Trubbish",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-043",
+    "name": "Zorua",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Surprise",
+        "damage": "40",
+        "cost": [
+          "Obscurité"
+        ],
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-044",
+    "name": "Zoroark",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Énergie",
+        "damage": "20x",
+        "cost": [
+          "Obscurité"
+        ],
+        "effect": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Zorua",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2b-045",
+    "name": "Morpeko",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roue Énergisante",
+        "damage": "50",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ],
+        "effect": "Déplacez 2 Énergies Obscurité de ce Pokémon vers l'un de vos Pokémon de Banc."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-046",
+    "name": "Foretress",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Énorme Explosion",
+        "damage": "100",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Métal"
+        ],
+        "effect": "Ce Pokémon s'inflige aussi 100 dégâts ainsi que 50 dégâts à tous les Pokémon de Banc (les vôtres et ceux de votre adversaire)."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Pineco",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-047",
+    "name": "Méga-Cizayox-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 200,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Balle Percutante",
+        "damage": "100+",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ],
+        "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 50 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Scyther",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2b-048",
+    "name": "Katagami",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thrash Metal",
+        "damage": "40",
+        "cost": [
+          "Métal"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-049",
+    "name": "Vrombi",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gaz Suffocant",
+        "damage": "40",
+        "cost": [
+          "Métal",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-050",
+    "name": "Vrombotor",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ruée Incontrôlable",
+        "damage": "60",
+        "cost": [
+          "Métal",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Transport Métal",
+        "effect": "Une fois pendant votre tour, vous pouvez échanger votre Pokémon Métal Actif contre un de vos Pokémon de Banc."
+      }
+    ],
+    "evolvesFrom": "Varoom",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2b-051",
+    "name": "Minidraco",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Caudale",
+        "damage": "10+",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-052",
+    "name": "Draco",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Souhair des Cieux",
+        "damage": "",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": "Prenez une Énergie Eau et une Énergie Électrique de votre zone Énergie et attachez-les à ce Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dratini",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-053",
+    "name": "Dracolosse",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vague de Dragon",
+        "damage": "150",
+        "cost": [
+          "Eau",
+          "Électrique",
+          "Incolore"
+        ],
+        "effect": "Défaussez une Énergie Eau et une Énergie Électrique attachées à ce Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2b-054",
+    "name": "Coupenotte",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croc Aiguisé",
+        "damage": "40",
+        "cost": [
+          "Combat",
+          "Métal"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-055",
+    "name": "Incisache",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Draco-Griffe",
+        "damage": "60",
+        "cost": [
+          "Combat",
+          "Métal"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Axew",
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-056",
+    "name": "Tranchodon",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lame Frénétique",
+        "damage": "50+",
+        "cost": [
+          "Combat",
+          "Métal",
+          "Incolore"
+        ],
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc (les vôtres et ceux de votre adversaire)."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Fraxure",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2b-057",
+    "name": "Drakkarmin",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Serre",
+        "damage": "40",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-058",
+    "name": "Rondoudou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ruée",
+        "damage": "30",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-059",
+    "name": "Grodoudou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Enfoncement",
+        "damage": "80",
+        "cost": [
+          "Incolore",
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Jigglypuff",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-060",
+    "name": "Écrémeuh",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Débâcle",
+        "damage": "10+",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-061",
+    "name": "Pijako",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pioche Tournante",
+        "damage": "10",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": "Piochez une carte."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-062",
+    "name": "Chinchidou",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Câlinerie",
+        "damage": "10+",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-063",
+    "name": "Pashmilla",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gifle Douce",
+        "damage": "60",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Minccino",
+    "rarity": "Commune"
+  },
+  {
+    "id": "b2b-064",
+    "name": "Couafarel",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Poing Éclair",
+        "damage": "40+",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Toison Épaisse",
+        "effect": "Ce Pokémon subit − 20 dégâts provenant des attaques."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-065",
+    "name": "Message Désagréable",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-066",
+    "name": "Entretien",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Objet",
+    "health": null,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-067",
+    "name": "Iris",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-068",
+    "name": "Kalem",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-069",
+    "name": "Chemin de Randonnée",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Stade",
+    "health": null,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Peu commune"
+  },
+  {
+    "id": "b2b-070",
+    "name": "Lokhlass",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "60",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b2b-071",
+    "name": "Pingoléon",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "80+",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ],
+        "effect": "S'il reste plus de PV au Pokémon Actif de votre adversaire qu'à ce Pokémon, cette attaque inflige 60 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Prinplup",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b2b-072",
+    "name": "Groudon",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "130",
+        "cost": [
+          "Combat",
+          "Combat",
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b2b-073",
+    "name": "Morpeko",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "50",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b2b-074",
+    "name": "Vrombotor",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "60",
+        "cost": [
+          "Métal",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "",
+        "effect": "Une fois pendant votre tour, vous pouvez échanger votre Pokémon Métal Actif contre un de vos Pokémon de Banc."
+      }
+    ],
+    "evolvesFrom": "Varoom",
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b2b-075",
+    "name": "Écrémeuh",
+    "element": "Incolore",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "10+",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale"
+  },
+  {
+    "id": "b2b-076",
+    "name": "Méga-Dracaufeu X-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "100+",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu"
+        ],
+        "effect": "S'il reste 110 PV ou moins à ce Pokémon, cette attaque inflige 80 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-077",
+    "name": "Méga-Flagadoss-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 200,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "90",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Slowpoke",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-078",
+    "name": "Méga-Élecsprint-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 180,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "80+",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Electrike",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-079",
+    "name": "Méga-Ectoplasma-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 210,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "120",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-080",
+    "name": "Méga-Cizayox-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 200,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "100+",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ],
+        "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 50 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Scyther",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-081",
+    "name": "Iris",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-082",
+    "name": "Kalem",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-083",
+    "name": "Méga-Flagadoss-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 200,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "90",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Slowpoke",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-084",
+    "name": "Méga-Élecsprint-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 180,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "80+",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Electrike",
+    "rarity": "Illustration spéciale EX / Dresseur"
+  },
+  {
+    "id": "b2b-085",
+    "name": "Mew",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "b2b-086",
+    "name": "Mew",
+    "element": "Psy",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "",
+        "cost": [
+          "Psy",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "b2b-087",
+    "name": "Insécateur",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Demi-Tour",
+        "damage": "10",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-088",
+    "name": "Pomdepik",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Suspension",
+        "damage": "10",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-089",
+    "name": "Brocélôme",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "damage": "10",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-090",
+    "name": "Desséliande",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "40+",
+        "cost": [
+          "Plante",
+          "Incolore"
+        ],
+        "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Phantump",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-091",
+    "name": "Salamèche",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "30",
+        "cost": [
+          "Feu",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-092",
+    "name": "Reptincel",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tranche",
+        "damage": "40",
+        "cost": [
+          "Feu",
+          "Feu"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Préchauffe",
+        "effect": "Une fois pendant votre tour, lorsque vous jouez ce Pokémon de votre main pour faire évoluer un de vos Pokémon, vous pouvez prendre une Énergie Feu de votre zone Énergie et l'attacher à votre Pokémon Feu Actif."
+      }
+    ],
+    "evolvesFrom": "Charmander",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-093",
+    "name": "Ponyta",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roussi",
+        "damage": "",
+        "cost": [
+          "Feu"
+        ],
+        "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlés."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-094",
+    "name": "Galopa",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Boost Atomisant",
+        "damage": "30",
+        "cost": [
+          "Feu"
+        ],
+        "effect": "Pendant votre prochain tour, l'attaque PokemonAttackName_ID_242 de ce Pokémon inflige + 30 dégâts."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Ponyta",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-095",
+    "name": "Ramoloss",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Coup d'Boule",
+        "damage": "30",
+        "cost": [
+          "Eau",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-096",
+    "name": "Pikachu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Choc Statique",
+        "damage": "10",
+        "cost": [
+          "Électrique"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-097",
+    "name": "Raichu",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fatal-Foudre",
+        "damage": "90",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ],
+        "effect": "Ce Pokémon s'inflige aussi 30 dégâts."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pikachu",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-098",
+    "name": "Dynavolt",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vive-Attaque",
+        "damage": "10+",
+        "cost": [
+          "Électrique"
+        ],
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-099",
+    "name": "Brutalibré",
+    "element": "Combat",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bélier",
+        "damage": "50",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-100",
+    "name": "Fantominus",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Murmure",
+        "damage": "20",
+        "cost": [
+          "Obscurité"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-101",
+    "name": "Spectrum",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "40",
+        "cost": [
+          "Obscurité",
+          "Obscurité"
+        ],
+        "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Gastly",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-102",
+    "name": "Zorua",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Attaque Surprise",
+        "damage": "40",
+        "cost": [
+          "Obscurité"
+        ],
+        "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-103",
+    "name": "Zoroark",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Écras'Énergie",
+        "damage": "20x",
+        "cost": [
+          "Obscurité"
+        ],
+        "effect": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Zorua",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-104",
+    "name": "Foretress",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "100",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Métal"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Pineco",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-105",
+    "name": "Minidraco",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "10+",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-106",
+    "name": "Draco",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "",
+        "cost": [
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dratini",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-107",
+    "name": "Dracolosse",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "150",
+        "cost": [
+          "Eau",
+          "Électrique",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Dragonair",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-108",
+    "name": "Coupenotte",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Croc Aiguisé",
+        "damage": "40",
+        "cost": [
+          "Combat",
+          "Métal"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-109",
+    "name": "Incisache",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Draco-Griffe",
+        "damage": "60",
+        "cost": [
+          "Combat",
+          "Métal"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Axew",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-110",
+    "name": "Tranchodon",
+    "element": "Dragon",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "50+",
+        "cost": [
+          "Combat",
+          "Métal",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Fraxure",
+    "rarity": "1 étoile brillante"
+  },
+  {
+    "id": "b2b-111",
+    "name": "Méga-Dracaufeu X-ex",
+    "element": "Feu",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "100+",
+        "cost": [
+          "Feu",
+          "Feu",
+          "Feu"
+        ],
+        "effect": "S'il reste 110 PV ou moins à ce Pokémon, cette attaque inflige 80 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b2b-112",
+    "name": "Méga-Flagadoss-ex",
+    "element": "Eau",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 200,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "90",
+        "cost": [
+          "Eau",
+          "Eau",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Slowpoke",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b2b-113",
+    "name": "Méga-Élecsprint-ex",
+    "element": "Électrique",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 180,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "80+",
+        "cost": [
+          "Électrique",
+          "Électrique"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Electrike",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b2b-114",
+    "name": "Méga-Ectoplasma-ex",
+    "element": "Obscurité",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 210,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "",
+        "damage": "120",
+        "cost": [
+          "Obscurité",
+          "Obscurité",
+          "Obscurité",
+          "Incolore"
+        ],
+        "effect": ""
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Haunter",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b2b-115",
+    "name": "Méga-Cizayox-ex",
+    "element": "Métal",
+    "type": "Pokémon",
+    "subtype": "Stage 1",
+    "health": 200,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Balle Percutante",
+        "damage": "100+",
+        "cost": [
+          "Métal",
+          "Métal",
+          "Incolore"
+        ],
+        "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 50 dégâts supplémentaires."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Scyther",
+    "rarity": "2 étoiles brillantes"
+  },
+  {
+    "id": "b2b-116",
+    "name": "Arboliva",
+    "element": "Plante",
+    "type": "Pokémon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Canon Graine",
+        "damage": "70",
+        "cost": [
+          "Incolore",
+          "Incolore"
+        ],
+        "effect": null
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Soin Supplémentaire",
+        "effect": "Une fois pendant votre tour, vous pouvez soigner 60 dégâts à un de vos Pokémon-ex auquel de l'Énergie est attachée. Dans ce cas, défaussez une Énergie au hasard de ce Pokémon."
+      }
+    ],
+    "evolvesFrom": "Dolliv",
+    "rarity": "Couronne dorée"
+  },
+  {
+    "id": "b2b-117",
+    "name": "Barrière de Métal Renforcé",
+    "element": null,
+    "type": "Dresseur",
+    "subtype": "Outil",
+    "health": null,
+    "set": "Méga-Rayonnement",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Couronne dorée"
+  }
+]
