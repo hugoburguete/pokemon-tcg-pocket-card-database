@@ -1,0 +1,5969 @@
+[
+  {
+    "id": "b2-001",
+    "name": "Ledyba",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-002",
+    "name": "Ledian",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Swift",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This attack's damage isn't affected by Weakness or by any effects on your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ledyba",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-003",
+    "name": "Shuckle",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Guard Press",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-004",
+    "name": "Roselia",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Trip Over",
+        "damage": "10+",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-005",
+    "name": "Roserade",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Ring",
+        "damage": "50",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Roselia",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-006",
+    "name": "Cacnea",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Corkscrew Punch",
+        "damage": "30",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-007",
+    "name": "Cacturne",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spike Rend",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Cacnea",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-008",
+    "name": "Chespin",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vine Whip",
+        "damage": "30",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-009",
+    "name": "Quilladin",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Needle Arm",
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Chespin",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-010",
+    "name": "Chesnaught",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Needle Lariat",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, if this Pokémon is damaged by an attack, do 80 damage to the Attacking Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Quilladin",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-011",
+    "name": "Scatterbug",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bug Bite",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-012",
+    "name": "Spewpa",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Signs of Evolution",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Put a random card that evolves from Spewpa from your deck into your hand."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Scatterbug",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-013",
+    "name": "Vivillon",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vivid Powder",
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Spewpa",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-014",
+    "name": "Buzzwole",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ground Beat",
+        "damage": "40+",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "If your opponent has gotten exactly 1 point, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-015",
+    "name": "Gossifleur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Razor Leaf",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-016",
+    "name": "Eldegoss",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Float Up",
+        "damage": "40",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "You may shuffle this Pokémon and all attached cards into your deck."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Gossifleur",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-017",
+    "name": "Teal Mask Ogerpon ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energized Leaves",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Soothing Wind",
+        "effect": "Each of your Pokémon that has any Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-018",
+    "name": "Alolan Marowak",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fiery Bone",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Cubone",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-019",
+    "name": "Reshiram",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blue Flare",
+        "damage": "110",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-020",
+    "name": "Litleo",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stampede",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-021",
+    "name": "Pyroar",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heat Blast",
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Litleo",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-022",
+    "name": "Oricorio",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Inspiring Dance",
+        "damage": "10",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-023",
+    "name": "Blacephalon ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Singe",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      },
+      {
+        "name": "Pop-Punk",
+        "damage": "140",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Discard 3 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-024",
+    "name": "Scorbunny",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "20",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-025",
+    "name": "Raboot",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Kick",
+        "damage": "40",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Scorbunny",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-026",
+    "name": "Cinderace",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fireball Shot",
+        "damage": "120",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Raboot",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-027",
+    "name": "Hearthflame Mask Ogerpon",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hearthflame Dance",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, take 2 Fire Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-028",
+    "name": "Alolan Vulpix",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-029",
+    "name": "Alolan Ninetales ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Binding Snow",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Alolan Vulpix",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-030",
+    "name": "Galarian Mr. Mime",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Icy Snow",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-031",
+    "name": "Galarian Mr. Rime",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Spin",
+        "damage": "60x",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Flip 3 coins. This attack does 60 damage for each heads."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Galarian Mr. Mime",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-032",
+    "name": "Delibird",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Box of Surprises",
+        "damage": "",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 70 damage to your opponent's Active Pokémon. If tails, heal 30 damage from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-033",
+    "name": "Mudkip",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-034",
+    "name": "Marshtomp",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surf",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Mudkip",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-035",
+    "name": "Swampert",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Large Whirlpool",
+        "damage": "100",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard a random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Marshtomp",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-036",
+    "name": "Mega Swampert ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Strong-Armed Destroyer",
+        "damage": "150",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Marshtomp",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-037",
+    "name": "Vanillite",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Chilly",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-038",
+    "name": "Vanillish",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Frost Breath",
+        "damage": "40",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Vanillite",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-039",
+    "name": "Vanilluxe",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweets Relay",
+        "damage": "60+",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "If 1 of your Pokémon used Sweets Relay during your last turn, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Vanillish",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-040",
+    "name": "Cryogonal",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Frozen Lock",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, they can't play any Item cards from their hand."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-041",
+    "name": "Amaura",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aurora Beam",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Sail Fossil",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-042",
+    "name": "Aurorus",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hail Prison",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Amaura",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-043",
+    "name": "Chewtle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-044",
+    "name": "Drednaw",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heavy Impact",
+        "damage": "120",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Chewtle",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-045",
+    "name": "Cramorant",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spit-Out Shot",
+        "damage": "",
+        "cost": [
+          "Water"
+        ],
+        "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-046",
+    "name": "Arrokuda",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-047",
+    "name": "Barraskewda",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jet Headbutt",
+        "damage": "40",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Arrokuda",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-048",
+    "name": "Wellspring Mask Ogerpon",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wellspring Dance",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack also does 40 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-049",
+    "name": "Pikachu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thunder Jolt",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-050",
+    "name": "Alolan Raichu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thunder Spear",
+        "damage": "",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "This attack does 50 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Surge Surfer",
+        "effect": "If a Stadium is in play, this Pokémon has no Retreat Cost."
+      }
+    ],
+    "evolvesFrom": "Pikachu",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-051",
+    "name": "Zapdos",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heavy Thunder",
+        "damage": "",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "1 other Pokémon (either yours or your opponent's) is chosen at random 1 time. Do 100 damage to the chosen Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-052",
+    "name": "Plusle",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Electric Tail",
+        "damage": "10",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-053",
+    "name": "Minun",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Buddy Spark",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-054",
+    "name": "Toxel",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Static Shock",
+        "damage": "30",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-055",
+    "name": "Toxtricity ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Damaging Spark",
+        "damage": "90",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Toxel",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-056",
+    "name": "Tadbulb",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-057",
+    "name": "Bellibolt",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Electric Ball",
+        "damage": "80",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tadbulb",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-058",
+    "name": "Galarian Ponyta",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-059",
+    "name": "Galarian Rapidash",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Photon Laser",
+        "damage": "40+",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "If you have 5 or more Psychic Energy in play, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Galarian Ponyta",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-060",
+    "name": "Wobbuffet",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flip Over",
+        "damage": "80",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-061",
+    "name": "Snubbull",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sharp Fang",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-062",
+    "name": "Granbull",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Strength",
+        "damage": "90",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Snubbull",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-063",
+    "name": "Ralts",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Confuse Ray",
+        "damage": "",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-064",
+    "name": "Kirlia",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psybeam",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Ralts",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-065",
+    "name": "Gardevoir",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psy Turbo",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Take 2 Psychic Energy from your Energy Zone and attach it to 1 of your Benched Psychic Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-066",
+    "name": "Mega Gardevoir ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 210,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fantasia Force",
+        "damage": "110",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Take 3 Psychic Energy from your Energy Zone and attach it to your Psychic Pokémon in any way you like."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-067",
+    "name": "Litwick",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mumble",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-068",
+    "name": "Lampent",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Petty Grudge",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Litwick",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-069",
+    "name": "Chandelure",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Past Friends",
+        "damage": "60+",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "This attack does 20 more damage for each Supporter card in your discard pile."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Lampent",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-070",
+    "name": "Meloetta",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Strange Singing",
+        "effect": "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random Psychic Pokémon from your deck into your hand."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-071",
+    "name": "Pumpkaboo",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-072",
+    "name": "Gourgeist",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Soul Shot",
+        "damage": "70",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Discard a card from your hand. If you can't, this attack does nothing."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Pumpkaboo",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-073",
+    "name": "Mimikyu ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Disguise",
+        "effect": "When this Pokémon is first damaged by an attack after coming into play, prevent that damage."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-074",
+    "name": "Sinistea",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hide",
+        "damage": "",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-075",
+    "name": "Polteageist",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "damage": "40",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Refreshing Tea",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle their hand into their deck. For each remaining point that your opponent needs to win, they draw a card."
+      }
+    ],
+    "evolvesFrom": "Sinistea",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-076",
+    "name": "Indeedee",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Zen Shard",
+        "damage": "",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "This attack does 70 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-077",
+    "name": "Sandshrew",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Scratch",
+        "damage": "20x",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-078",
+    "name": "Sandslash",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fury Swipes",
+        "damage": "30x",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Flip 3 coins. This attack does 30 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Sandshrew",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-079",
+    "name": "Machop",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Shatter",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Discard a Stadium in play."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-080",
+    "name": "Machoke",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Chop",
+        "damage": "40",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Machop",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-081",
+    "name": "Machamp",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Knocking Hammer",
+        "damage": "80",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Machoke",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-082",
+    "name": "Cubone",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-083",
+    "name": "Meditite",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Smack",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-084",
+    "name": "Medicham",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psykick",
+        "damage": "50+",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has any Psychic Energy attached, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Meditite",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-085",
+    "name": "Roggenrola",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mud-Slap",
+        "damage": "30",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-086",
+    "name": "Boldore",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Power Gem",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Roggenrola",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-087",
+    "name": "Gigalith ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 190,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Megaton Cannon",
+        "damage": "",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Boldore",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-088",
+    "name": "Drilbur",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt Bounce",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-089",
+    "name": "Tyrunt",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "damage": "60",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Jaw Fossil",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-090",
+    "name": "Tyrantrum",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tyrannical Fang",
+        "damage": "100+",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "If you have fewer Pokémon in play than your opponent, this attack does 80 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Tyrunt",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-091",
+    "name": "Passimian",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fling",
+        "damage": "",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-092",
+    "name": "Falinks",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Invade",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Coordinated Unit",
+        "effect": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-093",
+    "name": "Cornerstone Mask Ogerpon",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cornerstone Dance",
+        "damage": "40",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, this Pokémon takes −100 damage from attacks."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-094",
+    "name": "Alolan Meowth",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Swagger",
+        "damage": "",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-095",
+    "name": "Alolan Persian",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "40",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Alolan Meowth",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-096",
+    "name": "Alolan Grimer",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pound",
+        "damage": "20",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-097",
+    "name": "Alolan Muk",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sludge Bomb",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Power of Alchemy",
+        "effect": "Basic Pokémon in play (both yours and your opponent's) have no Abilities."
+      }
+    ],
+    "evolvesFrom": "Alolan Grimer",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-098",
+    "name": "Galarian Zigzagoon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dig Claws",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-099",
+    "name": "Galarian Linoone",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rear Kick",
+        "damage": "40",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Galarian Zigzagoon",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-100",
+    "name": "Galarian Obstagoon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Merciless Strike",
+        "damage": "70+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Galarian Linoone",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-101",
+    "name": "Stunky",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spray Fluid",
+        "damage": "30",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-102",
+    "name": "Skuntank",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Smokescreen Shot",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Stunky",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-103",
+    "name": "Spiritomb",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Final Scream",
+        "effect": "If this Pokémon is in the Active Spot and is Knocked Out by damage from an attack from your opponent's Pokémon, do 10 damage to each of your opponent's Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-104",
+    "name": "Purrloin",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Whiny Voice",
+        "damage": "",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Flip a coin. If heads, look at a random card from your opponent's hand and shuffle it into their deck."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-105",
+    "name": "Liepard",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fasten Claws",
+        "damage": "30+",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Purrloin",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-106",
+    "name": "Scraggy",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-107",
+    "name": "Scrafty",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crush the Weak",
+        "damage": "50+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "If this Pokémon has more Energy attached than your opponent's Active Pokémon, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Scraggy",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-108",
+    "name": "Yveltal",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Evil Crash",
+        "damage": "90",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "Discard a random Energy from both Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-109",
+    "name": "Guzzlord",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Breakcore",
+        "damage": "",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, discard your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-110",
+    "name": "Galarian Meowth",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "20",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-111",
+    "name": "Galarian Perrserker",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Metal Claw",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Dig Up",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand."
+      }
+    ],
+    "evolvesFrom": "Galarian Meowth",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-112",
+    "name": "Mawile",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cavernous Chomp",
+        "damage": "50",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-113",
+    "name": "Mega Mawile ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heat-Up Crunch",
+        "damage": "60",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-114",
+    "name": "Excadrill",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slashing Claw",
+        "damage": "80",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Drilbur",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-115",
+    "name": "Ferroseed",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-116",
+    "name": "Ferrothorn",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pummel",
+        "damage": "40+",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ferroseed",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-117",
+    "name": "Galarian Stunfisk",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Snapping Trap",
+        "damage": "40",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, if this Pokémon is in the Active Spot when your opponent's Active Pokémon retreats, this attack does 40 damage to the new Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-118",
+    "name": "Honedge",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cut Up",
+        "damage": "20",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-119",
+    "name": "Doublade",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dual Blades",
+        "damage": "40x",
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "effect": "Flip 2 coins. This attack does 40 damage for each heads."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Honedge",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-120",
+    "name": "Aegislash",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Superb Shield",
+        "damage": "80",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Metal"
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes −80 damage from attacks from your opponent's Pokémon ex."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Doublade",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-121",
+    "name": "Bagon",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-122",
+    "name": "Shelgon",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rolling Tackle",
+        "damage": "60",
+        "cost": [
+          "Fire",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Bagon",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-123",
+    "name": "Salamence",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dragon Dive",
+        "damage": "150",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this Pokémon also does 50 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Shelgon",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-124",
+    "name": "Meowth",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Feelin’ Fine",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Draw a card."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Carefree Steps",
+        "effect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-125",
+    "name": "Persian",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Meowth",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-126",
+    "name": "Kangaskhan",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Steady Punch",
+        "damage": "60+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-127",
+    "name": "Mega Kangaskhan ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 180,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double-Punching Family",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2-128",
+    "name": "Sentret",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tail Rap",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-129",
+    "name": "Furret",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt Bounce",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Sentret",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-130",
+    "name": "Smeargle",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tail Whap",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Portrait",
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may look at a random Supporter card from your opponent's hand. Use the effect of that card as the effect of this Ability."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-131",
+    "name": "Lugia",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aeroblast",
+        "damage": "80+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 40 more damage for each heads."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-132",
+    "name": "Taillow",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Peck",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-133",
+    "name": "Swellow",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wing Attack",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Repelling Wind",
+        "effect": "Once during your turn, you may switch out your opponent's Active Basic Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+      }
+    ],
+    "evolvesFrom": "Taillow",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-134",
+    "name": "Slakoth",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Yawn",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-135",
+    "name": "Vigoroth",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Best Punch",
+        "damage": "90",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Slakoth",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-136",
+    "name": "Slaking",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Knuckle Sandwich",
+        "damage": "150",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard a random Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Snoozing Habit",
+        "effect": "As long as this Pokémon is in the Active Spot, whenever you attach an Energy from your Energy Zone to it, it is now Asleep."
+      }
+    ],
+    "evolvesFrom": "Vigoroth",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-137",
+    "name": "Spinda",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Teetering Steps",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-138",
+    "name": "Tornadus",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blow Through",
+        "damage": "40+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If a Stadium is in play, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2-139",
+    "name": "Bunnelby",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-140",
+    "name": "Diggersby",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Earthquake",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack also does 10 damage to each of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Bunnelby",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-141",
+    "name": "Furfrou",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hammer In",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Fur Coat",
+        "effect": "This Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-142",
+    "name": "Tandemaus",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flock",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Put 3 random cards from among Tandemaus and Maushold from your deck onto your Bench."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-143",
+    "name": "Maushold",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Family Beatdown",
+        "damage": "60x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin for each Tandemaus and Maushold you have in play. This attack does 60 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tandemaus",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-144",
+    "name": "Jaw Fossil",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-145",
+    "name": "Lucky Ice Pop",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-146",
+    "name": "Sail Fossil",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2-147",
+    "name": "Protective Poncho",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-148",
+    "name": "Metal Core Barrier",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-149",
+    "name": "Diantha",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-150",
+    "name": "Sightseer",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-151",
+    "name": "Juggler",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-152",
+    "name": "Piers",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-153",
+    "name": "Training Area",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Stadium",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-154",
+    "name": "Starting Plains",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Stadium",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-155",
+    "name": "Peculiar Plaza",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Stadium",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2-156",
+    "name": "Cacnea",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Corkscrew Punch",
+        "damage": "30",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-157",
+    "name": "Roserade",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Ring",
+        "damage": "50",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned. During your opponent's next turn, that Pokémon can't retreat."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Roselia",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-158",
+    "name": "Vivillon",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Vivid Powder",
+        "damage": "60",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Spewpa",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-159",
+    "name": "Buzzwole",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ground Beat",
+        "damage": "40+",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "If your opponent has gotten exactly 1 point, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-160",
+    "name": "Reshiram",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blue Flare",
+        "damage": "110",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-161",
+    "name": "Oricorio",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Inspiring Dance",
+        "damage": "10",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "During your next turn, attacks used by your Pokémon do +20 damage to your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-162",
+    "name": "Scorbunny",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "20",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-163",
+    "name": "Aurorus",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hail Prison",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Amaura",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-164",
+    "name": "Cramorant",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spit-Out Shot",
+        "damage": "",
+        "cost": [
+          "Water"
+        ],
+        "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-165",
+    "name": "Minun",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Buddy Spark",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "If Plusle is on your Bench, this attack also does 10 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-166",
+    "name": "Toxel",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Static Shock",
+        "damage": "30",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-167",
+    "name": "Galarian Ponyta",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-168",
+    "name": "Snubbull",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sharp Fang",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-169",
+    "name": "Indeedee",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Zen Shard",
+        "damage": "",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "This attack does 70 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-170",
+    "name": "Sandshrew",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Scratch",
+        "damage": "20x",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-171",
+    "name": "Tyrantrum",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tyrannical Fang",
+        "damage": "100+",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "If you have fewer Pokémon in play than your opponent, this attack does 80 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Tyrunt",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-172",
+    "name": "Falinks",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Invade",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Coordinated Unit",
+        "effect": "If you have another Falinks in play, this Pokémon's attacks do +20 damage to your opponent's Active Pokémon, and this Pokémon takes −20 damage from attacks from your opponent's Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-173",
+    "name": "Alolan Muk",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sludge Bomb",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Power of Alchemy",
+        "effect": "Basic Pokémon in play (both yours and your opponent's) have no Abilities."
+      }
+    ],
+    "evolvesFrom": "Alolan Grimer",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-174",
+    "name": "Purrloin",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Whiny Voice",
+        "damage": "",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Flip a coin. If heads, look at a random card from your opponent's hand and shuffle it into their deck."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-175",
+    "name": "Yveltal",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Evil Crash",
+        "damage": "90",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "Discard a random Energy from both Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-176",
+    "name": "Galarian Obstagoon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Merciless Strike",
+        "damage": "70+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "If your opponent's Active Pokémon has damage on it, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Galarian Linoone",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-177",
+    "name": "Galarian Perrserker",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Metal Claw",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Dig Up",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 2 random Pokémon Tool cards from your discard pile into your hand."
+      }
+    ],
+    "evolvesFrom": "Galarian Meowth",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-178",
+    "name": "Salamence",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dragon Dive",
+        "damage": "150",
+        "cost": [
+          "Fire",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this Pokémon also does 50 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Shelgon",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-179",
+    "name": "Slakoth",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Yawn",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2-180",
+    "name": "Teal Mask Ogerpon ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energized Leaves",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Soothing Wind",
+        "effect": "Each of your Pokémon that has any Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-181",
+    "name": "Blacephalon ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Singe",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      },
+      {
+        "name": "Pop-Punk",
+        "damage": "140",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Discard 3 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-182",
+    "name": "Alolan Ninetales ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Binding Snow",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Alolan Vulpix",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-183",
+    "name": "Mega Swampert ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Strong-Armed Destroyer",
+        "damage": "150",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Marshtomp",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-184",
+    "name": "Toxtricity ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Damaging Spark",
+        "damage": "90",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Toxel",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-185",
+    "name": "Mega Gardevoir ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 210,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fantasia Force",
+        "damage": "110",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Take 3 Psychic Energy from your Energy Zone and attach it to your Psychic Pokémon in any way you like."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-186",
+    "name": "Mimikyu ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Disguise",
+        "effect": "When this Pokémon is first damaged by an attack after coming into play, prevent that damage."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-187",
+    "name": "Gigalith ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 190,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Megaton Cannon",
+        "damage": "",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Boldore",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-188",
+    "name": "Mega Mawile ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heat-Up Crunch",
+        "damage": "60",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-189",
+    "name": "Mega Kangaskhan ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 180,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double-Punching Family",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-190",
+    "name": "Diantha",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-191",
+    "name": "Sightseer",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-192",
+    "name": "Juggler",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-193",
+    "name": "Piers",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-194",
+    "name": "Teal Mask Ogerpon ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Energized Leaves",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "If the amount of Energy attached to both Active Pokémon is 5 or more, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Soothing Wind",
+        "effect": "Each of your Pokémon that has any Energy attached recovers from all Special Conditions and can't be affected by any Special Conditions."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-195",
+    "name": "Blacephalon ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Singe",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Burned."
+      },
+      {
+        "name": "Pop-Punk",
+        "damage": "140",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "effect": "Discard 3 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-196",
+    "name": "Alolan Ninetales ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Binding Snow",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, they can't take any Energy from their Energy Zone to attach to their Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Alolan Vulpix",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-197",
+    "name": "Mega Swampert ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Strong-Armed Destroyer",
+        "damage": "150",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard 2 random Energy from among the Energy attached to all Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Marshtomp",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-198",
+    "name": "Toxtricity ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Damaging Spark",
+        "damage": "90",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "This attack also does 30 damage to each of your opponent's Benched Pokémon that has damage on it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Toxel",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-199",
+    "name": "Mimikyu ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Claw Slash",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Disguise",
+        "effect": "When this Pokémon is first damaged by an attack after coming into play, prevent that damage."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-200",
+    "name": "Gigalith ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 190,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Megaton Cannon",
+        "damage": "",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This attack does 140 damage to 1 of your opponent's Pokémon. During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Boldore",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-201",
+    "name": "Mega Mawile ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heat-Up Crunch",
+        "damage": "60",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Until this Pokémon leaves the Active Spot, this Pokémon's Heat-Up Crunch attack does +30 damage. This effect stacks."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-202",
+    "name": "Mega Kangaskhan ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 180,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double-Punching Family",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack is used twice in a row. The second attack does 40 damage.(If the first attack Knocks Out your opponent's Active Pokémon, the second attack is used after your opponent chooses a new Active Pokémon.)"
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2-203",
+    "name": "Mega Gardevoir ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 210,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fantasia Force",
+        "damage": "110",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Take 3 Psychic Energy from your Energy Zone and attach it to your Psychic Pokémon in any way you like."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Kirlia",
+    "rarity": "Immersive"
+  },
+  {
+    "id": "b2-204",
+    "name": "Meowth",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Feelin’ Fine",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Draw a card."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Carefree Steps",
+        "effect": "If any damage is done to this Pokémon by attacks, flip a coin. If heads, prevent that damage."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "b2-205",
+    "name": "Tangela",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sleep Powder",
+        "damage": "20",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-206",
+    "name": "Magby",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Toasty Toss",
+        "damage": "",
+        "cost": [
+          null
+        ],
+        "effect": "Take a Fire Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-207",
+    "name": "Magmar",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stoke",
+        "damage": "",
+        "cost": [
+          "Fire"
+        ],
+        "effect": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-208",
+    "name": "Horsea",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hook",
+        "damage": "30",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-209",
+    "name": "Seadra",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Razor Fin",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Horsea",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-210",
+    "name": "Mantyke",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Splashy Toss",
+        "damage": "",
+        "cost": [
+          null
+        ],
+        "effect": "Take a Water Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-211",
+    "name": "Omanyte",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "40",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Helix Fossil",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-212",
+    "name": "Omastar",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ancient Whirlpool",
+        "damage": "70",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Omanyte",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-213",
+    "name": "Pichu",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crackly Toss",
+        "damage": "",
+        "cost": [
+          null
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to 1 of your Benched Basic Pokémon."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-214",
+    "name": "Clefairy",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slap",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-215",
+    "name": "Clefable",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Magical Shot",
+        "damage": "40",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Clefairy",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-216",
+    "name": "Latias",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crossing Flights",
+        "damage": "20+",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "If Latios is on your Bench, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-217",
+    "name": "Latios",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Luster Purge",
+        "damage": "120",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Fantastical Floating",
+        "effect": "If you have Latias in play, this Pokémon has no Retreat Cost."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-218",
+    "name": "Hitmonlee",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stretch Kick",
+        "damage": "",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This attack does 30 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-219",
+    "name": "Hitmonchan",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jab",
+        "damage": "30",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-220",
+    "name": "Kabuto",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Shell Attack",
+        "damage": "40",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Dome Fossil",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-221",
+    "name": "Kabutops",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leech Life",
+        "damage": "50",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Kabuto",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-222",
+    "name": "Phanpy",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Reckless Charge",
+        "damage": "30",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-223",
+    "name": "Tyrogue",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slappy Knuckle",
+        "damage": "20",
+        "cost": [
+          null
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-224",
+    "name": "Tauros",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fighting Tackle",
+        "damage": "40+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 80  more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2-225",
+    "name": "Flareon ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "damage": "130",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Combust",
+        "effect": "Once during your turn, you may attach a Fire Energy from your discard pile to this Pokémon. If you do, do 20 damage to this Pokémon."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2-226",
+    "name": "Ho-Oh ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Phoenix Turbo",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Take a Fire, Water, and Lightning Energy from your Energy Zone and attach them to your Benched Basic Pokémon in any way you like."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2-227",
+    "name": "Kingdra ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stormy Prison",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Seadra",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2-228",
+    "name": "Espeon ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Super Psy Bolt",
+        "damage": "80",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Psychic Healing",
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may heal 30 damage from 1 of your Pokémon."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2-229",
+    "name": "Sylveon ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fairy Wind",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Happy Ribbon",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may draw 2 cards."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2-230",
+    "name": "Donphan ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gigantic Press",
+        "damage": "50+",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "If this Pokémon has at least 2 extra Fighting Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Phanpy",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2-231",
+    "name": "Umbreon ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Darkness Fang",
+        "damage": "80",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Dark Chase",
+        "effect": "Once during your turn, if this Pokémon is in the Active Spot, you may switch in 1 of your opponent's Benched Pokémon that has damage on it to the Active Spot."
+      }
+    ],
+    "evolvesFrom": "Eevee",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2-232",
+    "name": "Lugia ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Elemental Blast",
+        "damage": "180",
+        "cost": [
+          "Fire",
+          "Water",
+          "Lightning"
+        ],
+        "effect": "Discard a Fire, Water, and Lightning Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2-233",
+    "name": "Meloetta",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Strange Singing",
+        "effect": "At the beginning of your turn, if this Pokémon is in the Active Spot, put a random Psychic Pokémon from your deck into your hand."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  },
+  {
+    "id": "b2-234",
+    "name": "Protective Poncho",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Fantastical Parade  (B2)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  }
+]

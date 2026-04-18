@@ -1,0 +1,3298 @@
+[
+  {
+    "id": "b2a-001",
+    "name": "Sprigatito",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leafage",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-002",
+    "name": "Floragato",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leaf Step",
+        "damage": "30",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Sprigatito",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-003",
+    "name": "Meowscarada ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flower Trick",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+      },
+      {
+        "name": "Solar Beam",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2a-004",
+    "name": "Tarountula",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hook",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-005",
+    "name": "Spidops",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bind Down",
+        "damage": "40",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Tarountula",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-006",
+    "name": "Nymble",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "U-turn",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-007",
+    "name": "Smoliv",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Absorb",
+        "damage": "10",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Heal 10 damage from this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-008",
+    "name": "Dolliv",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Seed Bomb",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Smoliv",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-009",
+    "name": "Arboliva",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Seed Bomb",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Extra Heal",
+        "effect": "Once during your turn, you may heal 60 damage from 1 of your Pokémon ex that has any Energy attached. If you do, discard a random Energy from that Pokémon."
+      }
+    ],
+    "evolvesFrom": "Dolliv",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-010",
+    "name": "Bramblin",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rollout",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-011",
+    "name": "Brambleghast",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Continuous Tumble",
+        "damage": "60x",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 60 damage for each heads."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Bramblin",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-012",
+    "name": "Capsakid",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Playful Kick",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-013",
+    "name": "Scovillain",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Red-Hot Headbutt",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "If your opponent's Active Pokémon is a Grass or Metal Pokémon, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Capsakid",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-014",
+    "name": "Rellor",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ball Roll",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-015",
+    "name": "Wo-Chien",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Binding Greed",
+        "damage": "90",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 2 Colorless more."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-016",
+    "name": "Fuecoco",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cheerful Singing",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-017",
+    "name": "Crocalor",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "50",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Fuecoco",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-018",
+    "name": "Skeledirge",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Heat Crash",
+        "damage": "70",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Passionate Voice",
+        "effect": "Once during your turn, you may discard 1 Fire Energy from this Pokémon in order to use this Ability. During this turn, attacks used by your Fire Pokémon do +50 damage to your opponent's Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Crocalor",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-019",
+    "name": "Charcadet",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-020",
+    "name": "Armarouge ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Armor Cannon",
+        "damage": "120",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Armor",
+        "effect": "This Pokémon takes −30 damage from attacks."
+      }
+    ],
+    "evolvesFrom": "Charcadet",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2a-021",
+    "name": "Chi-Yu",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Megafire of Envy",
+        "damage": "40+",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-022",
+    "name": "Quaxly",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Splashing Dodge",
+        "damage": "10",
+        "cost": [
+          "Water"
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-023",
+    "name": "Quaxwell",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Splashing Turn",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "Switch this Pokémon with 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Quaxly",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-024",
+    "name": "Quaquaval",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hydro Kick",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Torrent",
+        "effect": "If this Pokémon's remaining HP is 50 or less, attacks used by this Pokémon do +60 damage to your opponent's Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Quaxwell",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-025",
+    "name": "Wiglett",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-026",
+    "name": "Wugtrio",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Whip",
+        "damage": "30x",
+        "cost": [
+          "Water"
+        ],
+        "effect": "Flip 3 coins. This attack does 30 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Wiglett",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-027",
+    "name": "Finizen",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Razor Fin",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-028",
+    "name": "Palafin",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jet Punch",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack also does 50 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Finizen",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-029",
+    "name": "Cetoddle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Icicle Missile",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-030",
+    "name": "Cetitan",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ice Punch",
+        "damage": "80",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Cetoddle",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-031",
+    "name": "Veluza",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Shedding Spiral",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If you have no cards in your deck, this attack can be used for 1 Water Energy."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-032",
+    "name": "Dondozo",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Giga Impact",
+        "damage": "120",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-033",
+    "name": "Tatsugiri",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rally Back",
+        "damage": "20+",
+        "cost": [
+          "Water"
+        ],
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-034",
+    "name": "Frigibax",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Chilly",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-035",
+    "name": "Arctibax",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Frost Smash",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Frigibax",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-036",
+    "name": "Baxcalibur",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Buster Tail",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Ice Maker",
+        "effect": "Once during your turn, you may take a Water Energy from your Energy Zone and attach it to the Water Pokémon in the Active Spot."
+      }
+    ],
+    "evolvesFrom": "Arctibax",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-037",
+    "name": "Chien-Pao ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Icicle",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Diving Icicles",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2a-038",
+    "name": "Pawmi",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Random Spark",
+        "damage": "",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-039",
+    "name": "Pawmo",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Head Bolt",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pawmi",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-040",
+    "name": "Pawmot",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thunder Blast",
+        "damage": "100",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "Discard a Lightning Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pawmo",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-041",
+    "name": "Tadbulb",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-042",
+    "name": "Bellibolt ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "High-Voltage Cannon",
+        "damage": "70+",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tadbulb",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2a-043",
+    "name": "Wattrel",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flap",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-044",
+    "name": "Kilowattrel",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Speed Wing",
+        "damage": "40",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Wattrel",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-045",
+    "name": "Miraidon",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lightning Laser",
+        "damage": "60",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "This attack also does 30 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-046",
+    "name": "Fidough",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rear Kick",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-047",
+    "name": "Dachsbun",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Play Rough",
+        "damage": "50+",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Fidough",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-048",
+    "name": "Ceruledge",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fighting Sword",
+        "damage": "70+",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Charcadet",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-049",
+    "name": "Rabsca",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psybeam",
+        "damage": "80",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Rellor",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-050",
+    "name": "Flittle",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-051",
+    "name": "Espathra",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psychic",
+        "damage": "30+",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Flittle",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-052",
+    "name": "Greavard",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Soul Shot",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Discard a card from your hand. If you can't, this attack does nothing."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-053",
+    "name": "Houndstone",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Last Respects",
+        "damage": "50+",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Psychic Pokémon in your discard pile."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Greavard",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-054",
+    "name": "Gimmighoul",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Continuous Coin Toss",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-055",
+    "name": "Mankey",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fury Swipes",
+        "damage": "10x",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "Flip 3 coins. This attack does 10 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-056",
+    "name": "Primeape",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rage",
+        "damage": "30+",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This attack does more damage equal to the damage this Pokémon has on it."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Mankey",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-057",
+    "name": "Annihilape",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dynamite Punch",
+        "damage": "90",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Primeape",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-058",
+    "name": "Paldean Tauros",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rear Kick",
+        "damage": "50",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-059",
+    "name": "Toedscool",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Smash Kick",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-060",
+    "name": "Toedscruel",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stun Spore",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Toedscool",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-061",
+    "name": "Klawf",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Adrenaline Hammer",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-062",
+    "name": "Ting-Lu",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Arrogant Impact",
+        "damage": "130",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "If this Pokémon's remaining HP is 60 or less, this attack does nothing."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-063",
+    "name": "Koraidon",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rampaging Fang",
+        "damage": "120",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Fighting Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-064",
+    "name": "Paldean Wooper",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "40",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-065",
+    "name": "Paldean Clodsire",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Muddy Hammer",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "effect": "Discard the top card of your opponent's deck."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Paldean Wooper",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-066",
+    "name": "Lokix",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rocket Jump",
+        "damage": "80",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Nymble",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-067",
+    "name": "Maschiff",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-068",
+    "name": "Mabosstiff",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wild Tackle",
+        "damage": "110",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Maschiff",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-069",
+    "name": "Shroodle",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Scratch",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-070",
+    "name": "Grafaiai",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Colorful Attack",
+        "damage": "30+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "If your Pokémon in play have 3 or more different types of Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Shroodle",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-071",
+    "name": "Bombirdier",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fly",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-072",
+    "name": "Tinkatink",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Beat",
+        "damage": "30",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-073",
+    "name": "Tinkatuff",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Light Punch",
+        "damage": "50",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Tinkatink",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-074",
+    "name": "Tinkaton",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gigaton Hammer",
+        "damage": "140",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pokémon can't use Gigaton Hammer."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Tinkatuff",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b2a-075",
+    "name": "Varoom",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "20",
+        "cost": [
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-076",
+    "name": "Revavroom",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Gas",
+        "damage": "50",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Varoom",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-077",
+    "name": "Orthworm",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Iron Supply",
+        "damage": "10",
+        "cost": [
+          "Metal"
+        ],
+        "effect": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-078",
+    "name": "Gholdengo ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spending Rush",
+        "damage": "",
+        "cost": [
+          "Metal"
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Gimmighoul",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b2a-079",
+    "name": "Lechonk",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "20",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-080",
+    "name": "Oinkologne",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leg Stomp",
+        "damage": "100",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Lechonk",
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-081",
+    "name": "Tandemaus",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 30,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Hit",
+        "damage": "30x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 30 damage for each heads."
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-082",
+    "name": "Maushold",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Gnawing",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tandemaus",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-083",
+    "name": "Squawkabilly",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "damage": "30+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-084",
+    "name": "Cyclizar",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Driving Buddy",
+        "damage": "40+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If you played a Supporter card from your hand during this turn, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-085",
+    "name": "Flamigo",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wing Attack",
+        "damage": "50",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b2a-086",
+    "name": "Electric Generator",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-087",
+    "name": "Big Air Balloon",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-088",
+    "name": "Team Star Grunt",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-089",
+    "name": "Iono",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-090",
+    "name": "Nemona",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-091",
+    "name": "Arven",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-092",
+    "name": "Penny",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-093",
+    "name": "Mesagoza",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Stadium",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b2a-094",
+    "name": "Fuecoco",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cheerful Singing",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Put 1 random Basic Pokémon from your deck onto your Bench."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2a-095",
+    "name": "Greavard",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Soul Shot",
+        "damage": "30",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Discard a card from your hand. If you can't, this attack does nothing."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2a-096",
+    "name": "Gimmighoul",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Continuous Coin Toss",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2a-097",
+    "name": "Paldean Wooper",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flop",
+        "damage": "40",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2a-098",
+    "name": "Orthworm",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Iron Supply",
+        "damage": "10",
+        "cost": [
+          "Metal"
+        ],
+        "effect": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2a-099",
+    "name": "Maushold",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Gnawing",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 3 coins. For each heads, discard a random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tandemaus",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b2a-100",
+    "name": "Meowscarada ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flower Trick",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+      },
+      {
+        "name": "Solar Beam",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-101",
+    "name": "Armarouge ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Armor Cannon",
+        "damage": "120",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Armor",
+        "effect": "This Pokémon takes −30 damage from attacks."
+      }
+    ],
+    "evolvesFrom": "Charcadet",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-102",
+    "name": "Chien-Pao ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Icicle",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Diving Icicles",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-103",
+    "name": "Bellibolt ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "High-Voltage Cannon",
+        "damage": "70+",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tadbulb",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-104",
+    "name": "Gholdengo ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spending Rush",
+        "damage": "",
+        "cost": [
+          "Metal"
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Gimmighoul",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-105",
+    "name": "Team Star Grunt",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-106",
+    "name": "Iono",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-107",
+    "name": "Nemona",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-108",
+    "name": "Arven",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-109",
+    "name": "Penny",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-110",
+    "name": "Meowscarada ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flower Trick",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+      },
+      {
+        "name": "Solar Beam",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-111",
+    "name": "Armarouge ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Armor Cannon",
+        "damage": "120",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Armor",
+        "effect": "This Pokémon takes −30 damage from attacks."
+      }
+    ],
+    "evolvesFrom": "Charcadet",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-112",
+    "name": "Chien-Pao ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Icicle",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      },
+      {
+        "name": "Diving Icicles",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "effect": "Discard all Water Energy from this Pokémon. This attack does 130 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-113",
+    "name": "Bellibolt ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "High-Voltage Cannon",
+        "damage": "70+",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tadbulb",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-114",
+    "name": "Gholdengo ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spending Rush",
+        "damage": "",
+        "cost": [
+          "Metal"
+        ],
+        "effect": "1 of your opponent's Pokémon is chosen at random for each Metal Energy attached to this Pokémon. For each time a Pokémon was chosen, do 40 damage to it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Gimmighoul",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b2a-115",
+    "name": "Arven",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "b2a-116",
+    "name": "Sprigatito",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leafage",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-117",
+    "name": "Floragato",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leaf Step",
+        "damage": "30",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Sprigatito",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-118",
+    "name": "Meowscarada",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fighting Claws",
+        "damage": "60+",
+        "cost": [
+          "Grass",
+          "Grass"
+        ],
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-119",
+    "name": "Pawmi",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Random Spark",
+        "damage": "",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "This attack does 10 damage to 1 of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-120",
+    "name": "Pawmo",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Head Bolt",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pawmi",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-121",
+    "name": "Pawmot",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thunder Blast",
+        "damage": "100",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "Discard a Lightning Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pawmo",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-122",
+    "name": "Gimmighoul",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Continuous Coin Toss",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-123",
+    "name": "Tinkatink",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Beat",
+        "damage": "30",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-124",
+    "name": "Tinkatuff",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Light Punch",
+        "damage": "50",
+        "cost": [
+          "Metal",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Tinkatink",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-125",
+    "name": "Gholdengo",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Scintillating Surfing",
+        "damage": "50x",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin for each Metal Energy attached to this Pokémon. This attack does 50 damage for each heads."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Gimmighoul",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b2a-126",
+    "name": "Entei ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blazing Beatdown",
+        "damage": "60+",
+        "cost": [
+          "Fire",
+          "Fire"
+        ],
+        "effect": "If this Pokémon has at least 2 extra Fire Energy attached, this attack does 60 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2a-127",
+    "name": "Suicune ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crystal Waltz",
+        "damage": "20x",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2a-128",
+    "name": "Raikou ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Voltaic Bullet",
+        "damage": "60",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Legendary Pulse",
+        "effect": "At the end of your turn, if this Pokémon is in the Active Spot, draw a card."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2a-129",
+    "name": "Tinkaton ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 170,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Terrific Thumping",
+        "damage": "80+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 80 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Tinkatuff",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b2a-130",
+    "name": "Baxcalibur",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Buster Tail",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Ice Maker",
+        "effect": "Once during your turn, you may take a Water Energy from your Energy Zone and attach it to the Water Pokémon in the Active Spot."
+      }
+    ],
+    "evolvesFrom": "Arctibax",
+    "rarity": "Gold Crown"
+  },
+  {
+    "id": "b2a-131",
+    "name": "Electric Generator",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Paldean Wonders  (B2a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  }
+]

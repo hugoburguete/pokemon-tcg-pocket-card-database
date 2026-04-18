@@ -28,15 +28,19 @@ type Card = {
 
 export declare const en: {
   geneticApex: Card[];
-  promo: Card[];
-};
+  mythicalIsland: Card[];
+  spaceTimeSmackdown: Card[];
+  triumphantLight: Card[];
+  shiningRevelry: Card[];
+  celestialGuardians: Card[];
+  extradimensionalCrisis: Card[];
+  eeveeGrove: Card[];
+  wisdomOfSeaAndSky: Card[];
+  secludedSprings: Card[];
+  deluxePackEx: Card[];
+  megaRising: Card[];
+  crimsonBlaze: Card[];
 
-export declare const fr: {
-  geneticApex: Card[];
-  promo: Card[];
-};
-
-export declare const cn: {
-  geneticApex: Card[];
-  promo: Card[];
+  promoA: Card[];
+  promoB: Card[];
 };

@@ -1,0 +1,2659 @@
+[
+  {
+    "id": "b1a-001",
+    "name": "Bulbasaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-002",
+    "name": "Ivysaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Synthesis",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Take 2 Grass Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Bulbasaur",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-003",
+    "name": "Venusaur",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poisonous Whip",
+        "damage": "90",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-004",
+    "name": "Mega Venusaur ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 240,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Critical Bloom",
+        "damage": "120",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-005",
+    "name": "Spinarak",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sting",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-006",
+    "name": "Ariados",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pierce",
+        "damage": "30",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Trap Territory",
+        "effect": "Your opponent's Active Pokémon's Retreat Cost is 1 more."
+      }
+    ],
+    "evolvesFrom": "Spinarak",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-007",
+    "name": "Sunkern",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Seed Bomb",
+        "damage": "20",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-008",
+    "name": "Sunflora",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Quick-Grow Beam",
+        "damage": "30+",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Sunkern",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-009",
+    "name": "Burmy",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hang Down",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-010",
+    "name": "Mothim",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cutting Wind",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Burmy",
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-011",
+    "name": "Charmander",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "40",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-012",
+    "name": "Charmeleon",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Steady Firebreathing",
+        "damage": "50",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Ignition",
+        "effect": "Once during your turn, when you play this Pokémon from your hand to evolve 1 of your Pokémon, you may take a Fire Energy from your Energy Zone and attach it to your Active Fire Pokémon."
+      }
+    ],
+    "evolvesFrom": "Charmander",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-013",
+    "name": "Charizard",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Inferno Onrush",
+        "damage": "150",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-014",
+    "name": "Mega Charizard Y ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crimson Dive",
+        "damage": "250",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 50 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-015",
+    "name": "Houndour",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roar",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-016",
+    "name": "Houndoom",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sharp Fang",
+        "damage": "50",
+        "cost": [
+          "Fire"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Houndour",
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-017",
+    "name": "Squirtle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tail Whap",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-018",
+    "name": "Wartortle",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [
+      {
+        "name": "Shell Shield",
+        "effect": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks."
+      }
+    ],
+    "evolvesFrom": "Squirtle",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-019",
+    "name": "Blastoise",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Splash",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has at least 2 extra Water Energy attached, this attack also does 50 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-020",
+    "name": "Mega Blastoise ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Bombardment",
+        "damage": "130",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-021",
+    "name": "Basculin",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surprise Strike",
+        "damage": "40+",
+        "cost": [
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon moved from your Bench to the Active Spot this turn, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-022",
+    "name": "Clauncher",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-023",
+    "name": "Clawitzer",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aqua Shower",
+        "damage": "",
+        "cost": [
+          "Water"
+        ],
+        "effect": "This attack does 20 damage to each of your opponent's Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Clauncher",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-024",
+    "name": "Magnemite",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Electro Ball",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-025",
+    "name": "Magneton",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spark",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Magnemite",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-026",
+    "name": "Magnezone",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mirror Shot",
+        "damage": "90",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, if the Defending Pokémon tries to use an attack, your opponent flips a coin. If tails, that attack doesn't happen."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Magneton",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-027",
+    "name": "Emolga",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mach Bolt",
+        "damage": "50",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-028",
+    "name": "Helioptile",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thunder Shock",
+        "damage": "10",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-029",
+    "name": "Heliolisk",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thunderbolt",
+        "damage": "120",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "Discard all Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Helioptile",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-030",
+    "name": "Misdreavus",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lead",
+        "damage": "",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Put a random Supporter card from your deck into your hand."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-031",
+    "name": "Mismagius",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stored Power",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Move all Psychic Energy from this Pokémon to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Misdreavus",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-032",
+    "name": "Solosis",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rollout",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-033",
+    "name": "Duosion",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psyshot",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Solosis",
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-034",
+    "name": "Reuniclus",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psypunch",
+        "damage": "90",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Infinite Increase",
+        "effect": "This Pokémon gets +30 HP for each Psychic Energy attached to it."
+      }
+    ],
+    "evolvesFrom": "Duosion",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-035",
+    "name": "Spritzee",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweet Scent",
+        "damage": "",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Heal 20 damage from 1 of your Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-036",
+    "name": "Aromatisse",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Perfume Blast",
+        "damage": "60",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, attacks used by the Defending Pokémon cost 1 Colorless more."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Spritzee",
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-037",
+    "name": "Xerneas",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Geoburst",
+        "damage": "120",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "This attack's damage is reduced by the amount of damage this Pokémon has on it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-038",
+    "name": "Onix",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dig",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-039",
+    "name": "Makuhita",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Strength",
+        "damage": "40",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-040",
+    "name": "Hariyama",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Megaton Slap Push",
+        "damage": "90",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Makuhita",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-041",
+    "name": "Nosepass",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rising Lunge",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-042",
+    "name": "Mega Lopunny ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 190,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rapid Smashers",
+        "damage": "90x",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-043",
+    "name": "Mienfoo",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Chop",
+        "damage": "30",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-044",
+    "name": "Mienshao",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Low Sweep",
+        "damage": "50",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Mienfoo",
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-045",
+    "name": "Grimer",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sludge Bomb",
+        "damage": "40",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-046",
+    "name": "Muk",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gunk Shot",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Grimer",
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-047",
+    "name": "Purrloin",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Trip Over",
+        "damage": "10+",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-048",
+    "name": "Liepard",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Snatch and Flee",
+        "damage": "60",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Your opponent reveals a random card from their hand and shuffles it into their deck. Shuffle this Pokémon into your deck."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Purrloin",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-049",
+    "name": "Trubbish",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Drool",
+        "damage": "30",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-050",
+    "name": "Garbodor",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Acid Spray",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, discard a random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Trubbish",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-051",
+    "name": "Steelix",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 150,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Metal Defender",
+        "damage": "100",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, this Pokémon has no Weakness."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-052",
+    "name": "Mega Steelix ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 220,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Adamantine Rolling",
+        "damage": "120",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b1a-053",
+    "name": "Probopass",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Metallic Turbo",
+        "damage": "40",
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "effect": "Take 2 Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Nosepass",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-054",
+    "name": "Genesect",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Metal Blast",
+        "damage": "10+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Metal Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-055",
+    "name": "Ditto",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Copy a Friend",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Choose 1 of your Benched Pokémon's attacks, except any Pokémon ex, and use it as this attack. If this Pokémon doesn't have the necessary Energy to use that attack, this attack does nothing."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-056",
+    "name": "Porygon",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Stiffen",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-057",
+    "name": "Porygon2",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Speed Attack",
+        "damage": "40",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Porygon",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-058",
+    "name": "Porygon-Z",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cyberjack",
+        "damage": "20+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Trainer card in your opponent's deck."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Porygon2",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b1a-059",
+    "name": "Starly",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Call for Family",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Put 1 random Starly from your deck onto your Bench."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-060",
+    "name": "Staravia",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "damage": "30+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Starly",
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-061",
+    "name": "Staraptor",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hurricane Wing",
+        "damage": "50x",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 4 coins. This attack does 50 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Staravia",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-062",
+    "name": "Buneary",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Kick",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b1a-063",
+    "name": "Lopunny",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Kick",
+        "damage": "50x",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 50 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-064",
+    "name": "Bouffalant",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Revenge",
+        "damage": "40+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-065",
+    "name": "Furfrou",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "30",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Fur Coat",
+        "effect": "This Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-066",
+    "name": "Clemont's Backpack",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-067",
+    "name": "Quick-Grow Extract",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-068",
+    "name": "Clemont",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-069",
+    "name": "Serena",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b1a-070",
+    "name": "Ariados",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pierce",
+        "damage": "30",
+        "cost": [
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Trap Territory",
+        "effect": "Your opponent's Active Pokémon's Retreat Cost is 1 more."
+      }
+    ],
+    "evolvesFrom": "Spinarak",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b1a-071",
+    "name": "Sunflora",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Quick-Grow Beam",
+        "damage": "30+",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "If Quick-Grow Extract is in your discard pile, this attack does 30 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Sunkern",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b1a-072",
+    "name": "Reuniclus",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psypunch",
+        "damage": "90",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Infinite Increase",
+        "effect": "This Pokémon gets +30 HP for each Psychic Energy attached to it."
+      }
+    ],
+    "evolvesFrom": "Duosion",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b1a-073",
+    "name": "Xerneas",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Geoburst",
+        "damage": "120",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless"
+        ],
+        "effect": "This attack's damage is reduced by the amount of damage this Pokémon has on it."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b1a-074",
+    "name": "Trubbish",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Drool",
+        "damage": "30",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b1a-075",
+    "name": "Buneary",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Kick",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b1a-076",
+    "name": "Mega Venusaur ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 240,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Critical Bloom",
+        "damage": "120",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-077",
+    "name": "Mega Charizard Y ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crimson Dive",
+        "damage": "250",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 50 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-078",
+    "name": "Mega Blastoise ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Bombardment",
+        "damage": "130",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-079",
+    "name": "Mega Lopunny ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 190,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rapid Smashers",
+        "damage": "90x",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-080",
+    "name": "Mega Steelix ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 220,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Adamantine Rolling",
+        "damage": "120",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-081",
+    "name": "Clemont",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-082",
+    "name": "Serena",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-083",
+    "name": "Mega Venusaur ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 240,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Critical Bloom",
+        "damage": "120",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned and Asleep."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Ivysaur",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-084",
+    "name": "Mega Blastoise ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 230,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Triple Bombardment",
+        "damage": "130",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has at least 3 extra Water Energy attached, this attack also does 50 damage to 2 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Wartortle",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-085",
+    "name": "Mega Lopunny ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 190,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rapid Smashers",
+        "damage": "90x",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Flip 2 coins. This attack does 90 damage for each heads. Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": "Buneary",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-086",
+    "name": "Mega Steelix ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 220,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Adamantine Rolling",
+        "damage": "120",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Onix",
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b1a-087",
+    "name": "Mega Charizard Y ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 220,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Crimson Dive",
+        "damage": "250",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 50 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "Immersive"
+  },
+  {
+    "id": "b1a-088",
+    "name": "Oddish",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Poison Powder",
+        "damage": "10",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-089",
+    "name": "Gloom",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Leaf Step",
+        "damage": "40",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Oddish",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-090",
+    "name": "Vileplume",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Soothing Scent",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Gloom",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-091",
+    "name": "Charizard",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Inferno Onrush",
+        "damage": "150",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 30 damage to itself."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": "Charmeleon",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-092",
+    "name": "Shellder",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tackle",
+        "damage": "10",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-093",
+    "name": "Cloyster",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Guard Press",
+        "damage": "50",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Shellder",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-094",
+    "name": "Sandshrew",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sand Spray",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-095",
+    "name": "Sandslash",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cut",
+        "damage": "50",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Sandshrew",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-096",
+    "name": "Type: Null",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Quick Blow",
+        "damage": "20+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-097",
+    "name": "Silvally",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Brave Buddies",
+        "damage": "50+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If you played a Supporter card from your hand during this turn, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Type: Null",
+    "rarity": "One shiny star"
+  },
+  {
+    "id": "b1a-098",
+    "name": "Buzzwole ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      },
+      {
+        "name": "Big Beat",
+        "damage": "120",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "During your next turn, this Pokémon can't use Big Beat."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b1a-099",
+    "name": "Lunala ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lunar Blast",
+        "damage": "100",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [
+      {
+        "name": "Psychic Connect",
+        "effect": "Once during your turn, you may move all Psychic Energy from 1 of your Benched Psychic Pokémon to your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b1a-100",
+    "name": "Guzzlord ex",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 170,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Grindcore",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. For each heads, discard a random Energy from your opponent's Active Pokémon."
+      },
+      {
+        "name": "Tyrannical Hole",
+        "damage": "120",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b1a-101",
+    "name": "Solgaleo ex",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 180,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sol Breaker",
+        "damage": "120",
+        "cost": [
+          "Metal",
+          "Metal"
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Rising Road",
+        "effect": "Once during your turn, if this Pokémon is on your Bench, you may switch it with your Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Cosmoem",
+    "rarity": "Two shiny stars"
+  },
+  {
+    "id": "b1a-102",
+    "name": "Aegislash",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slicing Blade",
+        "damage": "70",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [
+      {
+        "name": "Cursed Metal",
+        "effect": "Attacks used by your Psychic Pokémon and Metal Pokémon do +30 damage to your opponent's Active Pokémon."
+      }
+    ],
+    "evolvesFrom": "Doublade",
+    "rarity": "Gold Crown"
+  },
+  {
+    "id": "b1a-103",
+    "name": "Quick-Grow Extract",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Item",
+    "health": null,
+    "set": "Crimson Blaze  (B1a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  }
+]
