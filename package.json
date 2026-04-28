@@ -7,5 +7,9 @@
     "url": "https://github.com/hugoburguete/pokemon-tcg-pocket-card-database"
   },
   "author": "Hugo Burguete",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "node-fetch": "^3.3.2"
+  }
 }
