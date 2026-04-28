@@ -16,6 +16,7 @@ const crimsonBlaze = require('./b1a-crimson-blaze.json');
 const fantasticalParade = require('./b2-fantastical-parade.json');
 const paldeanWonders = require('./b2a-paldean-wonders.json');
 const megaShine = require('./b2b-mega-shine.json');
+const pulsingAura = require('./b3-pulsing-aura.json');
 
 module.exports = {
   promoA,
@@ -35,5 +36,6 @@ module.exports = {
   crimsonBlaze,
   fantasticalParade,
   paldeanWonders,
-  megaShine
+  megaShine,
+  pulsingAura,
 };
