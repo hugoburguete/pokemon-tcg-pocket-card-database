@@ -1,0 +1,2805 @@
+[
+  {
+    "id": "b3a-001",
+    "name": "Surskit",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-002",
+    "name": "Masquerain",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Air Slash",
+        "damage": "70",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard a random Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Surskit",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-003",
+    "name": "Brute Bonnet",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spirited Smack",
+        "damage": "90",
+        "cost": [
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-004",
+    "name": "Slither Wing",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wildly Writhe",
+        "damage": "120",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 60 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-005",
+    "name": "Iron Moth",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Thermal Gust",
+        "damage": "10+",
+        "cost": [
+          "Fire",
+          "Colorless"
+        ],
+        "effect": "Flip 3 coins. If 1 of them is heads, this attack does 20 more damage. If 2 of them are heads, this attack does 50 more damage. If all of them are heads, this attack does 120 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-006",
+    "name": "Psyduck",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ram",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-007",
+    "name": "Golduck",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psychic",
+        "damage": "20+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Psyduck",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-008",
+    "name": "Vaporeon",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Impound",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Water"
+        ],
+        "effect": "During your opponent's next turn, the Defending Pokémon can't retreat."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-009",
+    "name": "Buizel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Surf",
+        "damage": "40",
+        "cost": [
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-010",
+    "name": "Floatzel",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Waterfall",
+        "damage": "90",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Buizel",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-011",
+    "name": "Snom",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-012",
+    "name": "Frosmoth",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Aurora Beam",
+        "damage": "60",
+        "cost": [
+          "Water",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Snom",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-013",
+    "name": "Iron Bundle ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cold Start",
+        "damage": "60+",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage, and your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b3a-014",
+    "name": "Pawmi",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Bite",
+        "damage": "30",
+        "cost": [
+          "Lightning"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-015",
+    "name": "Pawmo",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spark",
+        "damage": "20",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "This attack also does 10 damage to 1 of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pawmi",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-016",
+    "name": "Pawmot",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Volt Wave",
+        "damage": "60",
+        "cost": [
+          "Lightning"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Pawmo",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-017",
+    "name": "Iron Hands",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Successive Slapping",
+        "damage": "70x",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 70 damage for each heads."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-018",
+    "name": "Iron Thorns",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Binary Thunder",
+        "damage": "40+",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "If your opponent's Active Pokémon is a Pokémon ex, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-019",
+    "name": "Miraidon ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hadron Ray",
+        "damage": "20+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Lightning Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Legendary Drive",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b3a-020",
+    "name": "Espeon",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hypnoblast",
+        "damage": "40",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-021",
+    "name": "Flittle",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psy Bolt",
+        "damage": "10",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-022",
+    "name": "Espathra",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Lumina Crash",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "During your next turn, the Defending Pokémon takes +50 damage from attacks."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Flittle",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-023",
+    "name": "Greavard",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sharp Fang",
+        "damage": "20",
+        "cost": [
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-024",
+    "name": "Houndstone",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spooky Shot",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Greavard",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-025",
+    "name": "Scream Tail",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Shooing Shout",
+        "damage": "",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Flip 2 coins. If both of them are heads, discard your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-026",
+    "name": "Flutter Mane ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spellbinding Start",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "If this is the first time this Pokémon has used an attack after coming into play, during your opponent's next turn, they can't use any Trainer cards from their hand."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b3a-027",
+    "name": "Iron Valiant",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slicing Blade",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Future System",
+        "effect": "Attacks used by your Future Pokémon cost 1 less Colorless Energy."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-028",
+    "name": "Iron Leaves",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Avenging Edge",
+        "damage": "50+",
+        "cost": [
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If any of your Pokémon were Knocked Out by damage from an attack during your opponent's last turn, this attack does 50 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-029",
+    "name": "Iron Boulder",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Modular Axe",
+        "damage": "80+",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-030",
+    "name": "Iron Crown",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Enumerating Blade",
+        "damage": "10+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-031",
+    "name": "Nacli",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbutt",
+        "damage": "20",
+        "cost": [
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-032",
+    "name": "Naclstack",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 110,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rock Throw",
+        "damage": "50",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Nacli",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-033",
+    "name": "Garganacl",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 150,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Land Crush",
+        "damage": "90",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Blessed Salt",
+        "effect": "During Pokémon Checkup, heal 10 damage from each of your Pokémon."
+      }
+    ],
+    "evolvesFrom": "Naclstack",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-034",
+    "name": "Great Tusk",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Shaking Stomp",
+        "damage": "80",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This attack also does 20 damage to each of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Psychic",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-035",
+    "name": "Sandy Shocks",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Pull In and Pound",
+        "damage": "",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "effect": "Switch in 1 of your opponent's Benched Pokémon to the Active Spot. If you do, this attack does 50 damage to the new Active Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-036",
+    "name": "Koraidon ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "World Wrecker",
+        "damage": "110",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Discard the top card of your deck."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Legendary Drive",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b3a-037",
+    "name": "Umbreon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Confuse Ray",
+        "damage": "50",
+        "cost": [
+          "Darkness",
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Eevee",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-038",
+    "name": "Sneasel",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Quick Attack",
+        "damage": "10+",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Flip a coin. If heads, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-039",
+    "name": "Weavile",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Raid",
+        "damage": "40+",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "If this Pokémon evolved from Sneasel during this turn, this attack does 20 more damage."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Sneasel",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-040",
+    "name": "Sableye",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Jeweled Gift",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Take a random Energy from among Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, and Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-041",
+    "name": "Pawniard",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slash",
+        "damage": "30",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-042",
+    "name": "Bisharp",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Dark Cutter",
+        "damage": "50",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Pawniard",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-043",
+    "name": "Kingambit",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Overlord’s Blade",
+        "damage": "60+",
+        "cost": [
+          "Darkness",
+          "Darkness"
+        ],
+        "effect": "This attack does 40 more damage for each time your Pokémon have been Knocked Out during this game."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Bisharp",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-044",
+    "name": "Glimmet",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hang Down",
+        "damage": "20",
+        "cost": [
+          "Darkness"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-045",
+    "name": "Glimmora",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Venomous Hit",
+        "damage": "30",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Shattering Crystal",
+        "effect": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't get any points for it."
+      }
+    ],
+    "evolvesFrom": "Glimmet",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-046",
+    "name": "Iron Jugulis",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Blasting Wind",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Automated Combat",
+        "effect": "If this Pokémon is in the Active Spot and is damaged by an attack from your opponent's Pokémon, do 20 damage to the Attacking Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-047",
+    "name": "Roaring Moon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wind of Darkness",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Ancient Roar",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-048",
+    "name": "Corviknight",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 140,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Metal Claw",
+        "damage": "90",
+        "cost": [
+          "Metal",
+          "Metal"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Corvisquire",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-049",
+    "name": "Cufant",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Strength",
+        "damage": "60",
+        "cost": [
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-050",
+    "name": "Copperajah",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 170,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Iron Swing",
+        "damage": "100x",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 100 damage for each heads."
+      }
+    ],
+    "retreatCost": "4",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Cufant",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-051",
+    "name": "Iron Treads",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Roll and Release",
+        "damage": "50+",
+        "cost": [
+          "Metal",
+          "Metal",
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 30 more damage for each heads."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-052",
+    "name": "Altaria",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fly",
+        "damage": "50",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": "Swablu",
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-053",
+    "name": "Walking Wake",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sweeping Billow",
+        "damage": "60",
+        "cost": [
+          "Fire",
+          "Water"
+        ],
+        "effect": "Discard an Energy from this Pokémon, and this attack also does 20 damage to each of your opponent's Benched Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-054",
+    "name": "Gouging Fire",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 110,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Scorching Interruption",
+        "damage": "100",
+        "cost": [
+          "Fire",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "Discard 2 Energy from this Pokémon. During your opponent's next turn, this Pokémon takes −30 damage from attacks."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-055",
+    "name": "Raging Bolt",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Baneful Boom",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-056",
+    "name": "Eevee",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Tail Whip",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-057",
+    "name": "Girafarig",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Headbang",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-058",
+    "name": "Farigiraf",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Double Hit",
+        "damage": "60x",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 60 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Girafarig",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-059",
+    "name": "Dunsparce",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Rollout",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-060",
+    "name": "Dudunsparce",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sudden Drilling",
+        "damage": "60",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon evolved from Dunsparce during this turn, discard 2 random Energy from your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Dunsparce",
+    "rarity": "Rare"
+  },
+  {
+    "id": "b3a-061",
+    "name": "Swablu",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Fury Attack",
+        "damage": "10x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 3 coins. This attack does 10 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-062",
+    "name": "Rufflet",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Peck",
+        "damage": "30",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-063",
+    "name": "Braviary",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 120,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Brave Bird",
+        "damage": "100",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Rufflet",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-064",
+    "name": "Hawlucha",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Acrobatics",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 more damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-065",
+    "name": "Rookidee",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Claw",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin. If tails, this attack does nothing."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-066",
+    "name": "Corvisquire",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flap",
+        "damage": "40",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Rookidee",
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-067",
+    "name": "Flamigo",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Nosedive",
+        "damage": "80",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This Pokémon also does 20 damage to itself."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Common"
+  },
+  {
+    "id": "b3a-068",
+    "name": "Terapagos ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Prism Impact",
+        "damage": "80+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each type of Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Rare EX"
+  },
+  {
+    "id": "b3a-069",
+    "name": "Ancient Booster Energy Capsule",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-070",
+    "name": "Future Booster Energy Capsule",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Tool",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-071",
+    "name": "Juliana",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-072",
+    "name": "Professor Sada",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-073",
+    "name": "Professor Turo",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-074",
+    "name": "Area Zero",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Stadium",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "b3a-075",
+    "name": "Snom",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Gnaw",
+        "damage": "20",
+        "cost": [
+          "Water"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b3a-076",
+    "name": "Flittle",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 40,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psy Bolt",
+        "damage": "10",
+        "cost": [
+          "Psychic"
+        ],
+        "effect": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b3a-077",
+    "name": "Iron Boulder",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 120,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Modular Axe",
+        "damage": "80+",
+        "cost": [
+          "Psychic",
+          "Psychic",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "If this Pokémon has a Pokémon Tool attached, this attack does 40 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b3a-078",
+    "name": "Glimmora",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 90,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Venomous Hit",
+        "damage": "30",
+        "cost": [
+          "Darkness"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Poisoned."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Shattering Crystal",
+        "effect": "When this Pokémon is Knocked Out, flip a coin. If heads, your opponent can't get any points for it."
+      }
+    ],
+    "evolvesFrom": "Glimmet",
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b3a-079",
+    "name": "Raging Bolt",
+    "element": "Dragon",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Baneful Boom",
+        "damage": "",
+        "cost": [
+          "Water",
+          "Water",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "effect": "Discard all Energy from this Pokémon. Knock Out your opponent's Active Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b3a-080",
+    "name": "Hawlucha",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 80,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Acrobatics",
+        "damage": "10+",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip 2 coins. This attack does 20 more damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art"
+  },
+  {
+    "id": "b3a-081",
+    "name": "Iron Bundle ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cold Start",
+        "damage": "60+",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage, and your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-082",
+    "name": "Miraidon ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hadron Ray",
+        "damage": "20+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Lightning Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Legendary Drive",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-083",
+    "name": "Flutter Mane ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spellbinding Start",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "If this is the first time this Pokémon has used an attack after coming into play, during your opponent's next turn, they can't use any Trainer cards from their hand."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-084",
+    "name": "Koraidon ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "World Wrecker",
+        "damage": "110",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Discard the top card of your deck."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Legendary Drive",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-085",
+    "name": "Terapagos ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Prism Impact",
+        "damage": "80+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each type of Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-086",
+    "name": "Juliana",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-087",
+    "name": "Professor Sada",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-088",
+    "name": "Professor Turo",
+    "element": null,
+    "type": "Trainer",
+    "subtype": "Supporter",
+    "health": null,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [],
+    "retreatCost": null,
+    "weakness": null,
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-089",
+    "name": "Iron Bundle ex",
+    "element": "Water",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Cold Start",
+        "damage": "60+",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "effect": "If this is the first time this Pokémon has used an attack after coming into play, this attack does 20 more damage, and your opponent's Active Pokémon is now Paralyzed."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-090",
+    "name": "Miraidon ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 140,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Hadron Ray",
+        "damage": "20+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each Lightning Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [
+      {
+        "name": "Legendary Drive",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-091",
+    "name": "Flutter Mane ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 130,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Spellbinding Start",
+        "damage": "70",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "If this is the first time this Pokémon has used an attack after coming into play, during your opponent's next turn, they can't use any Trainer cards from their hand."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-092",
+    "name": "Koraidon ex",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "World Wrecker",
+        "damage": "110",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "Discard the top card of your deck."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Psychic",
+    "abilities": [
+      {
+        "name": "Legendary Drive",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch it with your Active Pokémon. If you do, move all of your Energy in play to this Pokémon."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Full Art EX/Support"
+  },
+  {
+    "id": "b3a-093",
+    "name": "Terapagos ex",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 150,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Prism Impact",
+        "damage": "80+",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each type of Energy attached to this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "Immersive"
+  },
+  {
+    "id": "b3a-094",
+    "name": "Rellor",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Ball Roll",
+        "damage": "20x",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Flip a coin until you get tails. This attack does 20 damage for each heads."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-095",
+    "name": "Charcadet",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Punch",
+        "damage": "10",
+        "cost": [
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Water",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-096",
+    "name": "Tadbulb",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Charge",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-097",
+    "name": "Rabsca",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 70,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Psybeam",
+        "damage": "80",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Darkness",
+    "abilities": [],
+    "evolvesFrom": "Rellor",
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-098",
+    "name": "Diglett",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 60,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slight Intrusion",
+        "damage": "30",
+        "cost": [
+          "Fighting"
+        ],
+        "effect": "This Pokémon also does 10 damage to itself."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-099",
+    "name": "Dugtrio",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 80,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mud Bomb",
+        "damage": "60",
+        "cost": [
+          "Fighting",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "0",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": "Diglett",
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-100",
+    "name": "Klawf",
+    "element": "Fighting",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Adrenaline Hammer",
+        "damage": "70",
+        "cost": [
+          "Fighting",
+          "Fighting"
+        ],
+        "effect": "This Pokémon is now Confused."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Grass",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-101",
+    "name": "Orthworm",
+    "element": "Metal",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Iron Supply",
+        "damage": "10",
+        "cost": [
+          "Metal"
+        ],
+        "effect": "Take a Metal Energy from your Energy Zone and attach it to 1 of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-102",
+    "name": "Swablu",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 50,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Sing",
+        "damage": "",
+        "cost": [
+          "Colorless"
+        ],
+        "effect": "Your opponent's Active Pokémon is now Asleep."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": null,
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-103",
+    "name": "Altaria",
+    "element": "Colorless",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Do the Wave",
+        "damage": "20+",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "This attack does 20 more damage for each of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Lightning",
+    "abilities": [],
+    "evolvesFrom": "Swablu",
+    "rarity": "One Shiny Star"
+  },
+  {
+    "id": "b3a-104",
+    "name": "Meowscarada ex",
+    "element": "Grass",
+    "type": "Pokemon",
+    "subtype": "Stage 2",
+    "health": 160,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Flower Trick",
+        "damage": "",
+        "cost": [
+          "Grass"
+        ],
+        "effect": "Choose a spot from among your opponent's Active Spot and Bench. At the end of your opponent's next turn, do 70 damage to the Pokémon in the spot you chose."
+      },
+      {
+        "name": "Solar Beam",
+        "damage": "80",
+        "cost": [
+          "Grass",
+          "Grass"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Fire",
+    "abilities": [],
+    "evolvesFrom": "Floragato",
+    "rarity": "Two Shiny Star"
+  },
+  {
+    "id": "b3a-105",
+    "name": "Armarouge ex",
+    "element": "Fire",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 140,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Armor Cannon",
+        "damage": "120",
+        "cost": [
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "effect": "Discard a Fire Energy from this Pokémon."
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Water",
+    "abilities": [
+      {
+        "name": "Armor",
+        "effect": "This Pokémon takes −30 damage from attacks."
+      }
+    ],
+    "evolvesFrom": "Charcadet",
+    "rarity": "Two Shiny Star"
+  },
+  {
+    "id": "b3a-106",
+    "name": "Bellibolt ex",
+    "element": "Lightning",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 160,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "High-Voltage Cannon",
+        "damage": "70+",
+        "cost": [
+          "Lightning",
+          "Lightning"
+        ],
+        "effect": "If you have 4 or more Lightning Energy in play, this attack does 70 more damage."
+      }
+    ],
+    "retreatCost": "3",
+    "weakness": "Fighting",
+    "abilities": [],
+    "evolvesFrom": "Tadbulb",
+    "rarity": "Two Shiny Star"
+  },
+  {
+    "id": "b3a-107",
+    "name": "Mega Altaria ex",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Stage 1",
+    "health": 190,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Mega Harmony",
+        "damage": "40+",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "effect": "This attack does 30 more damage for each of your Benched Pokémon."
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Metal",
+    "abilities": [],
+    "evolvesFrom": "Swablu",
+    "rarity": "Two Shiny Star"
+  },
+  {
+    "id": "b3a-108",
+    "name": "Iron Valiant",
+    "element": "Psychic",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Slicing Blade",
+        "damage": "50",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ]
+      }
+    ],
+    "retreatCost": "2",
+    "weakness": "Metal",
+    "abilities": [
+      {
+        "name": "Future System",
+        "effect": "Attacks used by your Future Pokémon cost 1 less Colorless Energy."
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  },
+  {
+    "id": "b3a-109",
+    "name": "Roaring Moon",
+    "element": "Darkness",
+    "type": "Pokemon",
+    "subtype": "Basic",
+    "health": 100,
+    "set": "Paradox Drive  (B3a)",
+    "pack": null,
+    "attacks": [
+      {
+        "name": "Wind of Darkness",
+        "damage": "70",
+        "cost": [
+          "Darkness",
+          "Darkness",
+          "Colorless"
+        ]
+      }
+    ],
+    "retreatCost": "1",
+    "weakness": "Grass",
+    "abilities": [
+      {
+        "name": "Ancient Roar",
+        "effect": "Once during your turn, when you put this Pokémon from your hand onto your Bench, you may switch out your opponent's Active Pokémon to the Bench. (Your opponent chooses the new Active Pokémon.)"
+      }
+    ],
+    "evolvesFrom": null,
+    "rarity": "Gold Crown"
+  }
+]
