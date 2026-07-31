@@ -421,7 +421,7 @@
     "attacks": [
       {
         "name": "Ice Blade",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water",
           "Water"
@@ -891,7 +891,7 @@
     "attacks": [
       {
         "name": "Try to Imitate",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic",
           "Psychic"
@@ -1145,7 +1145,7 @@
     "attacks": [
       {
         "name": "Playful Knockdown",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
@@ -1399,7 +1399,7 @@
     "attacks": [
       {
         "name": "Collect",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -1834,7 +1834,7 @@
     "attacks": [
       {
         "name": "Ice Blade",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water",
           "Water"
@@ -1961,7 +1961,7 @@
     "attacks": [
       {
         "name": "Collect",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -2491,7 +2491,7 @@
     "attacks": [
       {
         "name": "Teleport",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -2645,7 +2645,7 @@
     "attacks": [
       {
         "name": "Inferno Dance",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fire"
         ],

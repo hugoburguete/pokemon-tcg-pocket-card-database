@@ -782,7 +782,7 @@
     "attacks": [
       {
         "name": "Spurt Fire",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fire",
           "Colorless"
@@ -808,7 +808,7 @@
     "attacks": [
       {
         "name": "Toasty Toss",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -1376,7 +1376,7 @@
     "attacks": [
       {
         "name": "Find a Friend",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -1688,7 +1688,7 @@
     "attacks": [
       {
         "name": "Crackly Toss",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -1788,7 +1788,7 @@
     "attacks": [
       {
         "name": "Zappy Shot",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -1864,7 +1864,7 @@
     "attacks": [
       {
         "name": "Rest",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -1966,7 +1966,7 @@
     "attacks": [
       {
         "name": "Twinkly Call",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -1991,7 +1991,7 @@
     "attacks": [
       {
         "name": "Charm",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -2096,7 +2096,7 @@
     "attacks": [
       {
         "name": "Life Drain",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic",
           "Psychic"
@@ -2898,7 +2898,7 @@
     "attacks": [
       {
         "name": "Astonish",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
@@ -3080,7 +3080,7 @@
     "attacks": [
       {
         "name": "Leap Over",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
@@ -3359,7 +3359,7 @@
     "attacks": [
       {
         "name": "Scrunch",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -3437,7 +3437,7 @@
     "attacks": [
       {
         "name": "Find a Friend",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -3648,7 +3648,7 @@
     "attacks": [
       {
         "name": "Imitate",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -3722,7 +3722,7 @@
     "attacks": [
       {
         "name": "Honey Snack",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -4156,7 +4156,7 @@
     "attacks": [
       {
         "name": "Toasty Toss",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -4281,7 +4281,7 @@
     "attacks": [
       {
         "name": "Crackly Toss",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -4332,7 +4332,7 @@
     "attacks": [
       {
         "name": "Charm",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -4357,7 +4357,7 @@
     "attacks": [
       {
         "name": "Life Drain",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic",
           "Psychic"
@@ -4457,7 +4457,7 @@
     "attacks": [
       {
         "name": "Astonish",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
@@ -5367,7 +5367,7 @@
     "attacks": [
       {
         "name": "Leap Out",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
         ],
@@ -5601,7 +5601,7 @@
     "attacks": [
       {
         "name": "Call for Family",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
@@ -5803,7 +5803,7 @@
     "attacks": [
       {
         "name": "Find a Friend",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],

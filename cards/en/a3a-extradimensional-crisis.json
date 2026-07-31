@@ -86,7 +86,7 @@
       {
         "name": "Skill Dive",
         "effect": "This attack does 20 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Grass"
         ]
@@ -111,7 +111,7 @@
       {
         "name": "Sniping Arrow",
         "effect": "This attack does 70 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Grass",
           "Grass"
@@ -958,7 +958,7 @@
       {
         "name": "Meddle",
         "effect": "Discard a random Pokémon Tool card from your opponent's hand.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ]
@@ -1517,7 +1517,7 @@
       {
         "name": "Superpowered Hug",
         "effect": "Flip 2 coins. If both of them are heads, your opponent's Active Pokémon is Knocked Out.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless",
@@ -1842,7 +1842,7 @@
       {
         "name": "Meddle",
         "effect": "Discard a random Pokémon Tool card from your opponent's hand.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ]
@@ -2523,7 +2523,7 @@
       {
         "name": "Primal Wingbeat",
         "effect": "Flip a coin. If heads, your opponent shuffles their Active Pokémon back into their deck.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"

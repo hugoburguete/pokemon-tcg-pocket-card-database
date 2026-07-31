@@ -318,7 +318,7 @@
     "attacks": [
       {
         "name": "Call for Family",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ],
@@ -526,7 +526,7 @@
     "attacks": [
       {
         "name": "Leap Out",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
         ],
@@ -581,7 +581,7 @@
     "attacks": [
       {
         "name": "Splashy Toss",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -606,7 +606,7 @@
     "attacks": [
       {
         "name": "Ice Blade",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water",
           "Water"
@@ -844,7 +844,7 @@
     "attacks": [
       {
         "name": "Cursed Prose",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic"
         ],
@@ -1107,7 +1107,7 @@
     "attacks": [
       {
         "name": "Flail",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting"
         ],
@@ -1346,7 +1346,7 @@
     "attacks": [
       {
         "name": "Mental Surge",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ],
@@ -1472,7 +1472,7 @@
     "attacks": [
       {
         "name": "Stretch Tongue",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -1498,7 +1498,7 @@
     "attacks": [
       {
         "name": "Stretch Tongue",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless",
@@ -1627,7 +1627,7 @@
     "attacks": [
       {
         "name": "Squishy Healing",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -1922,7 +1922,7 @@
     "attacks": [
       {
         "name": "Flail",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting"
         ],
@@ -1947,7 +1947,7 @@
     "attacks": [
       {
         "name": "Squishy Healing",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],
@@ -2595,7 +2595,7 @@
       },
       {
         "name": "Genome Hacking",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless",
@@ -2622,7 +2622,7 @@
     "attacks": [
       {
         "name": "Linear Attack",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting"
         ],
@@ -2682,7 +2682,7 @@
     "attacks": [
       {
         "name": "Splashy Toss",
-        "damage": "0",
+        "damage": "",
         "cost": [
           null
         ],

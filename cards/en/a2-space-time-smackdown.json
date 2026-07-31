@@ -420,7 +420,7 @@
       {
         "name": "Call for Family",
         "effect": "Put 1 random Basic Pokémon from your deck onto your Bench.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -579,7 +579,7 @@
       {
         "name": "Stoke",
         "effect": "Take a Fire Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fire"
         ]
@@ -900,7 +900,7 @@
       {
         "name": "Nap",
         "effect": "Heal 20 damage from this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -1290,7 +1290,7 @@
       {
         "name": "Oceanic Gift",
         "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
         ]
@@ -1440,7 +1440,7 @@
       {
         "name": "Charge",
         "effect": "Take a Lightning Energy from your Energy Zone and attach it to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Lightning"
         ]
@@ -1491,7 +1491,7 @@
       {
         "name": "Hide",
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Lightning"
         ]
@@ -1541,7 +1541,7 @@
       {
         "name": "Volt Bolt",
         "effect": "Discard all Lightning Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Lightning",
           "Lightning",
@@ -1743,7 +1743,7 @@
       {
         "name": "Teleport",
         "effect": "Switch this Pokémon with 1 of your Benched Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -1975,7 +1975,7 @@
       {
         "name": "Psychic Arrow",
         "effect": "This attack does 20 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Psychic"
         ]
@@ -2499,7 +2499,7 @@
       {
         "name": "Skill Dive",
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness",
           "Darkness"
@@ -2674,7 +2674,7 @@
       {
         "name": "Swirling Disaster",
         "effect": "This attack does 10 damage to each of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -3496,7 +3496,7 @@
       {
         "name": "Super Fang",
         "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -3673,7 +3673,7 @@
       {
         "name": "Spin Storm",
         "effect": "Flip a coin. If heads, put your opponent's Active Pokémon into their hand.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
@@ -3947,7 +3947,7 @@
       {
         "name": "Call for Family",
         "effect": "Put 1 random Basic Pokémon from your deck onto your Bench.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -4088,7 +4088,7 @@
       {
         "name": "Oceanic Gift",
         "effect": "Choose 2 of your Benched Pokémon. For each of those Pokémon, take a Water Energy from your Energy Zone and attach it to that Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Water"
         ]
@@ -4113,7 +4113,7 @@
       {
         "name": "Hide",
         "effect": "Flip a coin. If heads, during your opponent's next turn, prevent all damage from—and effects of—attacks done to this Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Lightning"
         ]
@@ -4356,7 +4356,7 @@
       {
         "name": "Swirling Disaster",
         "effect": "This attack does 10 damage to each of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -4491,7 +4491,7 @@
       {
         "name": "Super Fang",
         "effect": "Halve your opponent's Active Pokémon's remaining HP, rounded down.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless",
           "Colorless"
