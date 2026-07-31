@@ -1342,7 +1342,7 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
       }
     ],
     "retreatCost": 4,
@@ -2044,7 +2044,7 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
       }
     ],
     "retreatCost": 4,
@@ -2185,7 +2185,7 @@
           "Colorless",
           "Colorless"
         ],
-        "effect": "During your opponent's next turn, this Pokémon takes  damage from attacks and has no Weakness."
+        "effect": "During your opponent's next turn, this Pokémon takes −20 damage from attacks and has no Weakness."
       }
     ],
     "retreatCost": 4,
