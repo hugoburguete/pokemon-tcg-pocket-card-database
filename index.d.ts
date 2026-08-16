@@ -1,32 +1,35 @@
 type Attack = {
   name: string;
+  damage: string;
   cost: string[];
-  extras: string;
-  damage: number;
+  effect?: string;
 };
 
 type Ability = {
   name: string;
-  description: string;
+  effect: string;
 };
 
 type Card = {
   id: string;
   name: string;
-  element: string;
-  type: string;
+  element: string | null;
+  type: 'Pokemon' | 'Trainer';
   subtype: string;
-  health: number;
-  craftingCost: number;
+  health: number | null;
   set: string;
-  pack: string;
-  rarity: string;
-  retreatCost: string[];
+  pack: string | null;
+  rarity: string | null;
+  retreatCost: number | null;
+  weakness: string | null;
+  evolvesFrom: string | null;
   attacks: Attack[];
   abilities: Ability[];
 };
 
 export declare const en: {
+  promoA: Card[];
+  promoB: Card[];
   geneticApex: Card[];
   mythicalIsland: Card[];
   spaceTimeSmackdown: Card[];
@@ -40,9 +43,13 @@ export declare const en: {
   deluxePackEx: Card[];
   megaRising: Card[];
   crimsonBlaze: Card[];
-
-  promoA: Card[];
-  promoB: Card[];
+  fantasticalParade: Card[];
+  paldeanWonders: Card[];
+  megaShine: Card[];
+  pulsingAura: Card[];
+  paradoxDrive: Card[];
+  everydayWonders: Card[];
+  rulerOfTheSkies: Card[];
 };
 
 export declare const fr: {
