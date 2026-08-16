@@ -804,7 +804,7 @@
       {
         "name": "Astonish",
         "effect": "Flip a coin. If heads, your opponent reveals a random card from their hand and shuffles it into their deck.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -909,7 +909,7 @@
       {
         "name": "Dash Attack",
         "effect": "This attack does 20 damage to 1 of your opponent's Benched Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Colorless"
         ]
@@ -1219,7 +1219,7 @@
       {
         "name": "Linear Attack",
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting"
         ]
@@ -1354,7 +1354,7 @@
       {
         "name": "Toxic",
         "effect": "Your opponent's Active Pokémon is now Poisoned. Do 20 damage to this Pokémon instead of the usual amount for this Special Condition.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Darkness"
         ]
@@ -2168,7 +2168,7 @@
       {
         "name": "Linear Attack",
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting"
         ]
@@ -2387,7 +2387,7 @@
       {
         "name": "Linear Attack",
         "effect": "This attack does 50 damage to 1 of your opponent's Pokémon.",
-        "damage": "0",
+        "damage": "",
         "cost": [
           "Fighting"
         ]

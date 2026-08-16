@@ -17,7 +17,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -41,7 +41,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Bulbasaur",
@@ -68,7 +68,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -95,7 +95,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -119,7 +119,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -143,7 +143,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [
       {
@@ -172,7 +172,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -196,7 +196,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Sunkern",
@@ -221,7 +221,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -247,7 +247,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Burmy",
@@ -272,7 +272,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
@@ -298,7 +298,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [
       {
@@ -330,7 +330,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -357,7 +357,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -381,7 +381,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
@@ -405,7 +405,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Houndour",
@@ -430,7 +430,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -456,7 +456,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Électrique",
     "abilities": [
       {
@@ -487,7 +487,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -513,7 +513,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -538,7 +538,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -562,7 +562,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -586,7 +586,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Clauncher",
@@ -610,7 +610,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -634,7 +634,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Magnemite",
@@ -660,7 +660,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Magneton",
@@ -685,7 +685,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -709,7 +709,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -734,7 +734,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Helioptile",
@@ -758,7 +758,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
@@ -783,7 +783,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": "Misdreavus",
@@ -807,7 +807,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
@@ -832,7 +832,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": "Solosis",
@@ -858,7 +858,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Obscurité",
     "abilities": [
       {
@@ -887,7 +887,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Métal",
     "abilities": [],
     "evolvesFrom": null,
@@ -912,7 +912,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Métal",
     "abilities": [],
     "evolvesFrom": "Spritzee",
@@ -938,7 +938,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Métal",
     "abilities": [],
     "evolvesFrom": null,
@@ -964,7 +964,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -989,7 +989,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Psy",
     "abilities": [],
     "evolvesFrom": null,
@@ -1015,7 +1015,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Psy",
     "abilities": [],
     "evolvesFrom": "Makuhita",
@@ -1039,7 +1039,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -1064,7 +1064,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psy",
     "abilities": [],
     "evolvesFrom": "Buneary",
@@ -1088,7 +1088,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psy",
     "abilities": [],
     "evolvesFrom": null,
@@ -1112,7 +1112,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psy",
     "abilities": [],
     "evolvesFrom": "Mienfoo",
@@ -1137,7 +1137,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1163,7 +1163,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Grimer",
@@ -1187,7 +1187,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -1211,7 +1211,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": "Purrloin",
@@ -1236,7 +1236,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1262,7 +1262,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Trubbish",
@@ -1289,7 +1289,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -1316,7 +1316,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -1341,7 +1341,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Nosepass",
@@ -1367,7 +1367,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -1391,7 +1391,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1415,7 +1415,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1440,7 +1440,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Porygon",
@@ -1466,7 +1466,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Porygon2",
@@ -1490,7 +1490,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -1515,7 +1515,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Starly",
@@ -1541,7 +1541,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Staravia",
@@ -1565,7 +1565,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1590,7 +1590,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Buneary",
@@ -1615,7 +1615,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1639,7 +1639,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [
       {
@@ -1732,7 +1732,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [
       {
@@ -1761,7 +1761,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Sunkern",
@@ -1787,7 +1787,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Obscurité",
     "abilities": [
       {
@@ -1818,7 +1818,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Métal",
     "abilities": [],
     "evolvesFrom": null,
@@ -1843,7 +1843,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1867,7 +1867,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1894,7 +1894,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -1921,7 +1921,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -1947,7 +1947,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -1972,7 +1972,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psy",
     "abilities": [],
     "evolvesFrom": "Buneary",
@@ -1999,7 +1999,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -2058,7 +2058,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Ivysaur",
@@ -2084,7 +2084,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Wartortle",
@@ -2109,7 +2109,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Psy",
     "abilities": [],
     "evolvesFrom": "Buneary",
@@ -2136,7 +2136,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Onix",
@@ -2163,7 +2163,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -2187,7 +2187,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -2212,7 +2212,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Oddish",
@@ -2238,7 +2238,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Gloom",
@@ -2265,7 +2265,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -2289,7 +2289,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -2314,7 +2314,7 @@
         ]
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Shellder",
@@ -2338,7 +2338,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -2362,7 +2362,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": "Sandshrew",
@@ -2386,7 +2386,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -2411,7 +2411,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Type: Null",
@@ -2445,7 +2445,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -2471,7 +2471,7 @@
         ]
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [
       {
@@ -2511,7 +2511,7 @@
         ]
       }
     ],
-    "retreatCost": "4",
+    "retreatCost": 4,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -2536,7 +2536,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [
       {
@@ -2567,7 +2567,7 @@
         ]
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [
       {

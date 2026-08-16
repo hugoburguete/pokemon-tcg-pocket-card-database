@@ -18,7 +18,7 @@
         "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -43,7 +43,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -68,7 +68,7 @@
         "effect": "Le Pokémon Actif de votre adversaire est maintenant Confus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -93,7 +93,7 @@
         "effect": "Si le Pokémon Actif de votre adversaire est Confus, cette attaque inflige 40 dégâts de plus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -118,7 +118,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -144,7 +144,7 @@
         "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Phantump",
@@ -170,7 +170,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
@@ -196,7 +196,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [
       {
@@ -228,7 +228,7 @@
         "effect": "S'il reste 110 PV ou moins à ce Pokémon, cette attaque inflige 80 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -253,7 +253,7 @@
         "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlés."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
@@ -278,7 +278,7 @@
         "effect": "Pendant votre prochain tour, l'attaque PokemonAttackName_ID_242 de ce Pokémon inflige + 30 dégâts."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Ponyta",
@@ -304,7 +304,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
@@ -331,7 +331,7 @@
         "effect": "Si Élekable est sur votre Banc, cette attaque inflige aussi 20 dégâts à chacun des Pokémon de Banc de votre adversaire."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Magmar",
@@ -357,7 +357,7 @@
         "effect": "Ce Pokémon s'inflige aussi 20 dégâts."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
@@ -383,7 +383,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -410,7 +410,7 @@
         "effect": "Lancez 3 pièces. Cette attaque inflige aussi 20 dégâts pour chaque côté face à chaque Pokémon de Banc de votre adversaire."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
@@ -437,7 +437,7 @@
         "effect": "Si au moins l'un de vos Pokémon a été mis K.O. par les dégâts d'une attaque pendant le dernier tour de votre adversaire, le Pokémon Actif de votre adversaire est maintenant paralysé."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -462,7 +462,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -488,7 +488,7 @@
         "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Piplup",
@@ -515,7 +515,7 @@
         "effect": "S'il reste plus de PV au Pokémon Actif de votre adversaire qu'à ce Pokémon, cette attaque inflige 60 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Prinplup",
@@ -540,7 +540,7 @@
         "effect": "Prenez une Énergie Eau de votre zone Énergie et attachez-la à l'un de vos Pokémon Eau de Banc."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -565,7 +565,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -591,7 +591,7 @@
         "effect": "Ce Pokémon s'inflige aussi 30 dégâts."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Pikachu",
@@ -616,7 +616,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -642,7 +642,7 @@
         "effect": "Si Maganon est sur votre Banc, cette attaque inflige 70 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electabuzz",
@@ -667,7 +667,7 @@
         "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -693,7 +693,7 @@
         "effect": "Cette attaque inflige 30 dégâts supplémentaires pour chaque point que vous avez gagné."
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electrike",
@@ -718,7 +718,7 @@
         "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
@@ -745,7 +745,7 @@
         "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": "Drowzee",
@@ -771,7 +771,7 @@
         "effect": "Une attaque est choisie au hasard parmi celles des Pokémon dans la main et dans le deck de votre adversaire. Utilisez l'attaque ainsi choisie comme effet de cette attaque."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
@@ -796,7 +796,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
@@ -821,7 +821,7 @@
         "effect": "Si votre adversaire a exactement 2, 4 ou 6 cartes dans sa main, cette attaque inflige 40 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": "Spoink",
@@ -846,7 +846,7 @@
         "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -872,7 +872,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": "Diglett",
@@ -900,7 +900,7 @@
         "effect": "Défaussez 2 Énergies au hasard parmi celles attachées à tous vos Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -926,7 +926,7 @@
         "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -951,7 +951,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -977,7 +977,7 @@
         "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Gastly",
@@ -1005,7 +1005,7 @@
         "effect": "Pendant le procha n tour de voutre adversaire, il ne peut pas jouer de cartes Dresseur de sa main."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Haunter",
@@ -1032,7 +1032,7 @@
         "effect": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Plante",
     "abilities": [
       {
@@ -1063,7 +1063,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1089,7 +1089,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Trubbish",
@@ -1114,7 +1114,7 @@
         "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -1139,7 +1139,7 @@
         "effect": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": "Zorua",
@@ -1165,7 +1165,7 @@
         "effect": "Déplacez 2 Énergies Obscurité de ce Pokémon vers l'un de vos Pokémon de Banc."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -1192,7 +1192,7 @@
         "effect": "Ce Pokémon s'inflige aussi 100 dégâts ainsi que 50 dégâts à tous les Pokémon de Banc (les vôtres et ceux de votre adversaire)."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Pineco",
@@ -1219,7 +1219,7 @@
         "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 50 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Scyther",
@@ -1244,7 +1244,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -1270,7 +1270,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -1296,7 +1296,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [
       {
@@ -1326,7 +1326,7 @@
         "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1351,7 +1351,7 @@
         "effect": "Prenez une Énergie Eau et une Énergie Électrique de votre zone Énergie et attachez-les à ce Pokémon."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dratini",
@@ -1378,7 +1378,7 @@
         "effect": "Défaussez une Énergie Eau et une Énergie Électrique attachées à ce Pokémon."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
@@ -1404,7 +1404,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1430,7 +1430,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Axew",
@@ -1457,7 +1457,7 @@
         "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc (les vôtres et ceux de votre adversaire)."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Fraxure",
@@ -1483,7 +1483,7 @@
         "effect": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -1509,7 +1509,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1536,7 +1536,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Jigglypuff",
@@ -1562,7 +1562,7 @@
         "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1587,7 +1587,7 @@
         "effect": "Piochez une carte."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -1612,7 +1612,7 @@
         "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1638,7 +1638,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Minccino",
@@ -1664,7 +1664,7 @@
         "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [
       {
@@ -1776,7 +1776,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -1803,7 +1803,7 @@
         "effect": "S'il reste plus de PV au Pokémon Actif de votre adversaire qu'à ce Pokémon, cette attaque inflige 60 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Prinplup",
@@ -1831,7 +1831,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -1857,7 +1857,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -1883,7 +1883,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [
       {
@@ -1914,7 +1914,7 @@
         "effect": "Cette attaque inflige 20 dégâts supplémentaires pour chaque Pokémon de Banc de votre adversaire."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -1941,7 +1941,7 @@
         "effect": "S'il reste 110 PV ou moins à ce Pokémon, cette attaque inflige 80 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -1968,7 +1968,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
@@ -1994,7 +1994,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electrike",
@@ -2022,7 +2022,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Haunter",
@@ -2049,7 +2049,7 @@
         "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 50 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Scyther",
@@ -2108,7 +2108,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
@@ -2134,7 +2134,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electrike",
@@ -2160,7 +2160,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
@@ -2186,7 +2186,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Obscurité",
     "abilities": [],
     "evolvesFrom": null,
@@ -2211,7 +2211,7 @@
         "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -2236,7 +2236,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -2261,7 +2261,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": null,
@@ -2287,7 +2287,7 @@
         "effect": "Lancez une pièce jusqu'à ce que vous obteniez pile. Cette attaque inflige 40 dégâts supplémentaires pour chaque côté face."
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Phantump",
@@ -2313,7 +2313,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
@@ -2339,7 +2339,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [
       {
@@ -2369,7 +2369,7 @@
         "effect": "Le Pokémon Actif de votre adversaire est maintenant Brûlés."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": null,
@@ -2394,7 +2394,7 @@
         "effect": "Pendant votre prochain tour, l'attaque PokemonAttackName_ID_242 de ce Pokémon inflige + 30 dégâts."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Ponyta",
@@ -2420,7 +2420,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -2445,7 +2445,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -2471,7 +2471,7 @@
         "effect": "Ce Pokémon s'inflige aussi 30 dégâts."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Pikachu",
@@ -2496,7 +2496,7 @@
         "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 30 dégâts de plus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -2522,7 +2522,7 @@
         "effect": "Ce Pokémon s'inflige aussi 10 dégâts."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": null,
@@ -2547,7 +2547,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": null,
@@ -2573,7 +2573,7 @@
         "effect": "Échangez ce Pokémon contre l'un de vos Pokémon de Banc."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Gastly",
@@ -2598,7 +2598,7 @@
         "effect": "Lancez une pièce. Si c'est pile, cette attaque ne fait rien."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": null,
@@ -2623,7 +2623,7 @@
         "effect": "Cette attaque inflige 20 dégâts pour chaque Énergie attachée à tous les Pokémon de votre adversaire."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Plante",
     "abilities": [],
     "evolvesFrom": "Zorua",
@@ -2650,7 +2650,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Pineco",
@@ -2675,7 +2675,7 @@
         "effect": "Lancez une pièce. Si c'est face, cette attaque inflige 20 dégâts de plus."
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -2700,7 +2700,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dratini",
@@ -2727,7 +2727,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Dragonair",
@@ -2753,7 +2753,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": null,
@@ -2779,7 +2779,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Axew",
@@ -2806,7 +2806,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": null,
     "abilities": [],
     "evolvesFrom": "Fraxure",
@@ -2833,7 +2833,7 @@
         "effect": "S'il reste 110 PV ou moins à ce Pokémon, cette attaque inflige 80 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Eau",
     "abilities": [],
     "evolvesFrom": "Charmeleon",
@@ -2860,7 +2860,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "3",
+    "retreatCost": 3,
     "weakness": "Électrique",
     "abilities": [],
     "evolvesFrom": "Slowpoke",
@@ -2886,7 +2886,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "0",
+    "retreatCost": 0,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Electrike",
@@ -2914,7 +2914,7 @@
         "effect": ""
       }
     ],
-    "retreatCost": "1",
+    "retreatCost": 1,
     "weakness": "Combat",
     "abilities": [],
     "evolvesFrom": "Haunter",
@@ -2941,7 +2941,7 @@
         "effect": "Si ce Pokémon a été déplacé de votre Banc vers le Poste Actif pendant ce tour, cette attaque inflige 50 dégâts supplémentaires."
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [],
     "evolvesFrom": "Scyther",
@@ -2967,7 +2967,7 @@
         "effect": null
       }
     ],
-    "retreatCost": "2",
+    "retreatCost": 2,
     "weakness": "Feu",
     "abilities": [
       {
