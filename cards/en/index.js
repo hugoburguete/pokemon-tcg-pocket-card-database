@@ -18,6 +18,8 @@ const paldeanWonders = require('./b2a-paldean-wonders.json');
 const megaShine = require('./b2b-mega-shine.json');
 const pulsingAura = require('./b3-pulsing-aura.json');
 const paradoxDrive = require('./b3a-paradox-drive.json');
+const everydayWonders = require('./b3b-everyday-wonders.json');
+const rulerOfTheSkies = require('./b4-ruler-of-the-skies.json');
 
 module.exports = {
   promoA,
@@ -40,4 +42,6 @@ module.exports = {
   megaShine,
   pulsingAura,
   paradoxDrive,
+  everydayWonders,
+  rulerOfTheSkies,
 };
