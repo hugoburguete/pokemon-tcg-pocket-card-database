@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pokémon TCG Pocket — Card Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true"></span>
+        <div class="brand-text">
+          <h1>Pokémon TCG Pocket</h1>
+          <p>Card Database Viewer</p>
+        </div>
+      </div>
+      <div class="search-wrap">
+        <input
+          id="search"
+          type="search"
+          autocomplete="off"
+          spellcheck="false"
+          placeholder="Search everything — e.g. “discard”, “Venusaur ex”, “Stage 2”, “Mewtwo pack”"
+        />
+        <button id="clear-search" type="button" title="Clear search">×</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="filters" id="filters">
+      <div class="filters-head">
+        <h2>Filters</h2>
+        <button id="reset-filters" type="button">Reset</button>
+      </div>
+
+      <div class="filter-group">
+        <label for="f-element">Element</label>
+        <select id="f-element"></select>
+      </div>
+
+      <div class="filter-group">
+        <label for="f-type">Card type</label>
+        <select id="f-type"></select>
+      </div>
+
+      <div class="filter-group">
+        <label for="f-subtype">Subtype</label>
+        <select id="f-subtype"></select>
+      </div>
+
+      <div class="filter-group">
+        <label for="f-rarity">Rarity</label>
+        <select id="f-rarity"></select>
+      </div>
+
+      <div class="filter-group">
+        <label for="f-set">Set</label>
+        <select id="f-set"></select>
+      </div>
+
+      <div class="filter-group">
+        <label for="f-pack">Booster pack</label>
+        <select id="f-pack"></select>
+      </div>
+
+      <div class="filter-group">
+        <label for="f-weakness">Weakness</label>
+        <select id="f-weakness"></select>
+      </div>
+
+      <div class="filter-group">
+        <label for="f-retreat">Retreat cost</label>
+        <select id="f-retreat"></select>
+      </div>
+
+      <div class="filter-group filter-row">
+        <div>
+          <label for="f-hp-min">HP min</label>
+          <input id="f-hp-min" type="number" min="0" step="10" placeholder="0" />
+        </div>
+        <div>
+          <label for="f-hp-max">HP max</label>
+          <input id="f-hp-max" type="number" min="0" step="10" placeholder="∞" />
+        </div>
+      </div>
+
+      <div class="filter-group checks">
+        <label class="check">
+          <input type="checkbox" id="f-has-ability" />
+          Has an ability
+        </label>
+        <label class="check">
+          <input type="checkbox" id="f-has-attack" />
+          Has an attack
+        </label>
+      </div>
+    </aside>
+
+    <main class="results">
+      <div class="results-bar">
+        <span id="count" class="count">Loading…</span>
+        <div class="results-bar-right">
+          <label for="sort" class="sort-label">Sort</label>
+          <select id="sort">
+            <option value="set">Set order</option>
+            <option value="name-asc">Name A–Z</option>
+            <option value="name-desc">Name Z–A</option>
+            <option value="hp-desc">HP high→low</option>
+            <option value="hp-asc">HP low→high</option>
+            <option value="rarity">Rarity</option>
+          </select>
+          <button id="toggle-filters" type="button">Filters</button>
+        </div>
+      </div>
+
+      <div id="grid" class="grid"></div>
+
+      <div class="load-more-wrap">
+        <button id="load-more" type="button">Load more</button>
+      </div>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p>Data: <a href="https://github.com/firebellys/pokemon-tcg-pocket-card-database">firebellys/pokemon-tcg-pocket-card-database</a> · Sourced from Pocket Limitless</p>
+  </footer>
+
+  <script src="cards.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
